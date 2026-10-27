@@ -48,7 +48,7 @@ jobs:
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
         run: node scripts/update-offres.mjs
 
-      - name: Télétravail & freelance (Remotive, Remote OK, Himalayas, Jobicy)
+      - name: Télétravail & freelance (Remotive, Remote OK, Himalayas, Jobicy, We Work Remotely)
         id: remote
         continue-on-error: true
         run: node scripts/update-teletravail.mjs

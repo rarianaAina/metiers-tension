@@ -1,5 +1,5 @@
 {
- "majLe": "2026-10-27T16:18:30.154Z",
+ "majLe": "2026-10-27T16:25:04.585Z",
  "sources": {
   "remotive": {
    "nom": "Remotive",
@@ -16,6 +16,10 @@
   "jobicy": {
    "nom": "Jobicy",
    "url": "https://jobicy.com"
+  },
+  "wwr": {
+   "nom": "We Work Remotely",
+   "url": "https://weworkremotely.com"
   }
  },
  "offres": [
@@ -31,6 +35,7 @@
    "salaire": "30–70 USD /h",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-24",
    "url": "https://himalayas.app/companies/micro1/jobs/humanitarian-aid-representative?utm_source=api"
   },
   {
@@ -45,6 +50,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-23",
    "url": "https://himalayas.app/companies/micro1/jobs/military-legal-advisor?utm_source=api"
   },
   {
@@ -59,6 +65,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-23",
    "url": "https://himalayas.app/companies/micro1/jobs/intelligence-analyst?utm_source=api"
   },
   {
@@ -75,6 +82,7 @@
     "Data Science"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/zup-innovation/jobs/pessoa-cientista-de-dados-senior?utm_source=api"
   },
   {
@@ -92,6 +100,7 @@
     "Marketing"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/bybit/jobs/business-development-specialist?utm_source=api"
   },
   {
@@ -109,6 +118,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/nortal/jobs/1601-senior-data-platform-and-automation-engineer?utm_source=api"
   },
   {
@@ -125,6 +135,7 @@
     "Operations"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/gofasti/jobs/1185-analytics-project-manager?utm_source=api"
   },
   {
@@ -142,6 +153,7 @@
     "Operations"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/self-bill-pro/jobs/implementation-manager?utm_source=api"
   },
   {
@@ -158,6 +170,7 @@
     "Design"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/parallelhq/jobs/associate-director-product-design?utm_source=api"
   },
   {
@@ -174,6 +187,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/nuitee/jobs/engineering-manager-pricing-revenue?utm_source=api"
   },
   {
@@ -190,6 +204,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/parallelhq/jobs/web-development-lead?utm_source=api"
   },
   {
@@ -206,6 +221,7 @@
     "Data Science"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/micro1/jobs/food-delivery-ai-response-evaluator?utm_source=api"
   },
   {
@@ -222,6 +238,7 @@
     "Operations"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/hard-rock-digital/jobs/senior-coordinator-casino-operations?utm_source=api"
   },
   {
@@ -238,6 +255,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/polars/jobs/founding-account-executive?utm_source=api"
   },
   {
@@ -254,6 +272,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/deephealth/jobs/technical-services-engineer?utm_source=api"
   },
   {
@@ -270,6 +289,7 @@
     "Finance"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/hylant/jobs/reinsurance-accountant-6996531716?utm_source=api"
   },
   {
@@ -284,6 +304,7 @@
    "salaire": "22–24 USD /h",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/ivy-rehab-network/jobs/payer-specialist-8250108000?utm_source=api"
   },
   {
@@ -300,6 +321,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/kainos/jobs/workday-extend-developer?utm_source=api"
   },
   {
@@ -316,6 +338,7 @@
     "Data Science"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/vetsez/jobs/data-engineer?utm_source=api"
   },
   {
@@ -332,6 +355,7 @@
     "Customer Service"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/conduent/jobs/pension-benefits-services-specialist-1740237565?utm_source=api"
   },
   {
@@ -348,6 +372,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/trase-systems/jobs/director-production-and-infrastructure-engineering?utm_source=api"
   },
   {
@@ -364,6 +389,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/healthie/jobs/staff-engineer-automation?utm_source=api"
   },
   {
@@ -378,6 +404,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/confluent-health/jobs/hris-analyst?utm_source=api"
   },
   {
@@ -394,6 +421,7 @@
     "Logistics"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/asset-equipment-specialist-junior?utm_source=api"
   },
   {
@@ -410,6 +438,7 @@
     "Customer Service"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/ionq-com/jobs/senior-manager-global-customer-success?utm_source=api"
   },
   {
@@ -426,6 +455,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/guidewire-application-developer-4597267239?utm_source=api"
   },
   {
@@ -442,6 +472,7 @@
     "Marketing"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/college-board/jobs/director-community-management?utm_source=api"
   },
   {
@@ -458,6 +489,7 @@
     "Human Resources"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/wing-assistant/jobs/part-time-insurance-virtual-assistant-21233?utm_source=api"
   },
   {
@@ -474,6 +506,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/sotheby-s-institute-of-art/jobs/front-end-developer?utm_source=api"
   },
   {
@@ -488,6 +521,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/argano/jobs/principal-consultant-oracle-cloud-epm-fcc-arc-managed-services?utm_source=api"
   },
   {
@@ -504,6 +538,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/multi-cloud-solutions-architect-5604319973?utm_source=api"
   },
   {
@@ -518,6 +553,7 @@
    "salaire": "16.5–23.1 USD /h",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/centerstone/jobs/crisis-care-consultant?utm_source=api"
   },
   {
@@ -534,6 +570,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/aptive/jobs/program-manager?utm_source=api"
   },
   {
@@ -550,6 +587,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/sharegate/jobs/specialiste-staff-operations-de-securite?utm_source=api"
   },
   {
@@ -564,6 +602,7 @@
    "salaire": "92k–158k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/logistics-management-institute/jobs/information-system-security-officer-isso?utm_source=api"
   },
   {
@@ -580,6 +619,7 @@
     "Data Science"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/nttdata/jobs/data-analyst-remote-up-in?utm_source=api"
   },
   {
@@ -596,6 +636,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/rebuild-manufacturing/jobs/sr-forward-deployed-engineer?utm_source=api"
   },
   {
@@ -612,6 +653,7 @@
     "Data Science"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/alphasense/jobs/product-content-analyst-i?utm_source=api"
   },
   {
@@ -626,6 +668,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/dallas-county-hospital-district-d-b-a-parkland-health/jobs/senior-health-information-management-associate?utm_source=api"
   },
   {
@@ -642,6 +685,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/cedars-sinai-medical-center/jobs/program-manager-digital-scheduling-and-access-epic-certified-remote?utm_source=api"
   },
   {
@@ -656,6 +700,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/profitcoach/jobs/property-management-trust-accountant-ph?utm_source=api"
   },
   {
@@ -670,6 +715,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/cedars-sinai-medical-center/jobs/senior-revenue-cycle-analyst?utm_source=api"
   },
   {
@@ -686,6 +732,7 @@
     "Human Resources"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/staffing-for-doctors/jobs/surgical-coordinator-and-scheduler-armenian-speaking-virtual-assistant?utm_source=api"
   },
   {
@@ -700,6 +747,7 @@
    "salaire": "48k–50k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/stride-inc/jobs/health-pe-teacher-2835891812?utm_source=api"
   },
   {
@@ -716,6 +764,7 @@
     "Healthcare"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/cardinal-health/jobs/nurse-individualized-care-nurse-care-manager?utm_source=api"
   },
   {
@@ -730,6 +779,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/cedars-sinai-medical-center/jobs/revenue-cycle-specialist-ii-commercial-collections?utm_source=api"
   },
   {
@@ -746,6 +796,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/dacodes/jobs/backend-engineer-nodejs-typescript?utm_source=api"
   },
   {
@@ -760,6 +811,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/cedars-sinai-medical-center/jobs/facility-inpatient-surgical-and-claims-edit-auditor?utm_source=api"
   },
   {
@@ -777,6 +829,7 @@
     "Marketing"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/smart-apartment-data/jobs/virtual-call-center-agent-outbound-market-research-remote-philippines?utm_source=api"
   },
   {
@@ -794,6 +847,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/genuine-parts-company/jobs/ecommerce-requirements-analyst?utm_source=api"
   },
   {
@@ -810,6 +864,7 @@
     "Operations"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/tehora/jobs/conseiller-charge-de-projet-specialise-en-technologies-de-l-information?utm_source=api"
   },
   {
@@ -824,6 +879,7 @@
    "salaire": "231k–284k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/wex/jobs/senior-director-semantic-data-platform?utm_source=api"
   },
   {
@@ -838,6 +894,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/danaher/jobs/advanced-workflow-specialist-electron-microscopy-sample-preparation-d-f-m-7236252101?utm_source=api"
   },
   {
@@ -854,6 +911,7 @@
     "Customer Service"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/datavisor/jobs/customer-success-manager-fraud-aml-strategy-8205139148?utm_source=api"
   },
   {
@@ -870,6 +928,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/wex/jobs/sr-product-manager-embedded-payments?utm_source=api"
   },
   {
@@ -886,6 +945,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/sanford-health/jobs/product-manager?utm_source=api"
   },
   {
@@ -902,6 +962,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/runware/jobs/senior-software-engineer?utm_source=api"
   },
   {
@@ -918,6 +979,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/icorepioneer/jobs/asp-net-developer?utm_source=api"
   },
   {
@@ -934,6 +996,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/dulcedo-management/jobs/senior-zoho-developer?utm_source=api"
   },
   {
@@ -950,6 +1013,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-11-22",
    "url": "https://himalayas.app/companies/asg-company/jobs/senior-software-engineer-solutions-architect?utm_source=api"
   },
   {
@@ -967,6 +1031,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/bugcrowd/jobs/reinforcement-learning-engineer?utm_source=api"
   },
   {
@@ -981,6 +1046,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/hurc/jobs/program-director-coding-hb-5785740020?utm_source=api"
   },
   {
@@ -997,6 +1063,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/openshift-administrator-774839425?utm_source=api"
   },
   {
@@ -1013,6 +1080,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/fresche-solutions-inc/jobs/senior-rpg-programmer-analyst-remote-fs465?utm_source=api"
   },
   {
@@ -1030,6 +1098,7 @@
     "Content Creator"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/there-is-talent/jobs/marketing-va-tt291026ft?utm_source=api"
   },
   {
@@ -1044,6 +1113,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/ana-luisa/jobs/wholesale-coordinator?utm_source=api"
   },
   {
@@ -1058,6 +1128,7 @@
    "salaire": "235k–255k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/hello-heart/jobs/senior-director-investor-relations?utm_source=api"
   },
   {
@@ -1074,6 +1145,7 @@
     "Human Resources"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/african-climate-foundation/jobs/grants-coordinator?utm_source=api"
   },
   {
@@ -1091,6 +1163,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/exeter-finance-llc/jobs/project-manager-iii?utm_source=api"
   },
   {
@@ -1107,6 +1180,7 @@
     "Customer Service"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/cellular-sales/jobs/verizon-customer-service-representative?utm_source=api"
   },
   {
@@ -1121,6 +1195,7 @@
    "salaire": "81k–113k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/world-vision-international/jobs/design-monitoring-and-evaluation-specialist?utm_source=api"
   },
   {
@@ -1137,6 +1212,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/broadridge/jobs/sales-solutions-consultant-sec-reporting-compliance-remote-usa?utm_source=api"
   },
   {
@@ -1154,6 +1230,7 @@
     "Legal"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/sensiba-llp/jobs/senior-grc-analyst-i-soc?utm_source=api"
   },
   {
@@ -1168,6 +1245,7 @@
    "salaire": "120k–160k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/fhi-360/jobs/technical-advisor-ii-malaria?utm_source=api"
   },
   {
@@ -1185,6 +1263,7 @@
     "Operations"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/didomi/jobs/senior-customer-onboarding-specialist?utm_source=api"
   },
   {
@@ -1201,6 +1280,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/avalon-healthcare-solutions/jobs/director-software-engineering?utm_source=api"
   },
   {
@@ -1218,6 +1298,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/five-sigma/jobs/business-data-analyst-aus?utm_source=api"
   },
   {
@@ -1232,6 +1313,7 @@
    "salaire": "43k–50k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/aon/jobs/broking-coordinator?utm_source=api"
   },
   {
@@ -1248,6 +1330,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/qualysoft/jobs/java-qa-automation-engineer-banking?utm_source=api"
   },
   {
@@ -1264,6 +1347,7 @@
     "Finance"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/capitex/jobs/fraud-analyst-l1-banking-remote-night-shift-2-month-contract?utm_source=api"
   },
   {
@@ -1280,6 +1364,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/ratehawk/jobs/account-manager-italy-north?utm_source=api"
   },
   {
@@ -1296,6 +1381,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/human-made/jobs/freelance-scrum-master-americas?utm_source=api"
   },
   {
@@ -1312,6 +1398,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/avalon-healthcare-solutions/jobs/quality-assurance-engineer-iii?utm_source=api"
   },
   {
@@ -1328,6 +1415,7 @@
     "Design"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/hunt-st/jobs/graphic-designer-019-1326?utm_source=api"
   },
   {
@@ -1344,6 +1432,7 @@
     "Finance"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/hunt-st/jobs/senior-bookkeeper-031-1349?utm_source=api"
   },
   {
@@ -1361,6 +1450,7 @@
     "Design"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/incubyte/jobs/product-craftsperson?utm_source=api"
   },
   {
@@ -1377,6 +1467,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/baldwin-risk-partners-llc/jobs/placement-specialist-private-risk?utm_source=api"
   },
   {
@@ -1393,6 +1484,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/selectquote/jobs/final-expense-sales-agent-lha010427?utm_source=api"
   },
   {
@@ -1409,6 +1501,7 @@
     "Customer Service"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/epic/jobs/integration-specialist?utm_source=api"
   },
   {
@@ -1423,6 +1516,7 @@
    "salaire": "39k–48k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/lumeris/jobs/appeals-coordinator?utm_source=api"
   },
   {
@@ -1439,6 +1533,7 @@
     "Human Resources"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/vetsource/jobs/people-organization-generalist-leave-of-absence?utm_source=api"
   },
   {
@@ -1453,6 +1548,7 @@
    "salaire": "139k–200k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/oura-health-ltd/jobs/senior-manager-finance-transformation?utm_source=api"
   },
   {
@@ -1469,6 +1565,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/natera/jobs/senior-software-engineer-portal-application?utm_source=api"
   },
   {
@@ -1487,6 +1584,7 @@
     "Customer Service"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/kimballelectronics/jobs/business-manager?utm_source=api"
   },
   {
@@ -1501,6 +1599,7 @@
    "salaire": "89k–134k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/northwestern-mutual/jobs/di-benefits-medical-cons?utm_source=api"
   },
   {
@@ -1517,6 +1616,7 @@
     "Product"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/ltc-language-solutions/jobs/language-training-program-manager?utm_source=api"
   },
   {
@@ -1531,6 +1631,7 @@
    "salaire": "55k–60k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/private-health-management/jobs/provider-network-specialist-1035070121?utm_source=api"
   },
   {
@@ -1547,6 +1648,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/solventum/jobs/cloud-platform-automation-engineer?utm_source=api"
   },
   {
@@ -1561,6 +1663,7 @@
    "salaire": "35–38 USD /h",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/enlyte-group-llc/jobs/triage-clinician?utm_source=api"
   },
   {
@@ -1577,6 +1680,7 @@
     "Design"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/digihyre/jobs/3d-cad-industrial-designer?utm_source=api"
   },
   {
@@ -1593,6 +1697,7 @@
     "Operations"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/power-digital-marketing/jobs/project-manager-core?utm_source=api"
   },
   {
@@ -1607,6 +1712,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/sagility/jobs/vice-president-analyst-advisor-relations?utm_source=api"
   },
   {
@@ -1621,6 +1727,7 @@
    "salaire": "192k–264k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/argenx/jobs/director-regional-pharmacovigilance?utm_source=api"
   },
   {
@@ -1638,6 +1745,7 @@
     "Finance"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/learntastic/jobs/human-resources-executive-2133301031?utm_source=api"
   },
   {
@@ -1652,6 +1760,7 @@
    "salaire": null,
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/humanit-digital-consulting/jobs/sap-s-4hana-developer-abap-accounts-payable-integration-full-remote-europe?utm_source=api"
   },
   {
@@ -1666,6 +1775,7 @@
    "salaire": "96k–132k USD /an",
    "tags": [],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/flex-com/jobs/regional-service-manager?utm_source=api"
   },
   {
@@ -1683,6 +1793,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/data-engineer-migration-specialist?utm_source=api"
   },
   {
@@ -1701,6 +1812,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/peraton/jobs/technical-support-representative?utm_source=api"
   },
   {
@@ -1717,6 +1829,7 @@
     "Human Resources"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/commercial-metals-company/jobs/talent-acquisition-specialist-remote-remote-tx-us-78245?utm_source=api"
   },
   {
@@ -1733,6 +1846,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/machinify/jobs/lead-rust-software-engineer?utm_source=api"
   },
   {
@@ -1749,6 +1863,7 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/samsara/jobs/manager-account-development?utm_source=api"
   },
   {
@@ -1765,6 +1880,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/intelligent-infrastructure-engineer-3981679724?utm_source=api"
   },
   {
@@ -1781,6 +1897,7 @@
     "Developer"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/lean-tech/jobs/lead-fullstack-developer?utm_source=api"
   },
   {
@@ -1797,7 +1914,263 @@
     "Sales"
    ],
    "date": "2026-10-27",
+   "expire": "2026-12-26",
    "url": "https://himalayas.app/companies/emburse/jobs/account-executive-smb?utm_source=api"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager",
+   "source": "wwr",
+   "titre": "Executive Assistant / Project Manager",
+   "entreprise": "Trusted Building Technologies Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/trusted-building-technologies-inc-executive-assistant-project-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-video-editor",
+   "source": "wwr",
+   "titre": "Video Editor",
+   "entreprise": "PlanetScale",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-video-editor"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
+   "source": "wwr",
+   "titre": "Director, Category Growth (General Manager)",
+   "entreprise": "StockX",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
+   "source": "wwr",
+   "titre": "Broker Dealer Operations, Associate",
+   "entreprise": "Coinbase",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-solutions-engineer",
+   "source": "wwr",
+   "titre": "Solutions Engineer",
+   "entreprise": "PlanetScale",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-solutions-engineer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-policy-anaylst-government-regulatory-affairs",
+   "source": "wwr",
+   "titre": "Policy Anaylst - Government & Regulatory Affairs",
+   "entreprise": "ZoomInfo Technologies LLC",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-policy-anaylst-government-regulatory-affairs"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/veracode-senior-website-manager",
+   "source": "wwr",
+   "titre": "Senior Website Manager",
+   "entreprise": "Veracode",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/veracode-senior-website-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
+   "source": "wwr",
+   "titre": "Associate Manager, Internal Audit",
+   "entreprise": "Coinbase",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/fivetran-enterprise-account-executive",
+   "source": "wwr",
+   "titre": "Enterprise Account Executive",
+   "entreprise": "Fivetran",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-account-executive"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+   "source": "wwr",
+   "titre": "Senior IT Systems Engineer",
+   "entreprise": "Upsun",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-corporate-tax",
+   "source": "wwr",
+   "titre": "Director, Corporate Tax",
+   "entreprise": "ZoomInfo Technologies LLC",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-corporate-tax"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-director-solutions-engineering-enterprise-amer-1",
+   "source": "wwr",
+   "titre": "Director, Solutions Engineering (Enterprise AMER)",
+   "entreprise": "Cribl",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cribl-director-solutions-engineering-enterprise-amer-1"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/veracode-manager-customer-onboarding-success",
+   "source": "wwr",
+   "titre": "Manager, Customer Onboarding & Success",
+   "entreprise": "Veracode",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/veracode-manager-customer-onboarding-success"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/upsun-sales-enablement-manager",
+   "source": "wwr",
+   "titre": "Sales Enablement Manager",
+   "entreprise": "Upsun",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/upsun-sales-enablement-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home",
+   "source": "wwr",
+   "titre": "MSP Mac Help Desk Guru (work from home)",
+   "entreprise": "Ignition, Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-27",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home"
   },
   {
    "id": "remoteok-1137573",
@@ -1817,6 +2190,7 @@
     "exec"
    ],
    "date": "2026-10-26",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573"
   },
   {
@@ -1837,6 +2211,7 @@
     "python"
    ],
    "date": "2026-10-26",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572"
   },
   {
@@ -1853,6 +2228,7 @@
     "Developer"
    ],
    "date": "2026-10-26",
+   "expire": "2026-11-25",
    "url": "https://himalayas.app/companies/alien-intellect/jobs/senior-software-engineer-8699633569?utm_source=api"
   },
   {
@@ -1869,7 +2245,229 @@
     "Software Engineering"
    ],
    "date": "2026-10-26",
+   "expire": null,
    "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+   "source": "wwr",
+   "titre": "Senior Software Engineer",
+   "entreprise": "Vested, Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/tailscale-head-of-communications",
+   "source": "wwr",
+   "titre": "Head of Communications",
+   "entreprise": "Tailscale",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/tailscale-head-of-communications"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/replika-lifecycle-crm-specialist",
+   "source": "wwr",
+   "titre": "Lifecycle & CRM Specialist",
+   "entreprise": "Replika",
+   "lieu": "EMEA",
+   "zone": "afrique",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/replika-lifecycle-crm-specialist"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
+   "source": "wwr",
+   "titre": "Head of Design | Maps Platform (Remote in Europe)",
+   "entreprise": "MapTiler",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "contrat",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
+   "source": "wwr",
+   "titre": "Frontend Engineer, Ads",
+   "entreprise": "Reddit",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/mercury-customer-support-manager-risk",
+   "source": "wwr",
+   "titre": "Customer Support Manager - Risk",
+   "entreprise": "Mercury",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-manager-risk"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
+   "source": "wwr",
+   "titre": "Customer Support Specialist",
+   "entreprise": "Mercury",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/brex-senior-field-marketing-manager",
+   "source": "wwr",
+   "titre": "Senior Field Marketing Manager",
+   "entreprise": "Brex",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales and Marketing"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/brex-senior-field-marketing-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations",
+   "source": "wwr",
+   "titre": "Director, Partner Operations",
+   "entreprise": "Ping Identity",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/reddit-engineering-manager-knowledge-graph-platform",
+   "source": "wwr",
+   "titre": "Engineering Manager, Knowledge Graph Platform",
+   "entreprise": "Reddit",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-knowledge-graph-platform"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture",
+   "source": "wwr",
+   "titre": "Director, Global Alliances – Accenture",
+   "entreprise": "Ping Identity",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
+   "source": "wwr",
+   "titre": "DevOps Engineer II, Cloud Platform",
+   "entreprise": "Upstart",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/datadog-key-accounts-executive",
+   "source": "wwr",
+   "titre": "Key Accounts Executive",
+   "entreprise": "Datadog",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-26",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/datadog-key-accounts-executive"
   },
   {
    "id": "remoteok-1137571",
@@ -1889,6 +2487,7 @@
     "full stack"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571"
   },
   {
@@ -1905,6 +2504,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels"
   },
   {
@@ -1921,6 +2521,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156947-software-engineer-branching"
   },
   {
@@ -1937,6 +2538,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity"
   },
   {
@@ -1953,6 +2555,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3"
   },
   {
@@ -1969,6 +2572,7 @@
     "Business Development"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156944-aws-gaming-gtm-segment-lead"
   },
   {
@@ -1985,6 +2589,7 @@
     "Data Science & Analytics"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156941-senior-data-analyst-marketing"
   },
   {
@@ -2001,6 +2606,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156940-software-engineer-storage"
   },
   {
@@ -2017,6 +2623,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156943-product-manager-realtime"
   },
   {
@@ -2033,6 +2640,7 @@
     "Customer Support & Success"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156942-technical-account-management-tam-leader"
   },
   {
@@ -2049,6 +2657,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156939-data-api-engineer"
   },
   {
@@ -2065,6 +2674,7 @@
     "Healthcare & Medical"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156901-medical-expert-fertility-contractor"
   },
   {
@@ -2081,6 +2691,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics"
   },
   {
@@ -2097,6 +2708,7 @@
     "Customer Support & Success"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149554-support-engineering-manager"
   },
   {
@@ -2113,6 +2725,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149550-security-software-engineer"
   },
   {
@@ -2129,6 +2742,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu"
   },
   {
@@ -2145,7 +2759,144 @@
     "Marketing & Sales"
    ],
    "date": "2026-10-25",
+   "expire": null,
    "url": "https://jobicy.com/jobs/151456-senior-performance-marketer-full-remote-worldwide"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/keeper-security-communications-intern",
+   "source": "wwr",
+   "titre": "Communications Intern",
+   "entreprise": "Keeper Security",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/keeper-security-communications-intern"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance",
+   "source": "wwr",
+   "titre": "Lead, Technical Compliance",
+   "entreprise": "Gemini",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/talkspace-clinical-quality-specialist",
+   "source": "wwr",
+   "titre": "Clinical Quality Specialist",
+   "entreprise": "Talkspace",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/talkspace-clinical-quality-specialist"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+   "source": "wwr",
+   "titre": "Software Engineer - PlanetScale Postgres",
+   "entreprise": "PlanetScale",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-sales-engineer-french-emea",
+   "source": "wwr",
+   "titre": "Bilingual Channel Sales Engineer, French (EMEA)",
+   "entreprise": "Keeper Security",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-sales-engineer-french-emea"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gemini-head-of-consumer-and-lending-compliance",
+   "source": "wwr",
+   "titre": "Head of Consumer and Lending Compliance",
+   "entreprise": "Gemini",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/gemini-head-of-consumer-and-lending-compliance"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
+   "source": "wwr",
+   "titre": "Senior Software Engineer",
+   "entreprise": "Tebra",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/talkspace-client-support-supervisor",
+   "source": "wwr",
+   "titre": "Client Support Supervisor",
+   "entreprise": "Talkspace",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-25",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/talkspace-client-support-supervisor"
   },
   {
    "id": "remoteok-1137569",
@@ -2165,6 +2916,7 @@
     "mobile"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569"
   },
   {
@@ -2185,6 +2937,7 @@
     "infosec"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568"
   },
   {
@@ -2201,6 +2954,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149523-cloud-field-engineer"
   },
   {
@@ -2217,6 +2971,7 @@
     "Sales"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative"
   },
   {
@@ -2233,6 +2988,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149528-engineering-manager-managed-services"
   },
   {
@@ -2249,6 +3005,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source"
   },
   {
@@ -2265,6 +3022,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149531-solution-architecture-manager"
   },
   {
@@ -2281,6 +3039,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5"
   },
   {
@@ -2297,6 +3056,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer"
   },
   {
@@ -2313,6 +3073,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering"
   },
   {
@@ -2329,6 +3090,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149558-microservices-engineer"
   },
   {
@@ -2345,6 +3107,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer"
   },
   {
@@ -2361,6 +3124,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security"
   },
   {
@@ -2377,6 +3141,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu"
   },
   {
@@ -2393,6 +3158,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics"
   },
   {
@@ -2409,6 +3175,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot"
   },
   {
@@ -2425,6 +3192,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149575-engineering-manager"
   },
   {
@@ -2441,6 +3209,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation"
   },
   {
@@ -2457,6 +3226,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149569-cloud-engineering-manager"
   },
   {
@@ -2473,6 +3243,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening"
   },
   {
@@ -2489,6 +3260,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149571-software-engineering-director"
   },
   {
@@ -2505,6 +3277,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149561-engineering-manager-data-platform"
   },
   {
@@ -2521,6 +3294,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149564-security-risk-management-specialist"
   },
   {
@@ -2537,6 +3311,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer"
   },
   {
@@ -2553,6 +3328,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149570-engineering-manager-ubuntu-linux-kernel"
   },
   {
@@ -2569,6 +3345,7 @@
     "Business Development"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149568-cloud-solutions-architect-alliances"
   },
   {
@@ -2585,6 +3362,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer"
   },
   {
@@ -2601,6 +3379,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering"
   },
   {
@@ -2617,6 +3396,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149543-python-engineer"
   },
   {
@@ -2633,6 +3413,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149546-technical-manager-automotive-and-industrial"
   },
   {
@@ -2649,6 +3430,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead"
   },
   {
@@ -2665,6 +3447,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149534-alliances-field-engineer"
   },
   {
@@ -2681,6 +3464,7 @@
     "Customer Support & Success"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels"
   },
   {
@@ -2697,6 +3481,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149573-openstack-engineering-manager"
   },
   {
@@ -2713,6 +3498,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149542-threat-intelligence-lead"
   },
   {
@@ -2729,6 +3515,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149540-staff-security-operations-engineer"
   },
   {
@@ -2745,6 +3532,7 @@
     "Sales"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi"
   },
   {
@@ -2761,6 +3549,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering"
   },
   {
@@ -2777,6 +3566,7 @@
     "Sales"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149530-enterprise-account-executive"
   },
   {
@@ -2793,6 +3583,7 @@
     "Sales"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi"
   },
   {
@@ -2809,6 +3600,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149526-engineering-manager-apparmor"
   },
   {
@@ -2825,6 +3617,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter"
   },
   {
@@ -2841,6 +3634,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement"
   },
   {
@@ -2857,6 +3651,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer"
   },
   {
@@ -2873,6 +3668,7 @@
     "Content & Editorial"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149519-technical-author-multiple-roles-and-seniority-levels"
   },
   {
@@ -2889,6 +3685,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149578-senior-security-operations-engineer"
   },
   {
@@ -2905,6 +3702,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer"
   },
   {
@@ -2921,6 +3719,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores"
   },
   {
@@ -2937,6 +3736,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source"
   },
   {
@@ -2953,6 +3753,7 @@
     "Project & Program Management"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149549-enterprise-project-manager"
   },
   {
@@ -2969,6 +3770,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149548-cloud-professional-services-manager"
   },
   {
@@ -2985,6 +3787,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149547-site-reliability-engineer"
   },
   {
@@ -3001,6 +3804,7 @@
     "Sales"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149545-ubuntu-sales-engineer-entry-level"
   },
   {
@@ -3017,6 +3821,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer"
   },
   {
@@ -3033,6 +3838,7 @@
     "Cybersecurity"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149541-head-of-security-operations"
   },
   {
@@ -3049,6 +3855,7 @@
     "Sales"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles"
   },
   {
@@ -3065,7 +3872,178 @@
     "Software Engineering"
    ],
    "date": "2026-10-24",
+   "expire": null,
    "url": "https://jobicy.com/jobs/149538-golang-engineer-2"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
+   "source": "wwr",
+   "titre": "Director, Product Management (Security)",
+   "entreprise": "Cribl",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cribl-director-product-management-security"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+   "source": "wwr",
+   "titre": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+   "entreprise": "Anthropic",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-indiana-kentucky"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow",
+   "source": "wwr",
+   "titre": "Anthropic STEM Fellow",
+   "entreprise": "Anthropic",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/jumio-customer-success-manager-emea",
+   "source": "wwr",
+   "titre": "Customer Success Manager, EMEA",
+   "entreprise": "Jumio",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/jumio-customer-success-manager-emea"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll",
+   "source": "wwr",
+   "titre": "Senior Product Design Manager, Payroll",
+   "entreprise": "Gusto, Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+   "source": "wwr",
+   "titre": "Category Manager - Trading Cards",
+   "entreprise": "StockX",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
+   "source": "wwr",
+   "titre": "Lead Product Management",
+   "entreprise": "Carrot",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/carrot-lead-product-management"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+   "source": "wwr",
+   "titre": "Category Manager - Sneakers",
+   "entreprise": "StockX",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst",
+   "source": "wwr",
+   "titre": "Payment Operations Analyst",
+   "entreprise": "Gusto, Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
+   "source": "wwr",
+   "titre": "Customer Success Engineer, Sydney",
+   "entreprise": "Cribl",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-24",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney"
   },
   {
    "id": "remoteok-1137563",
@@ -3085,6 +4063,7 @@
     "finance"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563"
   },
   {
@@ -3105,6 +4084,7 @@
     "sys admin"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562"
   },
   {
@@ -3125,6 +4105,7 @@
     "education"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560"
   },
   {
@@ -3144,6 +4125,7 @@
     "non tech"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559"
   },
   {
@@ -3158,6 +4140,7 @@
    "salaire": "55k–70k USD /an",
    "tags": [],
    "date": "2026-10-23",
+   "expire": "2026-11-21",
    "url": "https://himalayas.app/companies/nectar-life/jobs/growth-marketing-manager-paid-media-klaviyo-ai-first?utm_source=api"
   },
   {
@@ -3174,6 +4157,7 @@
     "Product & Operations"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156580-business-services-team-manager"
   },
   {
@@ -3190,6 +4174,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning"
   },
   {
@@ -3206,6 +4191,7 @@
     "QA & Testing"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking"
   },
   {
@@ -3222,6 +4208,7 @@
     "Business Development"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156578-business-development-representative-20"
   },
   {
@@ -3238,6 +4225,7 @@
     "Software Engineering"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156576-supalite-engineer"
   },
   {
@@ -3254,6 +4242,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer"
   },
   {
@@ -3270,6 +4259,7 @@
     "DevOps & Infrastructure"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156579-release-engineer"
   },
   {
@@ -3286,6 +4276,7 @@
     "Education & E-learning"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156577-early-childhood-teacher-pt-3"
   },
   {
@@ -3302,6 +4293,7 @@
     "Education & E-learning"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/156575-early-childhood-teacher-2"
   },
   {
@@ -3318,6 +4310,7 @@
     "Customer Support & Success"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/153919-international-audio-video-remote-karen-and-thai-interpreter"
   },
   {
@@ -3334,7 +4327,161 @@
     "Admin & Virtual Assistance"
    ],
    "date": "2026-10-23",
+   "expire": null,
    "url": "https://jobicy.com/jobs/153916-international-audio-video-remote-hakha-chin-interpreter"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation",
+   "source": "wwr",
+   "titre": "Senior Product Manager - Edtech Innovation",
+   "entreprise": "Committee for Children",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/aquifer-development-manager",
+   "source": "wwr",
+   "titre": "Development Manager",
+   "entreprise": "Aquifer",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/aquifer-development-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
+   "source": "wwr",
+   "titre": "Salesforce Lead - USA",
+   "entreprise": "Storyblok",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager-1",
+   "source": "wwr",
+   "titre": "Channel Account Manager",
+   "entreprise": "Ping Identity",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager-1"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-sled-1",
+   "source": "wwr",
+   "titre": "Enterprise Account Manager, SLED",
+   "entreprise": "BeyondTrust",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "DevOps and Sysadmin"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-sled-1"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead",
+   "source": "wwr",
+   "titre": "Blockchain Risk Control Lead",
+   "entreprise": "Bybit",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/bybit-animator-intern",
+   "source": "wwr",
+   "titre": "Animator Intern",
+   "entreprise": "Bybit",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/bybit-animator-intern"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cadence-health-bilingual-spanish-speaking-licensed-practical-nurse",
+   "source": "wwr",
+   "titre": "Bilingual/Spanish Speaking Licensed Practical Nurse",
+   "entreprise": "Cadence Health",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cadence-health-bilingual-spanish-speaking-licensed-practical-nurse"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cadence-health-bilingual-spanish-speaking-health-coach",
+   "source": "wwr",
+   "titre": "Bilingual/Spanish Speaking Health Coach",
+   "entreprise": "Cadence Health",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "All Other Remote"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cadence-health-bilingual-spanish-speaking-health-coach"
   },
   {
    "id": "remotive-2091161",
@@ -3352,6 +4499,7 @@
     "robotics"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161"
   },
   {
@@ -3372,6 +4520,7 @@
     "golang"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557"
   },
   {
@@ -3392,6 +4541,7 @@
     "customer support"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556"
   },
   {
@@ -3412,6 +4562,7 @@
     "infosec"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555"
   },
   {
@@ -3432,6 +4583,7 @@
     "finance"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554"
   },
   {
@@ -3448,6 +4600,7 @@
     "Creative & Design"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://jobicy.com/jobs/153812-creative-motion-design"
   },
   {
@@ -3464,7 +4617,110 @@
     "Cybersecurity"
    ],
    "date": "2026-10-22",
+   "expire": null,
    "url": "https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/prospex-crm-senior-software-engineer",
+   "source": "wwr",
+   "titre": "Senior Software Engineer",
+   "entreprise": "Prospex CRM",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-22",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/prospex-crm-senior-software-engineer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior",
+   "source": "wwr",
+   "titre": "CRM Retention Junior",
+   "entreprise": "Bullfinch Recruitment",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-22",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/bullfinch-recruitment-crm-retention-junior"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/division50-sales-development-representative-crm-conversational-ai-messaging-automation",
+   "source": "wwr",
+   "titre": "Sales Development Representative - CRM, Conversational AI & Messaging Automation",
+   "entreprise": "division50",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-22",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/division50-sales-development-representative-crm-conversational-ai-messaging-automation"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager",
+   "source": "wwr",
+   "titre": "Senior Marketing Operations Manager",
+   "entreprise": "Netlify",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-22",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
+   "source": "wwr",
+   "titre": "Marketing Automation Manager - Canada, Spain, India",
+   "entreprise": "Storyblok",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-22",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success",
+   "source": "wwr",
+   "titre": "Director PM, Payments & Client Success",
+   "entreprise": "Maven Clinic",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-22",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success"
   },
   {
    "id": "remoteok-1137551",
@@ -3484,6 +4740,7 @@
     "node"
    ],
    "date": "2026-10-21",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551"
   },
   {
@@ -3504,6 +4761,7 @@
     "technical"
    ],
    "date": "2026-10-21",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550"
   },
   {
@@ -3520,7 +4778,93 @@
     "QA & Testing"
    ],
    "date": "2026-10-21",
+   "expire": null,
    "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/prospex-crm-interior-designer",
+   "source": "wwr",
+   "titre": "Interior Designer",
+   "entreprise": "Prospex CRM",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-10-21",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/prospex-crm-interior-designer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
+   "source": "wwr",
+   "titre": "Graphic Designer",
+   "entreprise": "Cata-Kor",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-21",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/upsun-product-manager",
+   "source": "wwr",
+   "titre": "Product Manager",
+   "entreprise": "Upsun",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-21",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/upsun-product-manager"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-controller",
+   "source": "wwr",
+   "titre": "Controller",
+   "entreprise": "Ritual",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-21",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/ritual-controller"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/cribl-analytics-business-partner",
+   "source": "wwr",
+   "titre": "Analytics Business Partner",
+   "entreprise": "Cribl",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-21",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/cribl-analytics-business-partner"
   },
   {
    "id": "remoteok-1137548",
@@ -3540,6 +4884,7 @@
     "python"
    ],
    "date": "2026-10-20",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548"
   },
   {
@@ -3556,7 +4901,93 @@
     "Marketing"
    ],
    "date": "2026-10-20",
+   "expire": "2026-11-15",
    "url": "https://himalayas.app/companies/jlv-construction/jobs/paid-ads-specialist?utm_source=api"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems",
+   "source": "wwr",
+   "titre": "Principal Experience Designer - Visual Design & Design Systems",
+   "entreprise": "Workiva",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-20",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+   "source": "wwr",
+   "titre": "Distribution Engineer",
+   "entreprise": "Vertex Marketing Group",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Back-End Programming"
+   ],
+   "date": "2026-10-20",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/datadog-manager-ii-developer-advocacy",
+   "source": "wwr",
+   "titre": "Manager II, Developer Advocacy",
+   "entreprise": "Datadog",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-20",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/datadog-manager-ii-developer-advocacy"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/collibra-senior-customer-engineer-collibra-public-sector",
+   "source": "wwr",
+   "titre": "Senior Customer Engineer - Collibra Public Sector",
+   "entreprise": "Collibra",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-20",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/collibra-senior-customer-engineer-collibra-public-sector"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst",
+   "source": "wwr",
+   "titre": "Business Intelligence Analyst",
+   "entreprise": "Carrot",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-20",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst"
   },
   {
    "id": "remoteok-1137547",
@@ -3576,7 +5007,93 @@
     "technical"
    ],
    "date": "2026-10-19",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+   "source": "wwr",
+   "titre": "Senior Backend Developer (Python)",
+   "entreprise": "Proxify AB",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Back-End Programming"
+   ],
+   "date": "2026-10-19",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+   "source": "wwr",
+   "titre": "Senior Backend Developer (Node.js / Nest.js)",
+   "entreprise": "Proxify AB",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Back-End Programming"
+   ],
+   "date": "2026-10-19",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm",
+   "source": "wwr",
+   "titre": "Senior Product Designer (Webflow) Temp to Perm",
+   "entreprise": "Current",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-19",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
+   "source": "wwr",
+   "titre": "Freelance Marketo Email Engineer",
+   "entreprise": "Current",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-10-19",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness",
+   "source": "wwr",
+   "titre": "Data Analyst, Clinical Data Effectiveness",
+   "entreprise": "Clover Health",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-19",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness"
   },
   {
    "id": "remoteok-1137545",
@@ -3596,6 +5113,7 @@
     "engineer"
    ],
    "date": "2026-10-18",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545"
   },
   {
@@ -3616,7 +5134,42 @@
     "medical"
    ],
    "date": "2026-10-18",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
+   "source": "wwr",
+   "titre": "Client Enablement Lead",
+   "entreprise": "Alloy",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-18",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
+   "source": "wwr",
+   "titre": "Staff Software Engineer, Revenue Systems",
+   "entreprise": "Squarespace",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Back-End Programming"
+   ],
+   "date": "2026-10-18",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems"
   },
   {
    "id": "remotive-2091158",
@@ -3636,6 +5189,7 @@
     "java"
    ],
    "date": "2026-10-17",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
   },
   {
@@ -3656,6 +5210,7 @@
     "customer support"
    ],
    "date": "2026-10-17",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542"
   },
   {
@@ -3676,6 +5231,7 @@
     "travel"
    ],
    "date": "2026-10-17",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541"
   },
   {
@@ -3696,6 +5252,7 @@
     "technical"
    ],
    "date": "2026-10-17",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540"
   },
   {
@@ -3712,6 +5269,7 @@
     "exec"
    ],
    "date": "2026-10-17",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539"
   },
   {
@@ -3732,6 +5290,7 @@
     "golang"
    ],
    "date": "2026-10-17",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
   },
   {
@@ -3748,7 +5307,25 @@
     "Developer"
    ],
    "date": "2026-10-17",
+   "expire": "2026-11-16",
    "url": "https://himalayas.app/companies/askable/jobs/software-engineer-ai-coding-tasks-contract?utm_source=api"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
+   "source": "wwr",
+   "titre": "Principal Product Manager, Agentic AI",
+   "entreprise": "Legion",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-10-17",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai"
   },
   {
    "id": "remoteok-1137537",
@@ -3768,6 +5345,7 @@
     "front end"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537"
   },
   {
@@ -3788,6 +5366,7 @@
     "customer support"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536"
   },
   {
@@ -3808,6 +5387,7 @@
     "dev"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535"
   },
   {
@@ -3828,6 +5408,7 @@
     "dev"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534"
   },
   {
@@ -3848,6 +5429,7 @@
     "dev"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531"
   },
   {
@@ -3868,6 +5450,7 @@
     "technical"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530"
   },
   {
@@ -3888,6 +5471,7 @@
     "sales"
    ],
    "date": "2026-10-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529"
   },
   {
@@ -3908,6 +5492,7 @@
     "ops"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528"
   },
   {
@@ -3928,6 +5513,7 @@
     "backend"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527"
   },
   {
@@ -3948,6 +5534,7 @@
     "customer support"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525"
   },
   {
@@ -3968,6 +5555,7 @@
     "customer support"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524"
   },
   {
@@ -3988,6 +5576,7 @@
     "javascript"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523"
   },
   {
@@ -4006,6 +5595,7 @@
     "recruiter"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522"
   },
   {
@@ -4024,7 +5614,25 @@
     "recruiter"
    ],
    "date": "2026-10-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+   "source": "wwr",
+   "titre": "AI Experience Engineer (Conversational AI)",
+   "entreprise": "Upgrade",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Back-End Programming"
+   ],
+   "date": "2026-10-15",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai"
   },
   {
    "id": "remotive-2069746",
@@ -4044,6 +5652,7 @@
     "fullstack"
    ],
    "date": "2026-10-14",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"
   },
   {
@@ -4064,6 +5673,7 @@
     "finance"
    ],
    "date": "2026-10-14",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514"
   },
   {
@@ -4081,6 +5691,7 @@
     "ai training"
    ],
    "date": "2026-10-14",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513"
   },
   {
@@ -4101,7 +5712,42 @@
     "Worldwide"
    ],
    "date": "2026-10-14",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/yubico-inc-enterprise-account-director-west",
+   "source": "wwr",
+   "titre": "Enterprise Account Director, West",
+   "entreprise": "Yubico Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-14",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/yubico-inc-enterprise-account-director-west"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/yubico-inc-channel-account-manager",
+   "source": "wwr",
+   "titre": "Channel Account Manager",
+   "entreprise": "Yubico Inc.",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-14",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/yubico-inc-channel-account-manager"
   },
   {
    "id": "remoteok-1137510",
@@ -4121,6 +5767,7 @@
     "testing"
    ],
    "date": "2026-10-13",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510"
   },
   {
@@ -4141,6 +5788,7 @@
     "finance"
    ],
    "date": "2026-10-13",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-client-engagement-representative-work-from-home-ao-garcia-agency-1137509"
   },
   {
@@ -4161,6 +5809,7 @@
     "docker"
    ],
    "date": "2026-10-13",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508"
   },
   {
@@ -4181,6 +5830,7 @@
     "marketing"
    ],
    "date": "2026-10-13",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507"
   },
   {
@@ -4197,6 +5847,7 @@
     "customer support"
    ],
    "date": "2026-10-12",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506"
   },
   {
@@ -4217,6 +5868,7 @@
     "education"
    ],
    "date": "2026-10-12",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498"
   },
   {
@@ -4237,6 +5889,7 @@
     "html"
    ],
    "date": "2026-10-11",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
   },
   {
@@ -4257,6 +5910,7 @@
     "testing"
    ],
    "date": "2026-10-11",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497"
   },
   {
@@ -4277,6 +5931,7 @@
     "exec"
    ],
    "date": "2026-10-11",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488"
   },
   {
@@ -4297,6 +5952,7 @@
     "marketing"
    ],
    "date": "2026-10-11",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482"
   },
   {
@@ -4317,6 +5973,7 @@
     "customer support"
    ],
    "date": "2026-10-10",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481"
   },
   {
@@ -4337,6 +5994,7 @@
     "c"
    ],
    "date": "2026-10-10",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480"
   },
   {
@@ -4357,6 +6015,7 @@
     "exec"
    ],
    "date": "2026-10-10",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479"
   },
   {
@@ -4377,7 +6036,25 @@
     "technical"
    ],
    "date": "2026-10-10",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
+   "source": "wwr",
+   "titre": "Machine Learning Engineer - IV (Fraud)",
+   "entreprise": "Jumio",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-10",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud"
   },
   {
    "id": "remoteok-1137475",
@@ -4397,6 +6074,7 @@
     "aws"
    ],
    "date": "2026-10-09",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475"
   },
   {
@@ -4417,6 +6095,7 @@
     "technical"
    ],
    "date": "2026-10-09",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474"
   },
   {
@@ -4436,7 +6115,25 @@
     "Inside Sales"
    ],
    "date": "2026-10-08",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/vercel-site-engineer",
+   "source": "wwr",
+   "titre": "Site Engineer",
+   "entreprise": "Vercel",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-10-08",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/vercel-site-engineer"
   },
   {
    "id": "remoteok-1137469",
@@ -4452,6 +6149,7 @@
     "medical"
    ],
    "date": "2026-10-07",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469"
   },
   {
@@ -4472,6 +6170,7 @@
     "documentation"
    ],
    "date": "2026-10-06",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
   },
   {
@@ -4492,6 +6191,7 @@
     "cro"
    ],
    "date": "2026-10-06",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466"
   },
   {
@@ -4511,6 +6211,7 @@
     "part time"
    ],
    "date": "2026-10-05",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465"
   },
   {
@@ -4527,6 +6228,7 @@
     "REST"
    ],
    "date": "2026-10-04",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979"
   },
   {
@@ -4547,6 +6249,7 @@
     "technical"
    ],
    "date": "2026-10-04",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463"
   },
   {
@@ -4565,6 +6268,7 @@
     "exec"
    ],
    "date": "2026-10-03",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461"
   },
   {
@@ -4585,6 +6289,7 @@
     "bookkeeping"
    ],
    "date": "2026-10-02",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306"
   },
   {
@@ -4605,6 +6310,7 @@
     "C"
    ],
    "date": "2026-10-02",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133"
   },
   {
@@ -4625,6 +6331,7 @@
     "C++"
    ],
    "date": "2026-09-30",
+   "expire": null,
    "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132"
   },
   {
@@ -4642,6 +6349,7 @@
     "sales"
    ],
    "date": "2026-09-30",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451"
   },
   {
@@ -4658,7 +6366,76 @@
     "customer support"
    ],
    "date": "2026-09-30",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
+   "source": "wwr",
+   "titre": "Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
+   "entreprise": "HR Plus",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-09-29",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+   "source": "wwr",
+   "titre": "Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+   "entreprise": "bondex",
+   "lieu": "Remote - Americas",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-09-29",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
+   "source": "wwr",
+   "titre": "Framer Website Designer",
+   "entreprise": "Air Apps",
+   "lieu": "Helsinki",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-09-28",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
+   "source": "wwr",
+   "titre": "Web Development Project Manager",
+   "entreprise": "Wisevu",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Front-End Programming"
+   ],
+   "date": "2026-09-28",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager"
   },
   {
    "id": "remoteok-1137434",
@@ -4678,6 +6455,7 @@
     "customer support"
    ],
    "date": "2026-09-26",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
   },
   {
@@ -4697,6 +6475,7 @@
     "digital nomad"
    ],
    "date": "2026-09-23",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
   },
   {
@@ -4717,6 +6496,7 @@
     "infosec"
    ],
    "date": "2026-09-23",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
   },
   {
@@ -4737,6 +6517,7 @@
     "crypto"
    ],
    "date": "2026-09-22",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414"
   },
   {
@@ -4757,6 +6538,7 @@
     "dev"
    ],
    "date": "2026-09-21",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412"
   },
   {
@@ -4777,6 +6559,7 @@
     "react.js"
    ],
    "date": "2026-09-20",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
   },
   {
@@ -4797,7 +6580,25 @@
     "vfx"
    ],
    "date": "2026-09-19",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+   "source": "wwr",
+   "titre": "Senior Java Developer",
+   "entreprise": "Twikey",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Back-End Programming"
+   ],
+   "date": "2026-09-17",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer"
   },
   {
    "id": "remoteok-1137400",
@@ -4815,6 +6616,7 @@
     "engineer"
    ],
    "date": "2026-09-16",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
   },
   {
@@ -4835,6 +6637,7 @@
     "technical"
    ],
    "date": "2026-09-15",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
   },
   {
@@ -4855,6 +6658,7 @@
     "technical"
    ],
    "date": "2026-09-12",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
   },
   {
@@ -4874,6 +6678,7 @@
     "digital nomad"
    ],
    "date": "2026-09-12",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
   },
   {
@@ -4894,6 +6699,7 @@
     "marketing"
    ],
    "date": "2026-09-11",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
   },
   {
@@ -4912,6 +6718,7 @@
     "medical"
    ],
    "date": "2026-09-11",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
   },
   {
@@ -4930,6 +6737,7 @@
     "stats"
    ],
    "date": "2026-09-10",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
   },
   {
@@ -4950,6 +6758,7 @@
     "marketing"
    ],
    "date": "2026-09-08",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373"
   },
   {
@@ -4970,6 +6779,7 @@
     "excel"
    ],
    "date": "2026-09-08",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374"
   },
   {
@@ -4988,7 +6798,25 @@
     "engineer"
    ],
    "date": "2026-08-30",
+   "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+   "source": "wwr",
+   "titre": "Senior Full Stack",
+   "entreprise": "Toggl",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Full-Stack Programming"
+   ],
+   "date": "2026-08-28",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack"
   }
  ]
 }

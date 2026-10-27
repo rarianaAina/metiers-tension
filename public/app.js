@@ -428,7 +428,9 @@
   function remoteFiltered({ ignore } = {}) {
     const words = norm(state.rq).split(/\s+/).filter(Boolean);
     const z = R_ZONES.find((x) => x.id === state.rZone)?.zones;
+    const auj = today();
     return (state.remote?.offres || []).filter((o) => {
+      if (o.expire && o.expire < auj) return false;
       if (ignore !== "zone" && z && !z.includes(o.zone)) return false;
       if (ignore !== "type" && state.rType !== "all" && o.type !== state.rType) return false;
       if (ignore !== "cat" && state.rCat !== "all" && o.categorie !== state.rCat) return false;

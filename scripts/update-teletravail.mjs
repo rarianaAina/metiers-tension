@@ -1,7 +1,8 @@
 // Télétravail & freelance : collecte les offres 100 % à distance de sources publiques
-// (Remotive, Remote OK, Himalayas, Jobicy) et les enregistre en JSON. Aucune clé nécessaire.
-// Conditions des sources : citer la source et renvoyer vers l'offre d'origine ; appels limités
-// (une fois par jour ici).
+// (Remotive, Remote OK, Himalayas, Jobicy, We Work Remotely) et les enregistre en JSON.
+// Aucune clé nécessaire. Conditions des sources : citer la source, renvoyer vers l'offre
+// d'origine sans modifier le lien, retirer les offres expirées, ne pas redistribuer à d'autres
+// sites d'emploi ; appels limités (une fois par jour ici).
 // Usage : node scripts/update-teletravail.mjs
 import { join } from "node:path";
 import { DATA_DIR, fail, fetchRetry, norm, nowIso, sleep, writeJsonIfChanged } from "./lib.mjs";
@@ -15,6 +16,7 @@ export const SOURCES = {
   remoteok: { nom: "Remote OK", url: "https://remoteok.com" },
   himalayas: { nom: "Himalayas", url: "https://himalayas.app" },
   jobicy: { nom: "Jobicy", url: "https://jobicy.com" },
+  wwr: { nom: "We Work Remotely", url: "https://weworkremotely.com" },
 };
 
 // ---------- Normalisation ----------
@@ -83,6 +85,7 @@ function offre(o) {
     salaire: clean(o.salaire) || null,
     tags: (o.tags || []).map(clean).filter(Boolean).slice(0, 5),
     date: o.date,
+    expire: o.expire || null,
     url,
   };
 }
@@ -120,7 +123,7 @@ function himalayasOffre(x) {
     lieu: restr.length ? restr.join(", ") : "Worldwide", zone: restr.length ? zone(restr.join(", ")) : "monde",
     type: typeContrat(x.employmentType), categorie: categorie(x.parentCategories, x.categories?.slice(0, 3), x.title),
     salaire: avecPeriode(salaire(x.minSalary, x.maxSalary, x.currency || ""), x.salaryPeriod), tags: x.parentCategories,
-    date: isoDate(x.pubDate), url: x.applicationLink || x.guid,
+    date: isoDate(x.pubDate), expire: x.expiryDate ? isoDate(x.expiryDate) : null, url: x.applicationLink || x.guid,
   });
 }
 
@@ -151,6 +154,31 @@ async function himalayas() {
   return out;
 }
 
+// We Work Remotely : flux RSS public (« Anyone can use the feed, all we ask is that you
+// attribute the links back to We Work Remotely »).
+async function wwr() {
+  const res = await fetchRetry("https://weworkremotely.com/remote-jobs.rss", { headers: { ...UA, Accept: "application/rss+xml" } }, { label: "We Work Remotely" });
+  if (!res.ok) throw new Error(`We Work Remotely : HTTP ${res.status}`);
+  const xml = await res.text();
+  const tag = (item, name) => {
+    const m = item.match(new RegExp(`<${name}>([\\s\\S]*?)</${name}>`));
+    return m ? m[1].replace(/^<!\[CDATA\[|\]\]>$/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim() : "";
+  };
+  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, item]) => {
+    const full = tag(item, "title"); // « Entreprise: Poste »
+    const i = full.indexOf(": ");
+    const region = tag(item, "region");
+    return offre({
+      source: "wwr", id: tag(item, "guid") || tag(item, "link"),
+      titre: i > 0 ? full.slice(i + 2) : full, entreprise: i > 0 ? full.slice(0, i) : null,
+      lieu: /anywhere/i.test(region) ? region : [region, tag(item, "country")].filter(Boolean).join(" – "),
+      zone: /anywhere/i.test(region) ? "monde" : zone(region),
+      type: typeContrat(tag(item, "type")), categorie: categorie(tag(item, "category"), full),
+      tags: [tag(item, "category")], date: isoDate(tag(item, "pubDate")), url: tag(item, "link"),
+    });
+  });
+}
+
 async function jobicy() {
   const j = await getJson("https://jobicy.com/api/v2/remote-jobs?count=100&geo=anywhere", "Jobicy");
   return (j.jobs || []).map((x) => offre({
@@ -163,7 +191,7 @@ async function jobicy() {
 
 // ---------- Programme ----------
 async function main() {
-  const resultats = await Promise.allSettled([remotive(), remoteok(), himalayas(), jobicy()]);
+  const resultats = await Promise.allSettled([remotive(), remoteok(), himalayas(), jobicy(), wwr()]);
   const ids = Object.keys(SOURCES);
   const toutes = [];
   const ok = [];
@@ -178,9 +206,10 @@ async function main() {
   if (!ok.length) fail("Télétravail : aucune source n'a répondu, données actuelles conservées.");
 
   const limite = new Date(Date.now() - MAX_JOURS * 864e5).toISOString().slice(0, 10);
+  const aujourdhui = new Date().toISOString().slice(0, 10);
   const vues = new Set();
   const offres = toutes
-    .filter((o) => !o.date || o.date >= limite)
+    .filter((o) => (!o.date || o.date >= limite) && (!o.expire || o.expire >= aujourdhui))
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""))
     .filter((o) => {
       const k = `${norm(o.titre)}|${norm(o.entreprise)}`;
