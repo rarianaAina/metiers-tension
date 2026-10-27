@@ -8,7 +8,7 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import {
-  DATA_DIR, REGIONS_FR, fail, fetchRetry, htmlToText, nowIso, pdfToText, readJson,
+  DATA_DIR, REGIONS_FR, fail, fetchRetry, htmlToText, norm, nowIso, pdfToText, readJson,
   regionFromHeading, secteurFromFap, writeJsonIfChanged,
 } from "./lib.mjs";
 
@@ -115,30 +115,52 @@ async function api(tok, path, payload) {
   return res.json();
 }
 
-// Cherche l'arrêté le plus récent ; renvoie { cid, titre }.
+// Titres des résultats de recherche, quelle que soit la forme de la réponse. Légifrance
+// surligne les mots trouvés avec des balises (<mark>…</mark>) : on les retire.
+function titresResultats(data) {
+  const propre = (s) => String(s || "").replace(/<[^>]+>/g, "").replace(/[’`]/g, "'").replace(/\s+/g, " ").trim();
+  return (data?.results || []).flatMap((r) => {
+    const liste = r.titles?.length ? r.titles : [{ title: r.title || r.titre, cid: r.cid, id: r.id }];
+    return liste.map((t) => ({ title: propre(t.title || t.titre), cid: t.cid || r.cid, id: t.id || r.id, date: r.date || r.dateSignature }));
+  }).filter((t) => t.title);
+}
+
+const estArrete = (t) => /^arrete du/.test(norm(t.title)) && /fixant la liste des metiers et zones geographiques/.test(norm(t.title));
+const estModificatif = (t) => /^arrete du/.test(norm(t.title)) && /modifiant.*liste des metiers et zones geographiques/.test(norm(t.title));
+
+// Cherche l'arrêté le plus récent ; renvoie { cid, titre }. Plusieurs formulations sont essayées.
 async function dernierArrete(tok) {
-  const data = await api(tok, "/search", {
-    fond: "JORF",
-    recherche: {
-      champs: [{ typeChamp: "TITLE", operateur: "ET", criteres: [{ typeRecherche: "EXACTE", valeur: TITRE_RECHERCHE, operateur: "ET" }] }],
-      filtres: [],
-      pageNumber: 1,
-      pageSize: 25,
-      operateur: "ET",
-      sort: "SIGNATURE_DATE_DESC",
-      typePagination: "DEFAUT",
-    },
-  });
-  const titres = (data.results || []).flatMap((r) => r.titles || []);
-  const arretes = titres.filter((t) => /^Arrêté du/i.test(t.title || "") && /fixant la liste des métiers et zones géographiques/i.test(t.title));
-  if (!arretes.length) fail("Légifrance : aucun arrêté trouvé, la recherche ou le titre a peut-être changé.");
-  const [premier] = arretes;
-  // Un arrêté « modifiant » ne contient que des changements : on ne peut pas reconstruire la liste seul.
-  const modif = titres.find((t) => /^Arrêté du/i.test(t.title || "") && /modifiant.*liste des métiers et zones géographiques/i.test(t.title));
-  if (modif && dateTitre(modif.title) > dateTitre(premier.title)) {
-    fail(`Légifrance : un arrêté modificatif plus récent existe (${modif.title}). Mise à jour manuelle nécessaire.`);
+  const essais = [
+    { fond: "JORF", typeRecherche: "EXACTE", valeur: TITRE_RECHERCHE },
+    { fond: "JORF", typeRecherche: "TOUS_LES_MOTS_DANS_UN_CHAMP", valeur: "métiers zones géographiques difficultés recrutement" },
+    { fond: "LODA_DATE", typeRecherche: "TOUS_LES_MOTS_DANS_UN_CHAMP", valeur: "métiers zones géographiques difficultés recrutement" },
+  ];
+  const vus = [];
+  for (const e of essais) {
+    const data = await api(tok, "/search", {
+      fond: e.fond,
+      recherche: {
+        champs: [{ typeChamp: "TITLE", operateur: "ET", criteres: [{ typeRecherche: e.typeRecherche, valeur: e.valeur, operateur: "ET" }] }],
+        filtres: [],
+        pageNumber: 1,
+        pageSize: 25,
+        operateur: "ET",
+        sort: "SIGNATURE_DATE_DESC",
+        typePagination: "DEFAUT",
+      },
+    });
+    const titres = titresResultats(data);
+    vus.push(`${e.fond}/${e.typeRecherche} : ${data?.totalResultNumber ?? titres.length} résultat(s)${titres.length ? ` — ex. « ${titres[0].title.slice(0, 120)} »` : ""}`);
+    const arretes = titres.filter(estArrete).sort((a, b) => dateTitre(b.title).localeCompare(dateTitre(a.title)));
+    if (!arretes.length) continue;
+    const [premier] = arretes;
+    // Un arrêté « modifiant » ne contient que des changements : on ne peut pas reconstruire la liste seul.
+    const modif = titres.filter(estModificatif).find((t) => dateTitre(t.title) > dateTitre(premier.title));
+    if (modif) fail(`Légifrance : un arrêté modificatif plus récent existe (${modif.title}). Mise à jour manuelle nécessaire.`);
+    return { cid: premier.cid || premier.id, titre: premier.title };
   }
-  return { cid: premier.cid || premier.id, titre: premier.title };
+  console.error("Diagnostic de la recherche Légifrance :\n  " + vus.join("\n  "));
+  fail("Légifrance : aucun arrêté trouvé, la recherche ou le titre a peut-être changé.");
 }
 
 const MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
