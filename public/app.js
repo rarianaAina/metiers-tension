@@ -25,6 +25,24 @@
     { id: "offre", label: "Offre reçue" },
     { id: "refuse", label: "Refusé" },
   ];
+  const R_CATS = {
+    dev: { label: "Développement & tech", em: "💻" },
+    data: { label: "Data & IA", em: "📊" },
+    design: { label: "Design", em: "🎨" },
+    marketing: { label: "Marketing", em: "📣" },
+    ventes: { label: "Ventes", em: "🤝" },
+    support: { label: "Support client", em: "🎧" },
+    redaction: { label: "Rédaction & traduction", em: "✍️" },
+    finance: { label: "Gestion & finance", em: "💼" },
+    autres: { label: "Autres", em: "📌" },
+  };
+  const R_TYPES = { freelance: "Freelance", contrat: "Contrat / mission", "temps-plein": "Temps plein", "temps-partiel": "Temps partiel", stage: "Stage" };
+  const R_ZONES = [
+    { id: "accessible", label: "🌍 Monde entier & Afrique", zones: ["monde", "afrique"] },
+    { id: "europe", label: "Europe", zones: ["europe"] },
+    { id: "all", label: "Toutes les offres", zones: null },
+  ];
+  const PAYS = { lu: { cc: "LU", nom: "Luxembourg" }, fr: { cc: "FR", nom: "France" }, remote: { cc: "WEB", nom: "Télétravail" } };
   const STORE = "mt-candidatures-v1";
   const statutLabel = Object.fromEntries(STATUTS.map((s) => [s.id, s.label]));
 
@@ -85,6 +103,8 @@
     cands: store.get(STORE, []),
     filtreStatut: "all",
     offresCache: {},
+    remote: null, remoteLoading: null,
+    rq: "", rZone: "accessible", rType: "all", rCat: "all", rShown: 30,
   };
   if (!Array.isArray(state.cands)) state.cands = [];
 
@@ -399,6 +419,111 @@
     });
   }
 
+  // ======================= Télétravail =======================
+  async function loadRemote() {
+    if (!state.remoteLoading) state.remoteLoading = getJson("data/teletravail.json").then((d) => (state.remote = d));
+    return state.remoteLoading;
+  }
+
+  function remoteFiltered({ ignore } = {}) {
+    const words = norm(state.rq).split(/\s+/).filter(Boolean);
+    const z = R_ZONES.find((x) => x.id === state.rZone)?.zones;
+    return (state.remote?.offres || []).filter((o) => {
+      if (ignore !== "zone" && z && !z.includes(o.zone)) return false;
+      if (ignore !== "type" && state.rType !== "all" && o.type !== state.rType) return false;
+      if (ignore !== "cat" && state.rCat !== "all" && o.categorie !== state.rCat) return false;
+      if (!words.length) return true;
+      const hay = o._hay || (o._hay = norm([o.titre, o.entreprise, o.lieu, ...(o.tags || [])].join(" ")));
+      return words.every((w) => hay.includes(w));
+    });
+  }
+
+  async function renderRemote() {
+    const list = $("#r-list");
+    if (!state.remote) {
+      list.innerHTML = Array.from({ length: 4 }, () => `<div class="skeleton" style="height:96px"></div>`).join("");
+      await loadRemote();
+      if (!state.remote) { list.innerHTML = `<div class="empty"><div class="big">⚠️</div><strong>Offres indisponibles</strong>Réessayez dans un instant.</div>`; return; }
+    }
+    const count = (arr, key) => arr.reduce((m, o) => ((m[o[key]] = (m[o[key]] || 0) + 1), m), {});
+
+    const byZone = remoteFiltered({ ignore: "zone" });
+    $("#r-zone").innerHTML = R_ZONES.map((z) => {
+      const n = z.zones ? byZone.filter((o) => z.zones.includes(o.zone)).length : byZone.length;
+      return `<button type="button" class="chip ${state.rZone === z.id ? "is-on" : ""}" data-rzone="${z.id}">${esc(z.label)} · ${n}</button>`;
+    }).join("");
+
+    const types = count(remoteFiltered({ ignore: "type" }), "type");
+    $("#r-type").innerHTML = `<button type="button" class="chip ${state.rType === "all" ? "is-on" : ""}" data-rtype="all">Tous</button>` +
+      Object.keys(R_TYPES).filter((t) => types[t]).map((t) => `<button type="button" class="chip ${state.rType === t ? "is-on" : ""}" data-rtype="${t}">${esc(R_TYPES[t])} · ${types[t]}</button>`).join("");
+
+    const cats = count(remoteFiltered({ ignore: "cat" }), "categorie");
+    if (state.rCat !== "all" && !cats[state.rCat]) state.rCat = "all";
+    const totalCat = Object.values(cats).reduce((a, b) => a + b, 0);
+    $("#r-cat").innerHTML = `<button class="sector ${state.rCat === "all" ? "is-on" : ""}" data-rcat="all"><span class="em">✨</span>Toutes <span class="c">${totalCat}</span></button>` +
+      Object.keys(R_CATS).filter((c) => cats[c]).map((c) => `<button class="sector ${state.rCat === c ? "is-on" : ""}" data-rcat="${c}"><span class="em">${R_CATS[c].em}</span>${esc(R_CATS[c].label)} <span class="c">${cats[c]}</span></button>`).join("");
+
+    const items = remoteFiltered();
+    $("#r-title").textContent = `${nf.format(items.length)} offre${items.length > 1 ? "s" : ""} en télétravail`;
+    $("#r-maj").textContent = state.remote.majLe ? `Mis à jour le ${fmtDate(state.remote.majLe.slice(0, 10))}` : "";
+    const srcs = state.remote.sources || {};
+    $("#r-sources").innerHTML = Object.values(srcs).map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.nom)}</a>`).join(", ");
+
+    if (!items.length) {
+      list.innerHTML = `<div class="empty"><div class="big">🔎</div><strong>Aucune offre ne correspond</strong>Essayez « Toutes les offres » ou un autre mot-clé.</div>`;
+      $("#r-more").hidden = true;
+      return;
+    }
+    list.innerHTML = items.slice(0, state.rShown).map((o) => remoteCard(o, srcs)).join("");
+    $("#r-more").hidden = items.length <= state.rShown;
+  }
+
+  function remoteCard(o, srcs) {
+    const src = srcs[o.source] || { nom: o.source, url: "#" };
+    const url = safeUrl(o.url);
+    return `
+      <article class="rjob" data-rid="${esc(o.id)}">
+        <span class="avatar" style="background:${avatarColor(o.entreprise || o.titre)}">${esc((o.entreprise || o.titre || "?").trim().charAt(0).toUpperCase())}</span>
+        <h3>${esc(o.titre)}</h3>
+        <div class="rjob-actions">
+          <button type="button" class="btn ghost sm" data-rtrack>+ Suivre</button>
+          ${url ? `<a class="btn primary sm" href="${esc(url)}" target="_blank" rel="noopener">Postuler ${EXT}</a>` : ""}
+        </div>
+        <div class="meta">
+          ${o.entreprise ? `<strong style="color:var(--text-2)">${esc(o.entreprise)}</strong>` : ""}
+          ${o.lieu ? `<span>📍 ${esc(o.lieu)}</span>` : ""}
+          ${o.date ? `<span>${esc(fmtDate(o.date))}</span>` : ""}
+          <span class="via">via <a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.nom)}</a></span>
+        </div>
+        <div class="tags">
+          <span class="tag ${esc(o.type)}">${esc(R_TYPES[o.type] || o.type)}</span>
+          ${o.zone === "monde" ? `<span class="tag monde">Monde entier</span>` : ""}
+          ${o.salaire ? `<span class="tag money">${esc(o.salaire)}</span>` : ""}
+          ${R_CATS[o.categorie] ? `<span class="tag">${R_CATS[o.categorie].em} ${esc(R_CATS[o.categorie].label)}</span>` : ""}
+        </div>
+      </article>`;
+  }
+
+  function initRemote() {
+    let t;
+    $("#rq").addEventListener("input", (e) => {
+      clearTimeout(t);
+      t = setTimeout(() => { state.rq = e.target.value; state.rShown = 30; renderRemote(); }, 120);
+    });
+    document.querySelector('[data-view="teletravail"]').addEventListener("click", (e) => {
+      const z = e.target.closest("[data-rzone]"), ty = e.target.closest("[data-rtype]"), c = e.target.closest("[data-rcat]");
+      if (z) state.rZone = z.dataset.rzone;
+      if (ty) state.rType = ty.dataset.rtype;
+      if (c) state.rCat = c.dataset.rcat;
+      if (z || ty || c) { state.rShown = 30; renderRemote(); return; }
+      if (e.target.closest("#r-more")) { state.rShown += 30; renderRemote(); return; }
+      if (e.target.closest("[data-rtrack]")) {
+        const o = (state.remote?.offres || []).find((x) => x.id === e.target.closest(".rjob").dataset.rid);
+        if (o) openCand({ entreprise: o.entreprise || "", poste: o.titre, pays: "remote", lieu: o.lieu || "Télétravail", lien: o.url, statut: "a-postuler" });
+      }
+    });
+  }
+
   // ======================= Candidatures =======================
   function saveCands() {
     if (!store.set(STORE, state.cands)) toast("Impossible d'enregistrer dans ce navigateur — pensez à exporter.");
@@ -447,7 +572,7 @@
         </div>
         <div class="meta">
           <strong style="color:var(--text-2)">${esc(c.entreprise)}</strong>
-          <span><span class="cc ${c.pays === "fr" ? "fr" : "lu"}">${c.pays === "fr" ? "FR" : "LU"}</span> ${esc(c.lieu || (c.pays === "fr" ? "France" : "Luxembourg"))}</span>
+          <span><span class="cc ${PAYS[c.pays] ? c.pays : "lu"}">${(PAYS[c.pays] || PAYS.lu).cc}</span> ${esc(c.lieu || (PAYS[c.pays] || PAYS.lu).nom)}</span>
           ${c.date ? `<span>${esc(fmtDate(c.date))}</span>` : ""}
           ${safeUrl(c.lien) ? `<a href="${esc(safeUrl(c.lien))}" target="_blank" rel="noopener">Voir l'offre ↗</a>` : ""}
         </div>
@@ -549,7 +674,7 @@
             if (!c || typeof c !== "object" || !c.entreprise || !c.poste) return;
             const entry = {
               id: String(c.id || uid()), entreprise: String(c.entreprise), poste: String(c.poste),
-              pays: c.pays === "fr" ? "fr" : "lu", lieu: String(c.lieu || ""),
+              pays: PAYS[c.pays] ? c.pays : "lu", lieu: String(c.lieu || ""),
               statut: statutLabel[c.statut] ? c.statut : "a-postuler",
               date: /^\d{4}-\d{2}-\d{2}$/.test(c.date || "") ? c.date : "",
               lien: safeUrl(c.lien || ""), notes: String(c.notes || ""), maj: String(c.maj || new Date().toISOString()),
@@ -570,10 +695,11 @@
   // ======================= Routage =======================
   function route() {
     const h = location.hash.replace(/^#/, "");
-    const view = h === "suivi" ? "suivi" : h === "apropos" ? "apropos" : "explorer";
+    const view = ["suivi", "apropos", "teletravail"].includes(h) ? h : "explorer";
     $$("[data-view]").forEach((v) => (v.hidden = v.dataset.view !== view));
     $$(".nav-link").forEach((a) => a.classList.toggle("is-on", a.dataset.route === view));
     if (view === "suivi") renderSuivi();
+    if (view === "teletravail") renderRemote();
     if (h.startsWith("metier/")) openDetail(h.slice(7));
     else if ($("#detail").open) $("#detail").close();
     if (!h.startsWith("metier/")) window.scrollTo({ top: 0 });
@@ -595,7 +721,7 @@
 
   async function init() {
     $("#grid").innerHTML = Array.from({ length: 6 }, () => `<div class="skeleton"></div>`).join("");
-    initExplorer(); initSuivi(); initDialogs(); renderBadge();
+    initExplorer(); initSuivi(); initRemote(); initDialogs(); renderBadge();
     $$("[data-route]").forEach((a) => a.addEventListener("click", (e) => {
       if (a.dataset.route === "explorer") { e.preventDefault(); history.pushState(null, "", location.pathname); route(); }
     }));

@@ -28,6 +28,7 @@
       </a>
       <nav class="nav-links" aria-label="Navigation principale">
         <a href="#" data-route="explorer" class="nav-link">Explorer</a>
+        <a href="#teletravail" data-route="teletravail" class="nav-link">Télétravail</a>
         <a href="#suivi" data-route="suivi" class="nav-link">Mes candidatures <span class="pill-count" id="badge-count" hidden>0</span></a>
         <a href="#apropos" data-route="apropos" class="nav-link">À propos</a>
       </nav>
@@ -115,6 +116,57 @@
       </div>
     </section>
 
+    <!-- ================= TÉLÉTRAVAIL ================= -->
+    <section data-view="teletravail" hidden>
+      <div class="hero hero-sm">
+        <div class="hero-bg" aria-hidden="true"></div>
+        <div class="wrap hero-inner">
+          <p class="eyebrow"><span class="dot"></span> Offres mises à jour chaque jour</p>
+          <h1>Télétravail &amp; <span class="grad">freelance</span></h1>
+          <p class="lead">Des offres 100 % à distance, à filtrer selon l'endroit d'où vous pouvez postuler. Idéal pour travailler pour une entreprise étrangère sans déménager.</p>
+          <div class="searchbar">
+            <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+            <input id="rq" type="search" placeholder="Développeur, designer, support client…" autocomplete="off" aria-label="Rechercher une offre en télétravail">
+          </div>
+        </div>
+      </div>
+
+      <div class="wrap">
+        <div class="remote-filters">
+          <div class="filter-group">
+            <span class="filter-label">Depuis où pouvez-vous postuler ?</span>
+            <div class="chips" id="r-zone" role="toolbar" aria-label="Zone"></div>
+          </div>
+          <div class="filter-group">
+            <span class="filter-label">Type de contrat</span>
+            <div class="chips" id="r-type" role="toolbar" aria-label="Type de contrat"></div>
+          </div>
+        </div>
+        <div class="sectors" id="r-cat" role="toolbar" aria-label="Catégories"></div>
+
+        <div class="results-head">
+          <h2 id="r-title">Offres</h2>
+          <span class="muted small" id="r-maj"></span>
+        </div>
+        <div id="r-list" class="remote-list" aria-live="polite"></div>
+        <div class="more-wrap"><button type="button" class="btn" id="r-more" hidden>Voir plus d'offres</button></div>
+
+        <article class="panel platforms">
+          <h2>Plateformes freelance</h2>
+          <p class="muted">Pour proposer vos services en mission, créez un profil sur ces plateformes. Vérifiez les conditions d'inscription pour votre pays.</p>
+          <div class="plat-grid">
+            <a class="plat" href="https://www.codeur.com/" target="_blank" rel="noopener"><strong>Codeur.com</strong><span>Missions en français, tous métiers du numérique</span></a>
+            <a class="plat" href="https://www.malt.fr/" target="_blank" rel="noopener"><strong>Malt</strong><span>Freelances en France et en Europe</span></a>
+            <a class="plat" href="https://www.free-work.com/fr/tech-it" target="_blank" rel="noopener"><strong>Free-Work</strong><span>Missions IT en France</span></a>
+            <a class="plat" href="https://www.upwork.com/" target="_blank" rel="noopener"><strong>Upwork</strong><span>Missions internationales, en anglais</span></a>
+            <a class="plat" href="https://www.fiverr.com/" target="_blank" rel="noopener"><strong>Fiverr</strong><span>Vendez des services à prix fixe</span></a>
+            <a class="plat" href="https://www.freelancer.com/" target="_blank" rel="noopener"><strong>Freelancer.com</strong><span>Appels d'offres internationaux</span></a>
+          </div>
+        </article>
+        <p class="note small-note">Offres fournies par <span id="r-sources"></span>. Les candidatures se font sur le site d'origine de chaque offre.</p>
+      </div>
+    </section>
+
     <!-- ================= À PROPOS ================= -->
     <section data-view="apropos" hidden>
       <div class="wrap page narrow">
@@ -144,6 +196,7 @@
             <li><strong>Chaque jour</strong>, un robot télécharge la liste de l'ADEM et vérifie sur Légifrance si un nouvel arrêté est paru.</li>
             <li>Les listes sont analysées automatiquement ; si le format change de façon inattendue, les anciennes données sont conservées.</li>
             <li>Pour la France, le nombre d'offres et les dernières annonces viennent de l'<strong>API officielle de France Travail</strong>.</li>
+            <li>Les offres en télétravail proviennent de Remotive, Remote OK, Himalayas et Jobicy, qui publient leurs annonces pour qu'elles soient partagées ; chaque offre renvoie vers son site d'origine.</li>
             <li>Les boutons de recherche ouvrent les sites d'emploi en direct : leurs résultats sont toujours à jour.</li>
           </ul>
           <p class="muted small" id="maj-info"></p>
@@ -182,7 +235,7 @@
         <label class="field"><span>Entreprise *</span><input id="f-entreprise" required></label>
         <label class="field"><span>Poste *</span><input id="f-poste" required></label>
         <label class="field"><span>Pays</span>
-          <select id="f-pays"><option value="lu">Luxembourg</option><option value="fr">France</option></select>
+          <select id="f-pays"><option value="lu">Luxembourg</option><option value="fr">France</option><option value="remote">Télétravail</option></select>
         </label>
         <label class="field"><span>Ville / région</span><input id="f-lieu"></label>
         <label class="field"><span>Statut</span><select id="f-statut"></select></label>

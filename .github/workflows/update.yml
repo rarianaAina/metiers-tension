@@ -48,6 +48,11 @@ jobs:
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
         run: node scripts/update-offres.mjs
 
+      - name: Télétravail & freelance (Remotive, Remote OK, Himalayas, Jobicy)
+        id: remote
+        continue-on-error: true
+        run: node scripts/update-teletravail.mjs
+
       - name: Enregistrer les changements
         run: |
           git config user.name "github-actions[bot]"
@@ -61,7 +66,7 @@ jobs:
           fi
 
       - name: Signaler un échec
-        if: steps.lu.outcome == 'failure' || steps.fr.outcome == 'failure' || steps.offres.outcome == 'failure'
+        if: steps.lu.outcome == 'failure' || steps.fr.outcome == 'failure' || steps.offres.outcome == 'failure' || steps.remote.outcome == 'failure'
         run: |
-          echo "::error::Au moins une mise à jour a échoué (LU=${{ steps.lu.outcome }}, FR=${{ steps.fr.outcome }}, offres=${{ steps.offres.outcome }}). Les anciennes données ont été conservées."
+          echo "::error::Au moins une mise à jour a échoué (LU=${{ steps.lu.outcome }}, FR=${{ steps.fr.outcome }}, offres=${{ steps.offres.outcome }}, télétravail=${{ steps.remote.outcome }}). Les anciennes données ont été conservées."
           exit 1

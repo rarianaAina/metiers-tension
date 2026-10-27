@@ -171,6 +171,7 @@ svg { stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; 
 .cc { display: inline-grid; place-items: center; min-width: 24px; height: 18px; padding: 0 4px; border-radius: 5px; font-size: 10px; font-weight: 800; letter-spacing: .04em; color: #fff; }
 .cc.lu { background: var(--lu); }
 .cc.fr { background: var(--fr); }
+.cc.remote { background: var(--brand); color: var(--on-brand); }
 .cc.big { min-width: 40px; height: 28px; font-size: 13px; border-radius: 8px; }
 .select { position: relative; display: inline-flex; }
 .select select {
@@ -360,6 +361,46 @@ svg { stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; 
 .field textarea { resize: vertical; }
 .field input:focus, .field select:focus, .field textarea:focus { outline: 2px solid var(--brand); outline-offset: -1px; }
 .sheet-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 18px; }
+
+/* ============ Télétravail ============ */
+.hero.hero-sm { padding: 40px 0 20px; }
+.hero.hero-sm h1 { font-size: clamp(28px, 4.6vw, 44px); margin-top: 14px; }
+.remote-filters { display: flex; flex-wrap: wrap; gap: 14px 28px; margin: 10px 0 6px; }
+.filter-group { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.filter-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.remote-list { display: flex; flex-direction: column; gap: 10px; }
+.rjob {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 4px 14px; align-items: center;
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px;
+  box-shadow: var(--shadow-sm); transition: border-color .12s, box-shadow .12s;
+}
+.rjob:hover { border-color: var(--border-2); box-shadow: var(--shadow); }
+.rjob h3 { font-size: 15.5px; font-weight: 700; }
+.rjob .meta { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
+.rjob .tags { display: flex; flex-wrap: wrap; gap: 6px; grid-column: 2; margin-top: 4px; }
+.rjob-actions { display: flex; gap: 6px; grid-row: span 2; align-items: center; }
+.tag { font-size: 11.5px; font-weight: 700; padding: 3px 9px; border-radius: 999px; background: var(--surface-2); color: var(--text-2); }
+.tag.freelance { background: var(--ok-soft); color: var(--ok); }
+.tag.contrat { background: var(--warn-soft); color: var(--warn); }
+.tag.monde { background: var(--brand-soft); color: var(--brand-text); }
+.tag.money { background: var(--hot-soft); color: var(--hot); }
+.via { font-size: 12px; color: var(--muted); }
+.via a { color: inherit; }
+.more-wrap { display: flex; justify-content: center; margin: 18px 0 28px; }
+.platforms { margin-top: 8px; }
+.plat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; margin-top: 14px; }
+.plat {
+  display: flex; flex-direction: column; gap: 2px; padding: 14px; border: 1px solid var(--border); border-radius: 12px;
+  text-decoration: none; color: var(--text); background: var(--surface-2); transition: border-color .12s, transform .12s;
+}
+.plat:hover { border-color: var(--brand); transform: translateY(-2px); }
+.plat span { font-size: 13px; color: var(--muted); }
+.small-note { margin-bottom: 40px; }
+@media (max-width: 720px) {
+  .rjob { grid-template-columns: auto 1fr; }
+  .rjob-actions { grid-column: 1 / -1; grid-row: auto; margin-top: 8px; }
+  .rjob .tags { grid-column: 1 / -1; }
+}
 
 /* ============ Pied de page, toast ============ */
 .foot { border-top: 1px solid var(--border); padding: 22px 0 32px; font-size: 13px; color: var(--text-2); }
