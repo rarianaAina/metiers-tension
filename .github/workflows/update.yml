@@ -1,0 +1,67 @@
+name: Mise à jour des données
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # tous les jours à 5h UTC
+  workflow_dispatch: {} # bouton « Run workflow » dans l'onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Installer pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Luxembourg (liste ADEM)
+        id: lu
+        continue-on-error: true
+        run: node scripts/update-lu.mjs
+
+      - name: France (arrêté via l'API Légifrance)
+        id: fr
+        continue-on-error: true
+        env:
+          PISTE_CLIENT_ID: ${{ secrets.PISTE_CLIENT_ID }}
+          PISTE_CLIENT_SECRET: ${{ secrets.PISTE_CLIENT_SECRET }}
+          PISTE_ENV: ${{ vars.PISTE_ENV }} # « sandbox » si l'application PISTE est en SANDBOX
+        run: node scripts/update-fr.mjs
+
+      - name: Offres en direct (API France Travail)
+        id: offres
+        continue-on-error: true
+        env:
+          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
+          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+        run: node scripts/update-offres.mjs
+
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Mise à jour des données ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Signaler un échec
+        if: steps.lu.outcome == 'failure' || steps.fr.outcome == 'failure' || steps.offres.outcome == 'failure'
+        run: |
+          echo "::error::Au moins une mise à jour a échoué (LU=${{ steps.lu.outcome }}, FR=${{ steps.fr.outcome }}, offres=${{ steps.offres.outcome }}). Les anciennes données ont été conservées."
+          exit 1

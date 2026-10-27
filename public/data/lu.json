@@ -1,0 +1,749 @@
+{
+ "majLe": "2026-10-27T15:13:29.925Z",
+ "source": {
+  "titre": "ADEM – Liste des métiers très en pénurie 2026",
+  "url": "https://adem.public.lu/dam-assets/fr/publications/adem/metiers-penurie.pdf",
+  "annee": "2026",
+  "reference": "Mémorial B N° 1490 du 27 mars 2026, rectifié par le Mémorial B N° 3546 du 6 août 2026"
+ },
+ "metiers": [
+  {
+   "code": "C1202",
+   "titre": "Analyse de crédits et risques bancaires",
+   "secteur": "finance",
+   "appellations": [
+    {
+     "nom": "Analyste de crédits et risques bancaires",
+     "court": "Analyste de crédits et risques bancaires"
+    },
+    {
+     "nom": "Analyste Know Your Customer – KYC",
+     "court": "Analyste Know Your Customer – KYC"
+    },
+    {
+     "nom": "Gestionnaire risques bancaires",
+     "court": "Gestionnaire risques bancaires"
+    },
+    {
+     "nom": "Gestionnaire engagements bancaires",
+     "court": "Gestionnaire engagements bancaires"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "C1206",
+   "titre": "Gestion de clientèle bancaire",
+   "secteur": "finance",
+   "appellations": [
+    {
+     "nom": "Chargé / Chargée de clientèle bancaire",
+     "court": "Chargé de clientèle bancaire"
+    },
+    {
+     "nom": "Chargé / Chargée de clientèle professionnelle de banque",
+     "court": "Chargé de clientèle professionnelle de banque"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "C1301",
+   "titre": "Front office marchés financiers",
+   "secteur": "finance",
+   "appellations": [
+    {
+     "nom": "Gestionnaire d'organisme de placement collectif en valeurs mobilières - OPCVM",
+     "court": "Gestionnaire d'organisme de placement collectif en valeurs mobilières - OPCVM"
+    },
+    {
+     "nom": "Négociateur / Négociatrice salle des marchés",
+     "court": "Négociateur salle des marchés"
+    },
+    {
+     "nom": "Cambiste",
+     "court": "Cambiste"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "F1610",
+   "titre": "Pose et restauration de couvertures",
+   "secteur": "btp",
+   "appellations": [
+    {
+     "nom": "Couvreur / Couvreuse",
+     "court": "Couvreur"
+    },
+    {
+     "nom": "Chef d'équipe de couvreurs",
+     "court": "Chef d'équipe de couvreurs"
+    },
+    {
+     "nom": "Zingueur / Zingueuse",
+     "court": "Zingueur"
+    },
+    {
+     "nom": "Monteur / Monteuse de panneaux photovoltaïques",
+     "court": "Monteur de panneaux photovoltaïques"
+    }
+   ],
+   "exclues": [
+    "Aide couvreur / couvreuse"
+   ]
+  },
+  {
+   "code": "H1206",
+   "titre": "Management et ingénierie études, recherche et développement industriel",
+   "secteur": "industrie",
+   "appellations": [
+    {
+     "nom": "Ingénieur / Ingénieure en nanotechnologie en industrie",
+     "court": "Ingénieur en nanotechnologie en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure des mesures et tests en industrie",
+     "court": "Ingénieur des mesures et tests en industrie"
+    },
+    {
+     "nom": "Ingénieur physicien / Ingénieure physicienne en industrie",
+     "court": "Ingénieur physicien en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure biologiste en industrie",
+     "court": "Ingénieur biologiste en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en automatismes en industrie",
+     "court": "Ingénieur en automatismes en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en recherche analytique en industrie",
+     "court": "Ingénieur en recherche analytique en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en procédés, études et développement",
+     "court": "Ingénieur en procédés, études et développement"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en automobile en industrie",
+     "court": "Ingénieur en automobile en industrie"
+    },
+    {
+     "nom": "Chargé / Chargée d'études cliniques en industrie",
+     "court": "Chargé d'études cliniques en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure de recherche procédés en industrie",
+     "court": "Ingénieur de recherche procédés en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en chimie en industrie",
+     "court": "Ingénieur en chimie en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en systèmes électriques en industrie",
+     "court": "Ingénieur en systèmes électriques en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en matériaux en industrie",
+     "court": "Ingénieur en matériaux en industrie"
+    },
+    {
+     "nom": "Chargé / Chargée d'études projets industriels",
+     "court": "Chargé d'études projets industriels"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en structures aéronautiques en industrie",
+     "court": "Ingénieur en structures aéronautiques en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure recherche développement énergies renouvelables en industrie",
+     "court": "Ingénieur recherche développement énergies renouvelables en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en propriété industrielle",
+     "court": "Ingénieur en propriété industrielle"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en cristallographie en industrie",
+     "court": "Ingénieur en cristallographie en industrie"
+    },
+    {
+     "nom": "Chargé / Chargée d'études analytiques en industrie",
+     "court": "Chargé d'études analytiques en industrie"
+    },
+    {
+     "nom": "Ingénieur mécatronicien / Ingénieure mécatronicienne en industrie",
+     "court": "Ingénieur mécatronicien en industrie"
+    },
+    {
+     "nom": "Directeur / Directrice de recherche-développement en industrie",
+     "court": "Directeur de recherche-développement en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en biotechnologie en industrie",
+     "court": "Ingénieur en biotechnologie en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure biochimiste en industrie",
+     "court": "Ingénieur biochimiste en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure plasturgiste en industrie",
+     "court": "Ingénieur plasturgiste en industrie"
+    },
+    {
+     "nom": "Ingénieur électricien / Ingénieure électricienne en industrie",
+     "court": "Ingénieur électricien en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure systèmes industriels",
+     "court": "Ingénieur systèmes industriels"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en microbiologie en industrie",
+     "court": "Ingénieur en microbiologie en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure de recherche produits en industrie",
+     "court": "Ingénieur de recherche produits en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en thermodynamique en industrie",
+     "court": "Ingénieur en thermodynamique en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure robotique en industrie",
+     "court": "Ingénieur robotique en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure chimiste en industrie",
+     "court": "Ingénieur chimiste en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure de verrerie",
+     "court": "Ingénieur de verrerie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure brevet en industrie",
+     "court": "Ingénieur brevet en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en composants électroniques en industrie",
+     "court": "Ingénieur en composants électroniques en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure recherche développement packaging",
+     "court": "Ingénieur recherche développement packaging"
+    },
+    {
+     "nom": "Responsable de projet recherche et développement",
+     "court": "Responsable de projet recherche et développement"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure en aérospatiale en industrie",
+     "court": "Ingénieur en aérospatiale en industrie"
+    },
+    {
+     "nom": "Ingénieur électronicien / Ingénieure électronicienne en industrie",
+     "court": "Ingénieur électronicien en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure développements en industrie",
+     "court": "Ingénieur développements en industrie"
+    },
+    {
+     "nom": "Chef de projet études industrielles",
+     "court": "Chef de projet études industrielles"
+    },
+    {
+     "nom": "Ingénieur mécanicien / Ingénieure mécanicienne en industrie",
+     "court": "Ingénieur mécanicien en industrie"
+    },
+    {
+     "nom": "Chef de projet recherche et développement en industrie",
+     "court": "Chef de projet recherche et développement en industrie"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure de conception et développement en industrie",
+     "court": "Ingénieur de conception et développement en industrie"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "H1502",
+   "titre": "Management et ingénierie qualité industrielle",
+   "secteur": "industrie",
+   "appellations": [
+    {
+     "nom": "Responsable qualité en industrie",
+     "court": "Responsable qualité en industrie"
+    },
+    {
+     "nom": "Responsable Qualité Sécurité Environnement -QSE- en industrie",
+     "court": "Responsable Qualité Sécurité Environnement -QSE- en industrie"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "I1304",
+   "titre": "Installation et maintenance d'équipements industriels et d'exploitation",
+   "secteur": "maintenance",
+   "appellations": [
+    {
+     "nom": "Electromécanicien / Electromécanicienne d'équipements industriels",
+     "court": "Electromécanicien d'équipements industriels"
+    },
+    {
+     "nom": "Electromécanicien / Electromécanicienne de maintenance industrielle",
+     "court": "Electromécanicien de maintenance industrielle"
+    },
+    {
+     "nom": "Agent / Agente de maintenance industrielle",
+     "court": "Agent de maintenance industrielle"
+    },
+    {
+     "nom": "Technicien / Technicienne d'installation d'équipements industriels",
+     "court": "Technicien d'installation d'équipements industriels"
+    },
+    {
+     "nom": "Technicien / Technicienne de maintenance industrielle polyvalente",
+     "court": "Technicien de maintenance industrielle polyvalente"
+    },
+    {
+     "nom": "Chef d'atelier d'entretien et de maintenance industrielle",
+     "court": "Chef d'atelier d'entretien et de maintenance industrielle"
+    },
+    {
+     "nom": "Technicien / Technicienne de maintenance d'équipements de parcs d'attractions",
+     "court": "Technicien de maintenance d'équipements de parcs d'attractions"
+    },
+    {
+     "nom": "Chef d'atelier de maintenance industrielle",
+     "court": "Chef d'atelier de maintenance industrielle"
+    },
+    {
+     "nom": "Technicien itinérant / Technicienne itinérante de maintenance Service Après-Vente - SAV",
+     "court": "Technicien itinérant de maintenance Service Après-Vente - SAV"
+    },
+    {
+     "nom": "Technicien / Technicienne de maintenance industrielle",
+     "court": "Technicien de maintenance industrielle"
+    },
+    {
+     "nom": "Dépanneur électromécanicien / Dépanneuse électromécanicienne d'équipements industriels",
+     "court": "Dépanneur électromécanicien d'équipements industriels"
+    },
+    {
+     "nom": "Technicien / Technicienne de maintenance d'équipements de production",
+     "court": "Technicien de maintenance d'équipements de production"
+    },
+    {
+     "nom": "Chef d'équipe de maintenance industrielle",
+     "court": "Chef d'équipe de maintenance industrielle"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "I1310",
+   "titre": "Maintenance mécanique industrielle",
+   "secteur": "maintenance",
+   "appellations": [
+    {
+     "nom": "Mécanicien / Mécanicienne d'entretien industriel",
+     "court": "Mécanicien d'entretien industriel"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "I1606",
+   "titre": "Réparation de carrosserie",
+   "secteur": "maintenance",
+   "appellations": [
+    {
+     "nom": "Peintre en carrosserie",
+     "court": "Peintre en carrosserie"
+    },
+    {
+     "nom": "Carrossier / Carrossière poids lourds",
+     "court": "Carrossier poids lourds"
+    },
+    {
+     "nom": "Chef d'atelier de carrosserie",
+     "court": "Chef d'atelier de carrosserie"
+    },
+    {
+     "nom": "Carrossier / Carrossière",
+     "court": "Carrossier"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "J1501",
+   "titre": "Soins d'hygiène, de confort du patient",
+   "secteur": "sante",
+   "appellations": [
+    {
+     "nom": "Aide-soignant / Aide-soignante en gériatrie",
+     "court": "Aide-soignant en gériatrie"
+    },
+    {
+     "nom": "Aide-soignant / Aide-soignante en puériculture",
+     "court": "Aide-soignant en puériculture"
+    },
+    {
+     "nom": "Aide-soignant / Aide-soignante à domicile",
+     "court": "Aide-soignant à domicile"
+    },
+    {
+     "nom": "Aide-soignant / Aide-soignante",
+     "court": "Aide-soignant"
+    },
+    {
+     "nom": "Aide-soignant hospitalier / Aide-soignante hospitalière",
+     "court": "Aide-soignant hospitalier"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "J1506",
+   "titre": "Soins infirmiers généralistes",
+   "secteur": "sante",
+   "appellations": [
+    {
+     "nom": "Infirmier / Infirmière de service hospitalier",
+     "court": "Infirmier de service hospitalier"
+    },
+    {
+     "nom": "Infirmier / Infirmière en gériatrie",
+     "court": "Infirmier en gériatrie"
+    },
+    {
+     "nom": "Infirmier préleveur / Infirmière préleveuse",
+     "court": "Infirmier préleveur"
+    },
+    {
+     "nom": "Infirmier / Infirmière psychiatrique",
+     "court": "Infirmier psychiatrique"
+    },
+    {
+     "nom": "Infirmier / Infirmière de soins généraux",
+     "court": "Infirmier de soins généraux"
+    },
+    {
+     "nom": "Infirmier coordinateur / Infirmière coordinatrice de services de maintien à domicile",
+     "court": "Infirmier coordinateur de services de maintien à domicile"
+    },
+    {
+     "nom": "Infirmier libéral / Infirmière libérale",
+     "court": "Infirmier libéral"
+    },
+    {
+     "nom": "Infirmier / Infirmière d'hospitalisation à domicile",
+     "court": "Infirmier d'hospitalisation à domicile"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "K1201",
+   "titre": "Action sociale",
+   "secteur": "sante",
+   "appellations": [
+    {
+     "nom": "Assistant social / Assistante sociale",
+     "court": "Assistant social"
+    },
+    {
+     "nom": "Coordonnateur / Coordonnatrice de service d'action sociale",
+     "court": "Coordonnateur de service d'action sociale"
+    },
+    {
+     "nom": "Assistant social / Assistante sociale du travail",
+     "court": "Assistant social du travail"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "K1202",
+   "titre": "Éducation de jeunes enfants",
+   "secteur": "sante",
+   "appellations": [
+    {
+     "nom": "Educateur / Educatrice de jeunes enfants",
+     "court": "Educateur de jeunes enfants"
+    },
+    {
+     "nom": "Responsable de structure multi accueil petite enfance",
+     "court": "Responsable de structure multi accueil petite enfance"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "K1207",
+   "titre": "Intervention socioéducative",
+   "secteur": "sante",
+   "appellations": [
+    {
+     "nom": "Educateur socioéducatif / Educatrice socioéducative",
+     "court": "Educateur socioéducatif"
+    },
+    {
+     "nom": "Educateur spécialisé / Educatrice spécialisée",
+     "court": "Educateur spécialisé"
+    },
+    {
+     "nom": "Elève éducateur socioéducatif / éducatrice socioéducative",
+     "court": "Elève éducateur socioéducatif"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "K1903",
+   "titre": "Défense et conseil juridique",
+   "secteur": "finance",
+   "appellations": [
+    {
+     "nom": "Responsable de service juridique",
+     "court": "Responsable de service juridique"
+    },
+    {
+     "nom": "Fiscaliste",
+     "court": "Fiscaliste"
+    },
+    {
+     "nom": "Juriste",
+     "court": "Juriste"
+    },
+    {
+     "nom": "Avocat / Avocate",
+     "court": "Avocat"
+    },
+    {
+     "nom": "Juriste d'assurances",
+     "court": "Juriste d'assurances"
+    },
+    {
+     "nom": "Juriste de banque",
+     "court": "Juriste de banque"
+    },
+    {
+     "nom": "Conseiller fiscal / Conseillère fiscale",
+     "court": "Conseiller fiscal"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "M1201",
+   "titre": "Analyse et ingénierie financière",
+   "secteur": "finance",
+   "appellations": [
+    {
+     "nom": "Analyste financier / financière",
+     "court": "Analyste financier"
+    },
+    {
+     "nom": "Economiste financier / financière",
+     "court": "Economiste financier"
+    },
+    {
+     "nom": "Risk manager - risques financiers",
+     "court": "Risk manager - risques financiers"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "M1202",
+   "titre": "Audit et contrôle comptables et financiers",
+   "secteur": "finance",
+   "appellations": [
+    {
+     "nom": "Auditeur / Auditrice interne",
+     "court": "Auditeur interne"
+    },
+    {
+     "nom": "Expert-comptable / Experte-comptable",
+     "court": "Expert-comptable"
+    },
+    {
+     "nom": "Réviseur / Réviseuse des comptes",
+     "court": "Réviseur des comptes"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "M1801",
+   "titre": "Administration de systèmes d'information",
+   "secteur": "informatique",
+   "appellations": [
+    {
+     "nom": "Administrateur / Administratrice de bases de données",
+     "court": "Administrateur de bases de données"
+    },
+    {
+     "nom": "Administrateur / Administratrice système informatique",
+     "court": "Administrateur système informatique"
+    },
+    {
+     "nom": "Administrateur / Administratrice de serveurs",
+     "court": "Administrateur de serveurs"
+    },
+    {
+     "nom": "Administrateur / Administratrice réseaux - télécoms",
+     "court": "Administrateur réseaux - télécoms"
+    },
+    {
+     "nom": "Administrateur / Administratrice sécurité informatique",
+     "court": "Administrateur sécurité informatique"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "M1802",
+   "titre": "Expertise et support technique en systèmes d'information",
+   "secteur": "informatique",
+   "appellations": [
+    {
+     "nom": "Analyste en vulnérabilité de code logiciel",
+     "court": "Analyste en vulnérabilité de code logiciel"
+    },
+    {
+     "nom": "Architecte cloud",
+     "court": "Architecte cloud"
+    },
+    {
+     "nom": "Architecte de sécurité des systèmes d'information",
+     "court": "Architecte de sécurité des systèmes d'information"
+    },
+    {
+     "nom": "Responsable sécurité informatique",
+     "court": "Responsable sécurité informatique"
+    },
+    {
+     "nom": "Architecte réseaux informatiques",
+     "court": "Architecte réseaux informatiques"
+    },
+    {
+     "nom": "Architecte système d'information",
+     "court": "Architecte système d'information"
+    },
+    {
+     "nom": "Auditeur / Auditrice en système d'information",
+     "court": "Auditeur en système d'information"
+    },
+    {
+     "nom": "Expert / Experte en tests d'intrusion - sécurité des systèmes d'information",
+     "court": "Expert en tests d'intrusion - sécurité des systèmes d'information"
+    },
+    {
+     "nom": "Auditeur / Auditrice en sécurité des systèmes d'information",
+     "court": "Auditeur en sécurité des systèmes d'information"
+    },
+    {
+     "nom": "Ingénieur / Ingénieure méthodes informatiques",
+     "court": "Ingénieur méthodes informatiques"
+    }
+   ],
+   "exclues": []
+  },
+  {
+   "code": "M1805",
+   "titre": "Études et développement informatique",
+   "secteur": "informatique",
+   "appellations": [
+    {
+     "nom": "Analyste décisionnel - Business Intelligence",
+     "court": "Analyste décisionnel - Business Intelligence"
+    },
+    {
+     "nom": "Analyste fonctionnel / fonctionnelle informatique",
+     "court": "Analyste fonctionnel informatique"
+    },
+    {
+     "nom": "Analyste organique informatique",
+     "court": "Analyste organique informatique"
+    },
+    {
+     "nom": "Chef de projet étude et développement informatique",
+     "court": "Chef de projet étude et développement informatique"
+    },
+    {
+     "nom": "Chef de projet TMA - Tierce Maintenance Applicative",
+     "court": "Chef de projet TMA - Tierce Maintenance Applicative"
+    },
+    {
+     "nom": "Développeur / Développeuse décisionnel - Business Intelligence",
+     "court": "Développeur décisionnel - Business Intelligence"
+    },
+    {
+     "nom": "Développeur / Développeuse full-stack",
+     "court": "Développeur full-stack"
+    },
+    {
+     "nom": "Développeur / Développeuse multimédia",
+     "court": "Développeur multimédia"
+    },
+    {
+     "nom": "Développeur / Développeuse web mobile",
+     "court": "Développeur web mobile"
+    },
+    {
+     "nom": "Analyste-programmeur / Analyste-programmeuse en informatique industrielle",
+     "court": "Analyste-programmeur en informatique industrielle"
+    },
+    {
+     "nom": "Analyste-programmeur / Analyste-programmeuse scientifique informatique",
+     "court": "Analyste-programmeur scientifique informatique"
+    },
+    {
+     "nom": "Analyste-programmeur / Analyste-programmeuse informatique",
+     "court": "Analyste-programmeur informatique"
+    },
+    {
+     "nom": "Développeur / Développeuse informatique",
+     "court": "Développeur informatique"
+    },
+    {
+     "nom": "Développeur / Développeuse Big Data",
+     "court": "Développeur Big Data"
+    },
+    {
+     "nom": "Développeur / Développeuse web",
+     "court": "Développeur web"
+    },
+    {
+     "nom": "Intégrateur / Intégratrice d'application informatique",
+     "court": "Intégrateur d'application informatique"
+    },
+    {
+     "nom": "Webmaster développeur / développeuse",
+     "court": "Webmaster développeur"
+    },
+    {
+     "nom": "Paramétreur / Paramétreuse logiciel ERP",
+     "court": "Paramétreur logiciel ERP"
+    },
+    {
+     "nom": "Testeur / Testeuse informatique",
+     "court": "Testeur informatique"
+    }
+   ],
+   "exclues": []
+  }
+ ]
+}

@@ -1,0 +1,2508 @@
+{
+ "majLe": "2026-10-27T15:01:00.304Z",
+ "source": {
+  "titre": "Arrêté du 21 mai 2025 fixant la liste des métiers en tension",
+  "nor": "TSSD2508346A",
+  "cid": null,
+  "url": "https://www.legifrance.gouv.fr/eli/arrete/2025/5/21/TSSD2508346A/jo/texte",
+  "date": "2025-05-21"
+ },
+ "regions": [
+  {
+   "id": "ara",
+   "code": "84",
+   "nom": "Auvergne-Rhône-Alpes"
+  },
+  {
+   "id": "bfc",
+   "code": "27",
+   "nom": "Bourgogne-Franche-Comté"
+  },
+  {
+   "id": "bre",
+   "code": "53",
+   "nom": "Bretagne"
+  },
+  {
+   "id": "cvl",
+   "code": "24",
+   "nom": "Centre-Val de Loire"
+  },
+  {
+   "id": "cor",
+   "code": "94",
+   "nom": "Corse"
+  },
+  {
+   "id": "ges",
+   "code": "44",
+   "nom": "Grand Est"
+  },
+  {
+   "id": "hdf",
+   "code": "32",
+   "nom": "Hauts-de-France"
+  },
+  {
+   "id": "idf",
+   "code": "11",
+   "nom": "Île-de-France"
+  },
+  {
+   "id": "nor",
+   "code": "28",
+   "nom": "Normandie"
+  },
+  {
+   "id": "naq",
+   "code": "75",
+   "nom": "Nouvelle-Aquitaine"
+  },
+  {
+   "id": "occ",
+   "code": "76",
+   "nom": "Occitanie"
+  },
+  {
+   "id": "pdl",
+   "code": "52",
+   "nom": "Pays de la Loire"
+  },
+  {
+   "id": "pac",
+   "code": "93",
+   "nom": "Provence-Alpes-Côte d'Azur"
+  }
+ ],
+ "familles": [
+  {
+   "code": "T4Z60",
+   "titre": "Agents d'entretien de locaux",
+   "secteur": "services",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "cor",
+    "ges",
+    "naq",
+    "occ",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "I1501",
+     "titre": "Intervention en grande hauteur"
+    },
+    {
+     "code": "K2202",
+     "titre": "Lavage de vitres"
+    },
+    {
+     "code": "K2203",
+     "titre": "Management et inspection en propreté de locaux"
+    },
+    {
+     "code": "K2204",
+     "titre": "Nettoyage de locaux"
+    }
+   ]
+  },
+  {
+   "code": "E2Z80",
+   "titre": "Agents de maîtrise et assimilés des industries de process",
+   "secteur": "industrie",
+   "regions": [
+    "idf",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "H2504",
+     "titre": "Encadrement d'équipe en industrie de transformation"
+    }
+   ]
+  },
+  {
+   "code": "D4Z41",
+   "titre": "Agents qualifiés de traitement thermique et de surface",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "ges",
+    "naq",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H3401",
+     "titre": "Conduite de traitement d'abrasion de surface"
+    },
+    {
+     "code": "H3402",
+     "titre": "Conduite de traitement par dépôt de surface"
+    },
+    {
+     "code": "H3403",
+     "titre": "Conduite de traitement thermique"
+    },
+    {
+     "code": "H3404",
+     "titre": "Peinture industrielle"
+    }
+   ]
+  },
+  {
+   "code": "A0Z40",
+   "titre": "Agriculteurs salariés",
+   "secteur": "agriculture",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1416",
+     "titre": "Polyculture, élevage"
+    }
+   ]
+  },
+  {
+   "code": "T2A60",
+   "titre": "Aides à domicile et aides ménagères",
+   "secteur": "services",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "K1302",
+     "titre": "Assistance auprès d'adultes"
+    },
+    {
+     "code": "K1305",
+     "titre": "Intervention sociale et familiale"
+    }
+   ]
+  },
+  {
+   "code": "S1Z20",
+   "titre": "Aides de cuisine, apprentis de cuisine et employés polyvalents de la restauration",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "G1603",
+     "titre": "Personnel polyvalent en restauration"
+    },
+    {
+     "code": "G1604",
+     "titre": "Fabrication de crêpes ou pizzas"
+    },
+    {
+     "code": "G1605",
+     "titre": "Plonge en restauration"
+    }
+   ]
+  },
+  {
+   "code": "V0Z60",
+   "titre": "Aides-soignants",
+   "secteur": "sante",
+   "regions": [
+    "bfc",
+    "ges",
+    "hdf",
+    "idf",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1501",
+     "titre": "Aide aux soins animaux"
+    },
+    {
+     "code": "J1303",
+     "titre": "Assistance médico-technique"
+    },
+    {
+     "code": "J1304",
+     "titre": "Aide en puériculture"
+    },
+    {
+     "code": "J1501",
+     "titre": "Soins d'hygiène, de confort du patient"
+    },
+    {
+     "code": "K1301",
+     "titre": "Accompagnement médicosocial"
+    }
+   ]
+  },
+  {
+   "code": "S0Z20",
+   "titre": "Apprentis et ouvriers non qualifiés de l'alimentation (hors industries agro-alimentaires)",
+   "secteur": "hotellerie",
+   "regions": [
+    "naq",
+    "occ"
+   ],
+   "rome": [
+    {
+     "code": "D1101",
+     "titre": "Boucherie"
+    },
+    {
+     "code": "D1102",
+     "titre": "Boulangerie - viennoiserie"
+    },
+    {
+     "code": "D1103",
+     "titre": "Charcuterie - traiteur"
+    },
+    {
+     "code": "D1104",
+     "titre": "Pâtisserie, confiserie, chocolaterie et glacerie"
+    }
+   ]
+  },
+  {
+   "code": "E0Z24",
+   "titre": "Autres ouvriers non qualifiés de type industriel",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "H3301",
+     "titre": "Conduite d'équipement de conditionnement"
+    },
+    {
+     "code": "H3302",
+     "titre": "Opérations manuelles d'assemblage, tri ou emballage"
+    },
+    {
+     "code": "H3303",
+     "titre": "Préparation de matières et produits industriels (broyage, mélange, …)"
+    }
+   ]
+  },
+  {
+   "code": "E1Z47",
+   "titre": "Autres ouvriers qualifiés de type industriel",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "nor",
+    "naq",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H3301",
+     "titre": "Conduite d'équipement de conditionnement"
+    },
+    {
+     "code": "H3303",
+     "titre": "Préparation de matières et produits industriels (broyage, mélange, …)"
+    }
+   ]
+  },
+  {
+   "code": "E1Z42",
+   "titre": "Autres ouvriers qualifiés des industries agro-alimentaires (hors transformation des viandes)",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1412",
+     "titre": "Fabrication et affinage de fromages"
+    },
+    {
+     "code": "A1413",
+     "titre": "Fermentation de boissons alcoolisées"
+    },
+    {
+     "code": "H2102",
+     "titre": "Conduite d'équipement de production alimentaire"
+    }
+   ]
+  },
+  {
+   "code": "S0Z40",
+   "titre": "Bouchers",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "cor",
+    "ges",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "D1101",
+     "titre": "Boucherie"
+    },
+    {
+     "code": "H2101",
+     "titre": "Abattage et découpe des viandes"
+    }
+   ]
+  },
+  {
+   "code": "S0Z42",
+   "titre": "Boulangers, pâtissiers",
+   "secteur": "hotellerie",
+   "regions": [
+    "cor"
+   ],
+   "rome": [
+    {
+     "code": "D1102",
+     "titre": "Boulangerie - viennoiserie"
+    },
+    {
+     "code": "D1104",
+     "titre": "Pâtisserie, confiserie, chocolaterie et glacerie"
+    }
+   ]
+  },
+  {
+   "code": "A0Z42",
+   "titre": "Bûcherons, sylviculteurs salariés et agents forestiers",
+   "secteur": "agriculture",
+   "regions": [
+    "cvl",
+    "hdf",
+    "naq",
+    "occ"
+   ],
+   "rome": [
+    {
+     "code": "A1201",
+     "titre": "Bûcheronnage et élagage"
+    },
+    {
+     "code": "A1204",
+     "titre": "Protection du patrimoine naturel"
+    },
+    {
+     "code": "A1205",
+     "titre": "Sylviculture"
+    }
+   ]
+  },
+  {
+   "code": "H0Z91",
+   "titre": "Cadres techniques de la maintenance et de l'environnement",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "A1204",
+     "titre": "Protection du patrimoine naturel"
+    },
+    {
+     "code": "H1302",
+     "titre": "Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels"
+    },
+    {
+     "code": "H1101",
+     "titre": "Assistance et support technique client"
+    },
+    {
+     "code": "I1102",
+     "titre": "Management et ingénierie de maintenance industrielle"
+    },
+    {
+     "code": "K2302",
+     "titre": "Management et inspection en environnement urbain"
+    },
+    {
+     "code": "K2306",
+     "titre": "Supervision d'exploitation éco industrielle"
+    }
+   ]
+  },
+  {
+   "code": "G0B40",
+   "titre": "Carrossiers automobiles",
+   "secteur": "maintenance",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "I1606",
+     "titre": "Réparation de carrosserie"
+    }
+   ]
+  },
+  {
+   "code": "B2Z43",
+   "titre": "Charpentiers (bois)",
+   "secteur": "btp",
+   "regions": [
+    "cvl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1501",
+     "titre": "Montage de structures et de charpentes bois"
+    },
+    {
+     "code": "F1503",
+     "titre": "Réalisation - installation d'ossatures bois"
+    }
+   ]
+  },
+  {
+   "code": "B2Z42",
+   "titre": "Charpentiers (métal)",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "bre",
+    "ges"
+   ],
+   "rome": [
+    {
+     "code": "F1502",
+     "titre": "Montage de structures métalliques"
+    }
+   ]
+  },
+  {
+   "code": "D2Z40",
+   "titre": "Chaudronniers, tôliers, traceurs, serruriers, métalliers, forgerons",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H2902",
+     "titre": "Chaudronnerie - tôlerie"
+    },
+    {
+     "code": "H2904",
+     "titre": "Conduite d'équipement de déformation des métaux"
+    },
+    {
+     "code": "H2911",
+     "titre": "Réalisation de structures métalliques"
+    }
+   ]
+  },
+  {
+   "code": "S1Z80",
+   "titre": "Chefs cuisiniers",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara",
+    "ges",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "G1601",
+     "titre": "Management du personnel de cuisine"
+    }
+   ]
+  },
+  {
+   "code": "B6Z73",
+   "titre": "Chefs de chantier, conducteurs de travaux (non cadres)",
+   "secteur": "btp",
+   "regions": [
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "idf",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "F1201",
+     "titre": "Conduite de travaux du BTP"
+    },
+    {
+     "code": "F1202",
+     "titre": "Direction de chantier du BTP"
+    }
+   ]
+  },
+  {
+   "code": "N0Z91",
+   "titre": "Chercheurs (sauf industrie et enseignement supérieur)",
+   "secteur": "industrie",
+   "regions": [
+    "hdf",
+    "nor",
+    "naq",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "K2401",
+     "titre": "Recherche en sciences de l'homme et de la société"
+    },
+    {
+     "code": "K2402",
+     "titre": "Recherche en sciences de l'univers, de la matière et du vivant"
+    }
+   ]
+  },
+  {
+   "code": "A0Z43",
+   "titre": "Conducteurs d'engins agricoles ou forestiers",
+   "secteur": "agriculture",
+   "regions": [
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1101",
+     "titre": "Conduite d'engins d'exploitation agricole et forestière"
+    }
+   ]
+  },
+  {
+   "code": "B5Z40",
+   "titre": "Conducteurs d'engins du bâtiment et des travaux publics",
+   "secteur": "btp",
+   "regions": [
+    "cor",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1301",
+     "titre": "Conduite de grue"
+    },
+    {
+     "code": "F1302",
+     "titre": "Conduite d'engins de terrassement et de carrière"
+    },
+    {
+     "code": "N1104",
+     "titre": "Manœuvre et conduite d'engins lourds de manutention"
+    }
+   ]
+  },
+  {
+   "code": "J3Z42",
+   "titre": "Conducteurs et livreurs sur courte distance",
+   "secteur": "transport",
+   "regions": [
+    "cor",
+    "ges"
+   ],
+   "rome": [
+    {
+     "code": "N4104",
+     "titre": "Courses et livraisons express"
+    },
+    {
+     "code": "N4105",
+     "titre": "Conduite et livraison par tournées sur courte distance"
+    },
+    {
+     "code": "M1603",
+     "titre": "Distribution de documents"
+    }
+   ]
+  },
+  {
+   "code": "J3Z43",
+   "titre": "Conducteurs routiers",
+   "secteur": "transport",
+   "regions": [
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "N4101",
+     "titre": "Conduite de transport de marchandises sur longue distance"
+    }
+   ]
+  },
+  {
+   "code": "B2Z44",
+   "titre": "Couvreurs",
+   "secteur": "btp",
+   "regions": [
+    "idf",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1610",
+     "titre": "Pose et restauration de couvertures"
+    }
+   ]
+  },
+  {
+   "code": "S1Z40",
+   "titre": "Cuisiniers",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "G1602",
+     "titre": "Personnel de cuisine"
+    }
+   ]
+  },
+  {
+   "code": "C2Z71",
+   "titre": "Dessinateurs en électricité et en électronique",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H1202",
+     "titre": "Conception et dessin produits électriques et électroniques"
+    }
+   ]
+  },
+  {
+   "code": "D6Z71",
+   "titre": "Dessinateurs en mécanique et travail des métaux",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H1203",
+     "titre": "Conception et dessin produits mécaniques"
+    }
+   ]
+  },
+  {
+   "code": "B4Z43",
+   "titre": "Electriciens du bâtiment",
+   "secteur": "btp",
+   "regions": [
+    "cor",
+    "ges",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1602",
+     "titre": "Electricité bâtiment"
+    },
+    {
+     "code": "F1605",
+     "titre": "Montage réseaux électriques et télécoms"
+    }
+   ]
+  },
+  {
+   "code": "A0Z41",
+   "titre": "Eleveurs salariés",
+   "secteur": "agriculture",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1403",
+     "titre": "Aide d'élevage agricole et aquacole"
+    },
+    {
+     "code": "A1407",
+     "titre": "Elevage bovin ou équin"
+    },
+    {
+     "code": "A1408",
+     "titre": "Elevage d'animaux sauvages ou de compagnie"
+    },
+    {
+     "code": "A1409",
+     "titre": "Elevage de lapins et volailles"
+    },
+    {
+     "code": "A1410",
+     "titre": "Elevage ovin ou caprin"
+    },
+    {
+     "code": "A1411",
+     "titre": "Elevage porcin"
+    }
+   ]
+  },
+  {
+   "code": "S2Z60",
+   "titre": "Employés de l'hôtellerie",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "G1501",
+     "titre": "Personnel d'étage"
+    },
+    {
+     "code": "G1502",
+     "titre": "Personnel polyvalent d'hôtellerie"
+    },
+    {
+     "code": "G1702",
+     "titre": "Personnel du hall"
+    },
+    {
+     "code": "G1703",
+     "titre": "Réception en hôtellerie"
+    }
+   ]
+  },
+  {
+   "code": "T1Z60",
+   "titre": "Employés de maison et personnels de ménage",
+   "secteur": "services",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "K1304",
+     "titre": "Services domestiques"
+    }
+   ]
+  },
+  {
+   "code": "W1Z80",
+   "titre": "Formateurs",
+   "secteur": "education",
+   "regions": [
+    "ara",
+    "naq",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "K2110",
+     "titre": "Formation en conduite de véhicules"
+    },
+    {
+     "code": "K2111",
+     "titre": "Formation professionnelle"
+    }
+   ]
+  },
+  {
+   "code": "B6Z70",
+   "titre": "Géomètres",
+   "secteur": "btp",
+   "regions": [
+    "nor"
+   ],
+   "rome": [
+    {
+     "code": "F1107",
+     "titre": "Mesures topographiques"
+    }
+   ]
+  },
+  {
+   "code": "V1Z80",
+   "titre": "Infirmiers",
+   "secteur": "sante",
+   "regions": [
+    "bfc",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "J1502",
+     "titre": "Coordination de services médicaux ou paramédicaux"
+    },
+    {
+     "code": "J1503",
+     "titre": "Soins infirmiers spécialisés en anesthésie"
+    },
+    {
+     "code": "J1504",
+     "titre": "Soins infirmiers spécialisés en bloc opératoire"
+    },
+    {
+     "code": "J1505",
+     "titre": "Soins infirmiers spécialisés en prévention"
+    },
+    {
+     "code": "J1506",
+     "titre": "Soins infirmiers généralistes"
+    },
+    {
+     "code": "J1507",
+     "titre": "Soins infirmiers spécialisés en puériculture"
+    }
+   ]
+  },
+  {
+   "code": "H0Z92",
+   "titre": "Ingénieurs des méthodes de production, du contrôle qualité",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H1401",
+     "titre": "Management et ingénierie gestion industrielle et logistique"
+    },
+    {
+     "code": "H1402",
+     "titre": "Management et ingénierie méthodes et industrialisation"
+    },
+    {
+     "code": "H1501",
+     "titre": "Direction de laboratoire d'analyse industrielle"
+    },
+    {
+     "code": "H1502",
+     "titre": "Management et ingénierie qualité industrielle"
+    }
+   ]
+  },
+  {
+   "code": "B7Z91",
+   "titre": "Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres)",
+   "secteur": "btp",
+   "regions": [
+    "idf",
+    "nor",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "F1103",
+     "titre": "Contrôle et diagnostic technique du bâtiment"
+    },
+    {
+     "code": "F1105",
+     "titre": "Etudes géologiques"
+    },
+    {
+     "code": "F1106",
+     "titre": "Ingénierie et études du BTP"
+    },
+    {
+     "code": "F1108",
+     "titre": "Métré de la construction"
+    },
+    {
+     "code": "F1201",
+     "titre": "Conduite de travaux du BTP"
+    },
+    {
+     "code": "F1202",
+     "titre": "Direction de chantier du BTP"
+    },
+    {
+     "code": "F1203",
+     "titre": "Direction et ingénierie d'exploitation de gisements et de carrières"
+    },
+    {
+     "code": "F1204",
+     "titre": "Sécurité et protection santé du BTP"
+    },
+    {
+     "code": "I1101",
+     "titre": "Direction et ingénierie en entretien infrastructure et bâti"
+    }
+   ]
+  },
+  {
+   "code": "M2Z91",
+   "titre": "Ingénieurs et cadres d'administration, maintenance en informatique",
+   "secteur": "informatique",
+   "regions": [
+    "hdf",
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "I1401",
+     "titre": "Maintenance informatique et bureautique"
+    }
+   ]
+  },
+  {
+   "code": "N0Z90",
+   "titre": "Ingénieurs et cadres d'étude, recherche et développement (industrie)",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H1206",
+     "titre": "Management et ingénierie études, recherche et développement industriel"
+    },
+    {
+     "code": "M1808",
+     "titre": "Information géographique"
+    },
+    {
+     "code": "M1809",
+     "titre": "Information météorologique"
+    }
+   ]
+  },
+  {
+   "code": "M2Z90",
+   "titre": "Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques",
+   "secteur": "informatique",
+   "regions": [
+    "ara",
+    "hdf",
+    "idf",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "M1801",
+     "titre": "Administration de systèmes d'information"
+    },
+    {
+     "code": "M1802",
+     "titre": "Conseil et maîtrise d'ouvrage en systèmes d'information"
+    },
+    {
+     "code": "M1803",
+     "titre": "Direction des systèmes d'information"
+    },
+    {
+     "code": "M1805",
+     "titre": "Etudes et développement informatique"
+    },
+    {
+     "code": "M1806",
+     "titre": "Expertise et support technique en systèmes d'information"
+    },
+    {
+     "code": "M1810",
+     "titre": "Production et exploitation de systèmes d'information"
+    }
+   ]
+  },
+  {
+   "code": "M2Z92",
+   "titre": "Ingénieurs et cadres des télécommunications",
+   "secteur": "informatique",
+   "regions": [
+    "hdf"
+   ],
+   "rome": [
+    {
+     "code": "M1804",
+     "titre": "Etudes et développement de réseaux de télécoms"
+    },
+    {
+     "code": "M1807",
+     "titre": "Exploitation de systèmes de communication et de commandement"
+    }
+   ]
+  },
+  {
+   "code": "U0Z81",
+   "titre": "Interprètes",
+   "secteur": "autres",
+   "regions": [
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "E1108",
+     "titre": "Traduction, interprétariat"
+    }
+   ]
+  },
+  {
+   "code": "A1Z41",
+   "titre": "Jardiniers salariés",
+   "secteur": "agriculture",
+   "regions": [
+    "cor"
+   ],
+   "rome": [
+    {
+     "code": "A1202",
+     "titre": "Entretien des espaces naturels"
+    },
+    {
+     "code": "A1203",
+     "titre": "Entretien des espaces verts"
+    },
+    {
+     "code": "F1101",
+     "titre": "Architecture du BTP"
+    }
+   ]
+  },
+  {
+   "code": "B2Z40",
+   "titre": "Maçons",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1608",
+     "titre": "Pose de revêtements rigides"
+    },
+    {
+     "code": "F1611",
+     "titre": "Réalisation et restauration de façades"
+    },
+    {
+     "code": "F1613",
+     "titre": "Travaux d'étanchéité et d'isolation"
+    },
+    {
+     "code": "F1703",
+     "titre": "Maçonnerie"
+    }
+   ]
+  },
+  {
+   "code": "G0A42",
+   "titre": "Mainteniciens en biens électrodomestiques",
+   "secteur": "maintenance",
+   "regions": [
+    "ara",
+    "naq"
+   ],
+   "rome": [
+    {
+     "code": "I1402",
+     "titre": "Réparation de biens électrodomestiques"
+    }
+   ]
+  },
+  {
+   "code": "S2Z81",
+   "titre": "Maîtrise de l'hôtellerie",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara"
+   ],
+   "rome": [
+    {
+     "code": "G1503",
+     "titre": "Management du personnel d'étage"
+    },
+    {
+     "code": "G1701",
+     "titre": "Conciergerie en hôtellerie"
+    }
+   ]
+  },
+  {
+   "code": "A1Z40",
+   "titre": "Maraîchers, horticulteurs salariés",
+   "secteur": "agriculture",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1402",
+     "titre": "Aide agricole de production légumière ou végétale"
+    },
+    {
+     "code": "A1414",
+     "titre": "Horticulture et maraîchage"
+    }
+   ]
+  },
+  {
+   "code": "T4Z62",
+   "titre": "Ouvriers de l'assainissement et du traitement des déchets",
+   "secteur": "services",
+   "regions": [
+    "bfc",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "I1201",
+     "titre": "Entretien d'affichage et mobilier urbain"
+    },
+    {
+     "code": "I1202",
+     "titre": "Entretien et surveillance du tracé routier"
+    },
+    {
+     "code": "I1503",
+     "titre": "Intervention en milieux et produits nocifs"
+    },
+    {
+     "code": "K2301",
+     "titre": "Distribution et assainissement d'eau"
+    },
+    {
+     "code": "K2303",
+     "titre": "Nettoyage des espaces urbains"
+    },
+    {
+     "code": "K2304",
+     "titre": "Revalorisation de produits industriels"
+    },
+    {
+     "code": "K2305",
+     "titre": "Salubrité et traitement de nuisibles"
+    }
+   ]
+  },
+  {
+   "code": "C0Z20",
+   "titre": "Ouvriers non qualifiés de l'électricité et de l'électronique",
+   "secteur": "industrie",
+   "regions": [
+    "idf",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H2601",
+     "titre": "Bobinage électrique"
+    },
+    {
+     "code": "H2602",
+     "titre": "Câblage électrique et électromécanique"
+    },
+    {
+     "code": "H2603",
+     "titre": "production électrique, électronique et"
+    },
+    {
+     "code": "H2604",
+     "titre": "Montage de produits électriques et électroniques"
+    },
+    {
+     "code": "H2605",
+     "titre": "Montage et câblage électronique"
+    }
+   ]
+  },
+  {
+   "code": "J0Z20",
+   "titre": "Ouvriers non qualifiés de l'emballage et manutentionnaires",
+   "secteur": "transport",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "cor",
+    "ges"
+   ],
+   "rome": [
+    {
+     "code": "N1101",
+     "titre": "Conduite d'engins de déplacement des charges"
+    },
+    {
+     "code": "N1102",
+     "titre": "Déménagement"
+    },
+    {
+     "code": "N1103",
+     "titre": "Magasinage et préparation de commandes"
+    },
+    {
+     "code": "N1105",
+     "titre": "Manutention manuelle de charges"
+    },
+    {
+     "code": "N2203",
+     "titre": "Exploitation des pistes aéroportuaires"
+    },
+    {
+     "code": "N3203",
+     "titre": "Manutention portuaire"
+    }
+   ]
+  },
+  {
+   "code": "E0Z21",
+   "titre": "Ouvriers non qualifiés des industries agro-alimentaires",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "idf",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1412",
+     "titre": "Fabrication et affinage de fromages"
+    },
+    {
+     "code": "A1413",
+     "titre": "Fermentation de boissons alcoolisées"
+    },
+    {
+     "code": "H2101",
+     "titre": "Abattage et découpe des viandes"
+    },
+    {
+     "code": "H2102",
+     "titre": "Conduite d'équipement de production alimentaire"
+    }
+   ]
+  },
+  {
+   "code": "E0Z20",
+   "titre": "Ouvriers non qualifiés des industries chimiques et plastiques",
+   "secteur": "industrie",
+   "regions": [
+    "ara"
+   ],
+   "rome": [
+    {
+     "code": "H2301",
+     "titre": "Conduite d'équipement de production chimique ou pharmaceutique"
+    },
+    {
+     "code": "H3201",
+     "titre": "Conduite d'équipement de formage des plastiques et caoutchoucs"
+    }
+   ]
+  },
+  {
+   "code": "B0Z20",
+   "titre": "Ouvriers non qualifiés des travaux publics, du béton et de l'extraction",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "cvl",
+    "cor",
+    "ges",
+    "occ"
+   ],
+   "rome": [
+    {
+     "code": "F1401",
+     "titre": "Extraction liquide et gazeuse"
+    },
+    {
+     "code": "F1402",
+     "titre": "Extraction solide"
+    },
+    {
+     "code": "F1701",
+     "titre": "Construction en béton"
+    },
+    {
+     "code": "F1702",
+     "titre": "Construction de routes et voies"
+    },
+    {
+     "code": "F1704",
+     "titre": "Préparation du gros œuvre et des travaux publics"
+    },
+    {
+     "code": "F1705",
+     "titre": "Pose de canalisations"
+    },
+    {
+     "code": "I1502",
+     "titre": "Intervention en milieu subaquatique"
+    }
+   ]
+  },
+  {
+   "code": "B0Z21",
+   "titre": "Ouvriers non qualifiés du gros œuvre du bâtiment",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cor",
+    "ges",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1501",
+     "titre": "Montage de structures et de charpentes bois"
+    },
+    {
+     "code": "F1502",
+     "titre": "Montage de structures métalliques"
+    },
+    {
+     "code": "F1503",
+     "titre": "Réalisation - installation d'ossatures bois"
+    },
+    {
+     "code": "F1608",
+     "titre": "Pose de revêtements rigides"
+    },
+    {
+     "code": "F1610",
+     "titre": "Pose et restauration de couvertures"
+    },
+    {
+     "code": "F1611",
+     "titre": "Réalisation et restauration de façades"
+    },
+    {
+     "code": "F1613",
+     "titre": "Travaux d'étanchéité et d'isolation"
+    },
+    {
+     "code": "F1703",
+     "titre": "Maçonnerie"
+    }
+   ]
+  },
+  {
+   "code": "B3Z20",
+   "titre": "Ouvriers non qualifiés du second œuvre du bâtiment",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "F1601",
+     "titre": "Application et décoration en plâtre, stuc et staff"
+    },
+    {
+     "code": "F1602",
+     "titre": "Electricité bâtiment"
+    },
+    {
+     "code": "F1603",
+     "titre": "Installation d'équipements sanitaires et thermiques"
+    },
+    {
+     "code": "F1604",
+     "titre": "Montage d'agencements"
+    },
+    {
+     "code": "F1605",
+     "titre": "Montage réseaux électriques et télécoms"
+    },
+    {
+     "code": "F1606",
+     "titre": "Peinture en bâtiment"
+    },
+    {
+     "code": "F1607",
+     "titre": "Pose de fermetures menuisées"
+    },
+    {
+     "code": "F1609",
+     "titre": "Pose de revêtements souples"
+    },
+    {
+     "code": "H2206",
+     "titre": "Réalisation de menuiserie bois et tonnellerie"
+    }
+   ]
+  },
+  {
+   "code": "E0Z22",
+   "titre": "Ouvriers non qualifiés en métallurgie, verre, céramique et matériaux de construction",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "occ"
+   ],
+   "rome": [
+    {
+     "code": "F1706",
+     "titre": "Préfabrication en béton industriel"
+    },
+    {
+     "code": "H2801",
+     "titre": "Conduite d'équipement de transformation du verre"
+    },
+    {
+     "code": "H2803",
+     "titre": "Façonnage et émaillage en industrie céramique"
+    },
+    {
+     "code": "H2907",
+     "titre": "Conduite d'installation de production des métaux"
+    }
+   ]
+  },
+  {
+   "code": "D3Z20",
+   "titre": "Ouvriers non qualifiés métallerie, serrurerie, montage",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "cor",
+    "ges",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H2901",
+     "titre": "Ajustement et montage de fabrication"
+    },
+    {
+     "code": "H2909",
+     "titre": "Montage - assemblage mécanique"
+    },
+    {
+     "code": "H2911",
+     "titre": "Réalisation de structures métalliques"
+    },
+    {
+     "code": "H2913",
+     "titre": "Soudage manuel"
+    },
+    {
+     "code": "H3401",
+     "titre": "Conduite de traitement d'abrasion de surface"
+    },
+    {
+     "code": "H3402",
+     "titre": "Conduite de traitement par dépôt de surface"
+    },
+    {
+     "code": "H3403",
+     "titre": "Conduite de traitement thermique"
+    },
+    {
+     "code": "H3404",
+     "titre": "Peinture industrielle"
+    },
+    {
+     "code": "I1603",
+     "titre": "Maintenance d'engins de chantier, de levage, manutention et agricoles"
+    },
+    {
+     "code": "I1604",
+     "titre": "Mécanique automobile"
+    },
+    {
+     "code": "I1606",
+     "titre": "Réparation de carrosserie"
+    },
+    {
+     "code": "I1607",
+     "titre": "Réparation de cycles, motocycles et motoculteurs de loisirs"
+    }
+   ]
+  },
+  {
+   "code": "D0Z20",
+   "titre": "Ouvriers non qualifiés travaillant par enlèvement ou formage de métal",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "idf",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H2902",
+     "titre": "Chaudronnerie - tôlerie"
+    },
+    {
+     "code": "H2903",
+     "titre": "Conduite d'équipement d'usinage"
+    },
+    {
+     "code": "H2904",
+     "titre": "Conduite d'équipement de déformation des métaux"
+    },
+    {
+     "code": "H2905",
+     "titre": "Conduite d'équipement de formage et découpage des matériaux"
+    },
+    {
+     "code": "H2906",
+     "titre": "Conduite d'installation automatisée ou robotisée de fabrication mécanique"
+    },
+    {
+     "code": "H2914",
+     "titre": "Réalisation et montage en tuyauterie"
+    },
+    {
+     "code": "H3203",
+     "titre": "Fabrication de pièces en matériaux composites"
+    }
+   ]
+  },
+  {
+   "code": "C1Z40",
+   "titre": "Ouvriers qualifiés de l'électricité et de l'électronique",
+   "secteur": "industrie",
+   "regions": [
+    "idf",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H1504",
+     "titre": "Intervention technique en contrôle essai qualité en électricité et électronique"
+    },
+    {
+     "code": "H2601",
+     "titre": "Bobinage électrique"
+    },
+    {
+     "code": "H2602",
+     "titre": "Câblage électrique et électromécanique"
+    },
+    {
+     "code": "H2603",
+     "titre": "production électrique, électronique et"
+    },
+    {
+     "code": "H2604",
+     "titre": "Montage de produits électriques et électroniques"
+    },
+    {
+     "code": "H2605",
+     "titre": "Montage et câblage électronique"
+    }
+   ]
+  },
+  {
+   "code": "G0A40",
+   "titre": "Ouvriers qualifiés de la maintenance en mécanique",
+   "secteur": "maintenance",
+   "regions": [
+    "bre",
+    "cvl",
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "B1604",
+     "titre": "Réparation - montage en systèmes horlogers"
+    },
+    {
+     "code": "I1310",
+     "titre": "Maintenance mécanique industrielle"
+    },
+    {
+     "code": "I1601",
+     "titre": "Installation et maintenance en nautisme"
+    },
+    {
+     "code": "I1602",
+     "titre": "Maintenance d'aéronefs"
+    },
+    {
+     "code": "I1605",
+     "titre": "Mécanique de marine"
+    }
+   ]
+  },
+  {
+   "code": "B4Z44",
+   "titre": "Ouvriers qualifiés de la peinture et de la finition du bâtiment",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1601",
+     "titre": "Application et décoration en plâtre, stuc et staff"
+    },
+    {
+     "code": "F1606",
+     "titre": "Peinture en bâtiment"
+    },
+    {
+     "code": "F1609",
+     "titre": "Pose de revêtements souples"
+    }
+   ]
+  },
+  {
+   "code": "B1Z40",
+   "titre": "Ouvriers qualifiés des travaux publics, du béton et de l'extraction",
+   "secteur": "btp",
+   "regions": [
+    "ara",
+    "cor",
+    "ges",
+    "hdf",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "F1401",
+     "titre": "Extraction liquide et gazeuse"
+    },
+    {
+     "code": "F1402",
+     "titre": "Extraction solide"
+    },
+    {
+     "code": "F1701",
+     "titre": "Construction en béton"
+    },
+    {
+     "code": "F1702",
+     "titre": "Construction de routes et voies"
+    },
+    {
+     "code": "F1705",
+     "titre": "Pose de canalisations"
+    },
+    {
+     "code": "I1502",
+     "titre": "Intervention en milieu subaquatique"
+    }
+   ]
+  },
+  {
+   "code": "J1Z40",
+   "titre": "Ouvriers qualifiés du magasinage et de la manutention",
+   "secteur": "transport",
+   "regions": [
+    "cvl"
+   ],
+   "rome": [
+    {
+     "code": "N1101",
+     "titre": "Conduite d'engins de déplacement des charges"
+    },
+    {
+     "code": "N1102",
+     "titre": "Déménagement"
+    },
+    {
+     "code": "N1103",
+     "titre": "Magasinage et préparation de commandes"
+    },
+    {
+     "code": "N1105",
+     "titre": "Manutention manuelle de charges"
+    },
+    {
+     "code": "N2203",
+     "titre": "Exploitation des pistes aéroportuaires"
+    },
+    {
+     "code": "N3203",
+     "titre": "Manutention portuaire"
+    }
+   ]
+  },
+  {
+   "code": "F1Z41",
+   "titre": "Ouvriers qualifiés du travail artisanal du textile et du cuir",
+   "secteur": "industrie",
+   "regions": [
+    "ges",
+    "hdf",
+    "naq",
+    "occ",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "B1801",
+     "titre": "Réalisation d'articles de chapellerie"
+    },
+    {
+     "code": "B1802",
+     "titre": "Réalisation d'articles en cuir et matériaux souples (hors vêtement)"
+    },
+    {
+     "code": "B1803",
+     "titre": "Réalisation de vêtements sur mesure ou en petite série"
+    },
+    {
+     "code": "B1804",
+     "titre": "Réalisation d'ouvrages d'art en fils"
+    },
+    {
+     "code": "D1206",
+     "titre": "Réparation d'articles en cuir et matériaux souples"
+    },
+    {
+     "code": "D1207",
+     "titre": "Retouches en habillement"
+    }
+   ]
+  },
+  {
+   "code": "F3Z41",
+   "titre": "Ouvriers qualifiés du travail du bois et de l'ameublement",
+   "secteur": "industrie",
+   "regions": [
+    "idf",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H2201",
+     "titre": "Assemblage d'ouvrages en bois"
+    },
+    {
+     "code": "H2202",
+     "titre": "Conduite d'équipement de fabrication de l'ameublement et du bois"
+    },
+    {
+     "code": "H2205",
+     "titre": "Première transformation de bois d'œuvre"
+    }
+   ]
+  },
+  {
+   "code": "D1Z41",
+   "titre": "Ouvriers qualifiés travaillant par enlèvement de métal",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bre",
+    "idf",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "H2903",
+     "titre": "Conduite d'équipement d'usinage"
+    },
+    {
+     "code": "H2905",
+     "titre": "Conduite d'équipement de formage et découpage des matériaux"
+    },
+    {
+     "code": "H2906",
+     "titre": "Conduite d'installation automatisée ou robotisée de fabrication mécanique"
+    },
+    {
+     "code": "H2908",
+     "titre": "Modelage de matériaux non métalliques"
+    },
+    {
+     "code": "H2910",
+     "titre": "Moulage sable"
+    },
+    {
+     "code": "H3203",
+     "titre": "Fabrication de pièces en matériaux composites"
+    }
+   ]
+  },
+  {
+   "code": "A3Z40",
+   "titre": "Pêcheurs, aquaculteurs salariés",
+   "secteur": "agriculture",
+   "regions": [
+    "bre",
+    "nor",
+    "naq",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "A1404",
+     "titre": "Aquaculture"
+    },
+    {
+     "code": "A1415",
+     "titre": "Equipage de la pêche"
+    },
+    {
+     "code": "A1417",
+     "titre": "Saliculture"
+    }
+   ]
+  },
+  {
+   "code": "D1Z40",
+   "titre": "Régleurs",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "idf",
+    "nor"
+   ],
+   "rome": [
+    {
+     "code": "H2912",
+     "titre": "Réglage d'équipement de production industrielle"
+    }
+   ]
+  },
+  {
+   "code": "J4Z80",
+   "titre": "Responsables logistiques (non cadres)",
+   "secteur": "transport",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H1403",
+     "titre": "Intervention technique en gestion industrielle et logistique"
+    },
+    {
+     "code": "N1201",
+     "titre": "Affrètement transport"
+    },
+    {
+     "code": "N1202",
+     "titre": "Gestion des opérations de circulation internationale des marchandises"
+    },
+    {
+     "code": "N1301",
+     "titre": "Conception et organisation de la chaîne logistique"
+    },
+    {
+     "code": "N1303",
+     "titre": "Intervention technique d'exploitation logistique"
+    },
+    {
+     "code": "N2204",
+     "titre": "Préparation des vols"
+    },
+    {
+     "code": "N3201",
+     "titre": "Exploitation des opérations portuaires et du transport maritime"
+    },
+    {
+     "code": "N3202",
+     "titre": "Exploitation du transport fluvial"
+    },
+    {
+     "code": "N4201",
+     "titre": "Direction d'exploitation des transports routiers de marchandises"
+    },
+    {
+     "code": "N4202",
+     "titre": "Direction d'exploitation des transports routiers de personnes"
+    },
+    {
+     "code": "N4203",
+     "titre": "Intervention technique d'exploitation des transports routiers de marchandises"
+    },
+    {
+     "code": "N4204",
+     "titre": "Intervention technique d'exploitation des transports routiers de personnes"
+    }
+   ]
+  },
+  {
+   "code": "S2Z61",
+   "titre": "Serveurs de cafés restaurants",
+   "secteur": "hotellerie",
+   "regions": [
+    "ara",
+    "bfc",
+    "cvl",
+    "ges",
+    "hdf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "G1801",
+     "titre": "Café, bar brasserie"
+    },
+    {
+     "code": "G1803",
+     "titre": "Service en restauration"
+    }
+   ]
+  },
+  {
+   "code": "D2Z42",
+   "titre": "Soudeurs",
+   "secteur": "industrie",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "ges",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H2913",
+     "titre": "Soudage manuel"
+    }
+   ]
+  },
+  {
+   "code": "V5Z82",
+   "titre": "Sportifs et animateurs sportifs",
+   "secteur": "sante",
+   "regions": [
+    "naq"
+   ],
+   "rome": [
+    {
+     "code": "G1204",
+     "titre": "Education en activités sportives"
+    },
+    {
+     "code": "L1401",
+     "titre": "Sportif professionnel"
+    }
+   ]
+  },
+  {
+   "code": "M1Z80",
+   "titre": "Techniciens d'étude et de développement en informatique",
+   "secteur": "informatique",
+   "regions": [
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "M1805",
+     "titre": "Etudes et développement informatique"
+    }
+   ]
+  },
+  {
+   "code": "L4Z81",
+   "titre": "Techniciens des services comptables et financiers",
+   "secteur": "finance",
+   "regions": [
+    "cvl",
+    "idf",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "M1203",
+     "titre": "Comptabilité"
+    }
+   ]
+  },
+  {
+   "code": "J5Z80",
+   "titre": "Techniciens des transports et du tourisme",
+   "secteur": "transport",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "D1204",
+     "titre": "Location de véhicules ou de matériel de loisirs"
+    },
+    {
+     "code": "G1102",
+     "titre": "Promotion du tourisme local"
+    },
+    {
+     "code": "G1301",
+     "titre": "Conception de produits touristiques"
+    },
+    {
+     "code": "G1303",
+     "titre": "Vente de voyages"
+    },
+    {
+     "code": "N1301",
+     "titre": "Conception et organisation de la chaîne logistique"
+    },
+    {
+     "code": "N3201",
+     "titre": "Exploitation des opérations portuaires et du transport maritime"
+    },
+    {
+     "code": "N3202",
+     "titre": "Exploitation du transport fluvial"
+    },
+    {
+     "code": "N4201",
+     "titre": "Direction d'exploitation des transports routiers de marchandises"
+    },
+    {
+     "code": "N4202",
+     "titre": "Direction d'exploitation des transports routiers de personnes"
+    },
+    {
+     "code": "N4203",
+     "titre": "Intervention technique d'exploitation des transports routiers de marchandises"
+    },
+    {
+     "code": "N4204",
+     "titre": "Intervention technique d'exploitation des transports routiers de personnes"
+    }
+   ]
+  },
+  {
+   "code": "C2Z70",
+   "titre": "Techniciens en électricité et en électronique",
+   "secteur": "industrie",
+   "regions": [
+    "bfc",
+    "bre",
+    "cvl",
+    "idf",
+    "nor",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "H1207",
+     "titre": "Rédaction technique"
+    },
+    {
+     "code": "H1209",
+     "titre": "Intervention technique en études et développement électronique"
+    },
+    {
+     "code": "H1504",
+     "titre": "Intervention technique en contrôle essai qualité en électricité et électronique"
+    }
+   ]
+  },
+  {
+   "code": "D6Z70",
+   "titre": "Techniciens en mécanique et travail des métaux",
+   "secteur": "industrie",
+   "regions": [
+    "bfc",
+    "cvl",
+    "hdf",
+    "nor",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "H1506",
+     "titre": "Intervention technique qualité en mécanique et travail des métaux"
+    },
+    {
+     "code": "H2908",
+     "titre": "Modelage de matériaux non métalliques"
+    },
+    {
+     "code": "H2910",
+     "titre": "Moulage sable"
+    },
+    {
+     "code": "H2912",
+     "titre": "Réglage d'équipement de production industrielle"
+    }
+   ]
+  },
+  {
+   "code": "G1Z70",
+   "titre": "Techniciens et agents de maîtrise de la maintenance et de l'environnement",
+   "secteur": "maintenance",
+   "regions": [
+    "bre",
+    "idf",
+    "pdl"
+   ],
+   "rome": [
+    {
+     "code": "A1204",
+     "titre": "Protection du patrimoine naturel"
+    },
+    {
+     "code": "B1604",
+     "titre": "Réparation - montage en systèmes horlogers"
+    },
+    {
+     "code": "H1101",
+     "titre": "Assistance et support technique client"
+    },
+    {
+     "code": "H1208",
+     "titre": "Intervention technique en études et conception en automatisme"
+    },
+    {
+     "code": "H1303",
+     "titre": "Intervention technique en Hygiène Sécurité Environnement -HSE- industriel"
+    },
+    {
+     "code": "I1301",
+     "titre": "Installation et maintenance d'ascenseurs"
+    },
+    {
+     "code": "I1302",
+     "titre": "Installation et maintenance d'automatismes"
+    },
+    {
+     "code": "I1304",
+     "titre": "Installation et maintenance d'équipements"
+    },
+    {
+     "code": "I1305",
+     "titre": "Installation et maintenance électronique"
+    },
+    {
+     "code": "I1306",
+     "titre": "Installation et maintenance en froid, conditionnement d'air"
+    },
+    {
+     "code": "I1307",
+     "titre": "Installation et maintenance télécoms et courants faibles"
+    },
+    {
+     "code": "I1308",
+     "titre": "Maintenance d'installation de chauffage"
+    },
+    {
+     "code": "I1309",
+     "titre": "Maintenance électrique"
+    },
+    {
+     "code": "I1310",
+     "titre": "Maintenance mécanique industrielle"
+    },
+    {
+     "code": "I1503",
+     "titre": "Intervention en milieux et produits nocifs"
+    },
+    {
+     "code": "I1601",
+     "titre": "Installation et maintenance en nautisme"
+    },
+    {
+     "code": "I1602",
+     "titre": "Maintenance d'aéronefs"
+    },
+    {
+     "code": "I1603",
+     "titre": "Maintenance d'engins de chantier, de levage, manutention et agricoles"
+    },
+    {
+     "code": "I1604",
+     "titre": "Mécanique automobile"
+    },
+    {
+     "code": "I1605",
+     "titre": "Mécanique de marine"
+    },
+    {
+     "code": "I1607",
+     "titre": "Réparation de cycles, motocycles et motoculteurs de loisirs"
+    },
+    {
+     "code": "K2301",
+     "titre": "Distribution et assainissement d'eau"
+    }
+   ]
+  },
+  {
+   "code": "B6Z71",
+   "titre": "Techniciens et chargés d'études du bâtiment et des travaux publics",
+   "secteur": "btp",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "F1103",
+     "titre": "Contrôle et diagnostic technique du bâtiment"
+    },
+    {
+     "code": "F1105",
+     "titre": "Etudes géologiques"
+    },
+    {
+     "code": "F1106",
+     "titre": "Ingénierie et études du BTP"
+    },
+    {
+     "code": "F1108",
+     "titre": "Métré de la construction"
+    },
+    {
+     "code": "F1204",
+     "titre": "Sécurité et protection santé du BTP"
+    }
+   ]
+  },
+  {
+   "code": "G1Z71",
+   "titre": "Techniciens experts",
+   "secteur": "maintenance",
+   "regions": [
+    "idf",
+    "nor"
+   ],
+   "rome": [
+    {
+     "code": "H1301",
+     "titre": "Inspection de conformité"
+    },
+    {
+     "code": "I1103",
+     "titre": "Supervision d'entretien et gestion de véhicules"
+    },
+    {
+     "code": "K2306",
+     "titre": "Supervision d'exploitation éco industrielle"
+    }
+   ]
+  },
+  {
+   "code": "D2Z41",
+   "titre": "Tuyauteurs",
+   "secteur": "industrie",
+   "regions": [
+    "idf"
+   ],
+   "rome": [
+    {
+     "code": "H2914",
+     "titre": "Réalisation et montage en tuyauterie"
+    }
+   ]
+  },
+  {
+   "code": "A1Z42",
+   "titre": "Viticulteurs, arboriculteurs salariés",
+   "secteur": "agriculture",
+   "regions": [
+    "ara",
+    "bfc",
+    "bre",
+    "cvl",
+    "cor",
+    "ges",
+    "hdf",
+    "idf",
+    "nor",
+    "naq",
+    "occ",
+    "pdl",
+    "pac"
+   ],
+   "rome": [
+    {
+     "code": "A1401",
+     "titre": "Aide agricole de production fruitière ou viticole"
+    },
+    {
+     "code": "A1405",
+     "titre": "Arboriculture et viticulture"
+    }
+   ]
+  }
+ ]
+}
