@@ -4,3 +4,12 @@ node_modules/
 .env.*
 *.log
 .DS_Store
+
+# Documents personnels (CV, lettres) : jamais sur GitHub
+*.pdf
+*.docx
+*.doc
+candidatures/
+
+# Fichiers temporaires de la sélection quotidienne (seul offres-vues.json est conservé)
+suivi/selection-du-jour.*

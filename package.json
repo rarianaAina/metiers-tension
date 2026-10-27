@@ -3,13 +3,16 @@
   "private": true,
   "type": "module",
   "description": "Métiers en tension au Luxembourg et en France, offres d'emploi et suivi de candidatures.",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "update:lu": "node scripts/update-lu.mjs",
     "update:fr": "node scripts/update-fr.mjs",
     "update:offres": "node scripts/update-offres.mjs",
     "update:teletravail": "node scripts/update-teletravail.mjs",
     "update": "node scripts/update-lu.mjs && node scripts/update-fr.mjs && node scripts/update-offres.mjs && node scripts/update-teletravail.mjs",
-    "dev": "npx --yes serve@14.2.4 public"
+    "dev": "npx --yes serve@14.2.4 public",
+    "offres": "node scripts/selection-offres.mjs"
   }
 }

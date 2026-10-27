@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write # pour envoyer la sélection d'offres du jour (ticket + e-mail GitHub)
 
 concurrency:
   group: update-data
@@ -53,11 +54,17 @@ jobs:
         continue-on-error: true
         run: node scripts/update-teletravail.mjs
 
+      - name: Sélection des offres pour le candidat (règles de profil.json, sans IA)
+        id: selection
+        continue-on-error: true
+        run: node scripts/selection-offres.mjs
+
       - name: Enregistrer les changements
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data
+          [ -f suivi/offres-vues.json ] && git add suivi/offres-vues.json
           if git diff --cached --quiet; then
             echo "Aucun changement."
           else
@@ -65,8 +72,25 @@ jobs:
             git push
           fi
 
+      # Un ticket (issue) par jour : GitHub l'envoie par e-mail grâce à la mention @ du candidat.
+      - name: Envoyer la sélection du jour
+        if: steps.selection.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(cat suivi/selection-du-jour.count 2>/dev/null || echo 0)
+          if [ "$n" -gt 0 ]; then
+            gh label create offres-du-jour --color 4f46e5 --description "Sélection quotidienne d'offres" 2>/dev/null || true
+            for i in $(gh issue list --label offres-du-jour --state open --json number --jq '.[].number'); do
+              gh issue close "$i" --reason completed
+            done
+            gh issue create --title "Offres du jour — $(date -u +%d/%m/%Y) ($n)" --label offres-du-jour --body-file suivi/selection-du-jour.md
+          else
+            echo "Aucune nouvelle offre aujourd'hui."
+          fi
+
       - name: Signaler un échec
-        if: steps.lu.outcome == 'failure' || steps.fr.outcome == 'failure' || steps.offres.outcome == 'failure' || steps.remote.outcome == 'failure'
+        if: steps.lu.outcome == 'failure' || steps.fr.outcome == 'failure' || steps.offres.outcome == 'failure' || steps.remote.outcome == 'failure' || steps.selection.outcome == 'failure'
         run: |
           echo "::error::Au moins une mise à jour a échoué (LU=${{ steps.lu.outcome }}, FR=${{ steps.fr.outcome }}, offres=${{ steps.offres.outcome }}, télétravail=${{ steps.remote.outcome }}). Les anciennes données ont été conservées."
           exit 1

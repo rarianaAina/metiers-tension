@@ -1,0 +1,49 @@
+{
+  "_aide": "Profil de recherche utilisé chaque jour par le robot (scripts/selection-offres.mjs). Modifie librement les poids : plus le nombre est grand, plus l'offre remonte. Un nombre négatif fait descendre l'offre.",
+
+  "github": "rarianaAina",
+  "nom": "Rariana",
+
+  "motsCles": {
+    ".net": 5, "c#": 5, "asp.net": 5, "odoo": 6,
+    "react": 4, "spring": 4, "full stack": 4, "full-stack": 4, "fullstack": 4,
+    "typescript": 3, "java": 3, "python": 3, "supabase": 3,
+    "node": 2, "vue": 2, "backend": 2, "back-end": 2, "frontend": 2, "front-end": 2,
+    "web developer": 2, "software engineer": 2, "développeur": 2, "developpeur": 2,
+    "php": 1, "sql": 1, "developer": 1, "engineer": 1
+  },
+
+  "techs": {
+    ".NET": 3, "C#": 3, "Odoo": 4, "React": 2, "TypeScript": 2, "Java": 2, "Spring": 2,
+    "Python": 2, "Node.js": 1, "Vue.js": 1, "PostgreSQL": 1, "SQL Server": 2, "Supabase": 2, "Docker": 1
+  },
+
+  "motsAEviter": {
+    "senior staff": -8, "staff": -5, "principal": -8, "director": -10, "head of": -10, "vp": -10,
+    "phd": -8, "msc": -6,
+    "manager": -6, "lead": -4, "architect": -3, "senior": -2, "intern": -3,
+    "sales": -6, "account executive": -8, "marketing": -4, "designer": -3
+  },
+
+  "experienceMaxSouhaitee": 4,
+  "penaliteParAnneeEnTrop": 2,
+
+  "zones": ["monde", "afrique"],
+
+  "bonusType": { "freelance": 6, "contrat": 5, "temps-partiel": 1, "temps-plein": 0, "stage": -5 },
+
+  "pertinenceMinimum": 3,
+  "scoreMinimum": 6,
+  "maxOffresParJour": 15,
+
+  "france": {
+    "actif": true,
+    "familles": ["M2Z90", "M1Z80", "M2Z91", "M2Z92"],
+    "regions": "toutes",
+    "maxOffres": 10
+  },
+
+  "luxembourg": {
+    "recherches": ["développeur", "développeur full stack", "développeur .NET", "Odoo"]
+  }
+}

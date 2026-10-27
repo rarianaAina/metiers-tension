@@ -68,12 +68,45 @@ function salaire(min, max, devise = "") {
   return null;
 }
 
+// ---------- Analyse de la description (règles fixes, sans IA) ----------
+// La description n'est pas stockée : on n'en garde que des indices utiles au tri.
+const TECHS = [
+  [".NET", /\.net\b|dotnet|asp\.net/i], ["C#", /c#|\bcsharp\b/i], ["Java", /\bjava\b(?!\s*script)/i],
+  ["Spring", /\bspring\b/i], ["Python", /\bpython\b/i], ["Django", /\bdjango\b/i], ["Odoo", /\bodoo\b/i],
+  ["TypeScript", /\btypescript\b/i], ["JavaScript", /\bjavascript\b/i], ["React", /\breact(?!\s*native)\b/i],
+  ["React Native", /\breact\s*native\b/i], ["Vue.js", /\bvue(\.?js)?\b/i], ["Angular", /\bangular\b/i],
+  ["Node.js", /\bnode(\.?js)?\b/i], ["PHP", /\bphp\b/i], ["Laravel", /\blaravel\b/i], ["Ruby", /\bruby\b|\brails\b/i],
+  ["Kotlin", /\bkotlin\b/i], ["Swift", /\bswift\b/i], ["Flutter", /\bflutter\b/i], ["Go", /\bgolang\b/i],
+  ["SQL", /\bsql\b/i], ["PostgreSQL", /\bpostgres(ql)?\b/i], ["SQL Server", /sql server|\bmssql\b/i],
+  ["MongoDB", /\bmongo(db)?\b/i], ["Docker", /\bdocker\b/i], ["Kubernetes", /\bkubernetes\b|\bk8s\b/i],
+  ["AWS", /\baws\b/i], ["Azure", /\bazure\b/i], ["GCP", /\bgcp\b|google cloud/i], ["Supabase", /\bsupabase\b/i],
+  ["Firebase", /\bfirebase\b/i],
+];
+// Offres présentées comme « remote » mais en réalité sur place ou hybrides.
+// Les négations (« very few office-based roles », « no on-site work ») ne comptent pas.
+const FAUX_TELETRAVAIL = /(?<!(few|no|non|not|without) )(hybrid (role|position|work|working|model|schedule)|on-?site (role|position|work)|office-based (role|position))|\b(this|the) (role|position|job) is (office-based|on-?site|hybrid)|work(ing)? (from|in|at) (our|the) office (\d|one|two|three|four) days|\b(one|1|two|2|three|3|four|4) days? (a|per) week (in|at|from) (the |our )?office|\b(one|1) day (a|per) week[^.]{0,30}(home|wfh|remote)|\bwfh[^.]{0,30}\b(one|1) day/i;
+
+function analyser(html) {
+  const txt = String(html || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;|&#160;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ");
+  if (!txt.trim()) return {};
+  const exp = txt.match(/(\d{1,2})\s*\+?\s*(?:-\s*\d{1,2}\s*)?(?:years?|yrs)\b[^.]{0,40}experience/i);
+  return {
+    techs: TECHS.filter(([, re]) => re.test(txt)).map(([nom]) => nom),
+    horsTeletravail: FAUX_TELETRAVAIL.test(txt) || undefined,
+    experience: exp ? Number(exp[1]) : undefined,
+  };
+}
+
 function offre(o) {
   const titre = clean(o.titre);
   const url = clean(o.url);
   if (!titre || !/^https:\/\//.test(url)) return null;
   const lieu = clean(o.lieu) || null;
+  const a = analyser(o.description);
   return {
+    ...(a.techs?.length ? { techs: a.techs } : {}),
+    ...(a.horsTeletravail ? { horsTeletravail: true } : {}),
+    ...(a.experience ? { experience: a.experience } : {}),
     id: `${o.source}-${o.id}`,
     source: o.source,
     titre,
@@ -102,7 +135,7 @@ async function remotive() {
   return (j.jobs || []).map((x) => offre({
     source: "remotive", id: x.id, titre: x.title, entreprise: x.company_name, lieu: x.candidate_required_location,
     type: typeContrat(x.job_type), categorie: categorie(x.category, x.title), salaire: x.salary, tags: x.tags,
-    date: isoDate(x.publication_date), url: x.url,
+    date: isoDate(x.publication_date), url: x.url, description: x.description,
   }));
 }
 
@@ -112,7 +145,7 @@ async function remoteok() {
     source: "remoteok", id: x.id, titre: x.position, entreprise: x.company, lieu: x.location,
     type: typeContrat(x.tags), categorie: categorie(x.tags, x.position),
     salaire: avecPeriode(salaire(x.salary_min, x.salary_max, "USD"), "annual"), tags: x.tags,
-    date: isoDate(x.date || x.epoch), url: x.url,
+    date: isoDate(x.date || x.epoch), url: x.url, description: x.description,
   }));
 }
 
@@ -123,7 +156,7 @@ function himalayasOffre(x) {
     lieu: restr.length ? restr.join(", ") : "Worldwide", zone: restr.length ? zone(restr.join(", ")) : "monde",
     type: typeContrat(x.employmentType), categorie: categorie(x.parentCategories, x.categories?.slice(0, 3), x.title),
     salaire: avecPeriode(salaire(x.minSalary, x.maxSalary, x.currency || ""), x.salaryPeriod), tags: x.parentCategories,
-    date: isoDate(x.pubDate), expire: x.expiryDate ? isoDate(x.expiryDate) : null, url: x.applicationLink || x.guid,
+    date: isoDate(x.pubDate), expire: x.expiryDate ? isoDate(x.expiryDate) : null, url: x.applicationLink || x.guid, description: x.description || x.excerpt,
   });
 }
 
@@ -174,7 +207,7 @@ async function wwr() {
       lieu: /anywhere/i.test(region) ? region : [region, tag(item, "country")].filter(Boolean).join(" – "),
       zone: /anywhere/i.test(region) ? "monde" : zone(region),
       type: typeContrat(tag(item, "type")), categorie: categorie(tag(item, "category"), full),
-      tags: [tag(item, "category")], date: isoDate(tag(item, "pubDate")), url: tag(item, "link"),
+      tags: [tag(item, "category")], date: isoDate(tag(item, "pubDate")), url: tag(item, "link"), description: tag(item, "description"),
     });
   });
 }
@@ -185,7 +218,7 @@ async function jobicy() {
     source: "jobicy", id: x.id, titre: x.jobTitle, entreprise: x.companyName, lieu: x.jobGeo,
     type: typeContrat(x.jobType), categorie: categorie(x.jobIndustry, x.jobTitle),
     salaire: avecPeriode(salaire(x.annualSalaryMin, x.annualSalaryMax, x.salaryCurrency || ""), "annual"), tags: x.jobIndustry,
-    date: isoDate(x.pubDate), url: x.url,
+    date: isoDate(x.pubDate), url: x.url, description: x.jobDescription || x.jobExcerpt,
   }));
 }
 
