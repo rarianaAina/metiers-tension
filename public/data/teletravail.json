@@ -1,5 +1,5 @@
 {
- "majLe": "2026-11-02T12:58:59.612Z",
+ "majLe": "2026-11-03T12:32:03.370Z",
  "sources": {
   "remotive": {
    "nom": "Remotive",
@@ -24,9 +24,2089 @@
  },
  "offres": [
   {
+   "techs": [
+    "Python",
+    "Node.js",
+    "Kubernetes"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/vcluster-labs/jobs/staff-network-engineer-ai-infrastructure-4191862459",
+   "source": "himalayas",
+   "titre": "Staff Network Engineer (AI Infrastructure)",
+   "entreprise": "vCluster Labs",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "70k–130k EUR /an",
+   "tags": [
+    "Hardware Engineer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/vcluster-labs/jobs/staff-network-engineer-ai-infrastructure-4191862459?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/clera/jobs/senior-product-designer-9163035966",
+   "source": "himalayas",
+   "titre": "Senior Product Designer",
+   "entreprise": "Clera",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/clera/jobs/senior-product-designer-9163035966?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/staffus-gmbh/jobs/online-german-teacher-remote",
+   "source": "himalayas",
+   "titre": "Online German Teacher - Remote",
+   "entreprise": "Staffus GmbH",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "contrat",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/staffus-gmbh/jobs/online-german-teacher-remote?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL",
+    "PostgreSQL",
+    "Kubernetes",
+    "GCP"
+   ],
+   "experience": 6,
+   "id": "himalayas-https://himalayas.app/companies/clera/jobs/senior-data-scientist",
+   "source": "himalayas",
+   "titre": "Senior Data Scientist",
+   "entreprise": "Clera",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "75k–100k EUR /an",
+   "tags": [
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/clera/jobs/senior-data-scientist?utm_source=api"
+  },
+  {
+   "techs": [
+    "JavaScript"
+   ],
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/monetizemore/jobs/lead-solutions-engineer",
+   "source": "himalayas",
+   "titre": "Lead Solutions Engineer",
+   "entreprise": "MonetizeMore",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/monetizemore/jobs/lead-solutions-engineer?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/everhelp/jobs/customer-support-specialist-german-and-english-2909298726",
+   "source": "himalayas",
+   "titre": "Customer Support Specialist | German and English",
+   "entreprise": "Everhelp",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Service"
+   ],
+   "date": "2026-11-03",
+   "expire": "2026-11-29",
+   "url": "https://himalayas.app/companies/everhelp/jobs/customer-support-specialist-german-and-english-2909298726?utm_source=api"
+  },
+  {
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/collider/jobs/movie-list-writer",
+   "source": "himalayas",
+   "titre": "Movie List Writer",
+   "entreprise": "Collider",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "contrat",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Content Creator"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/collider/jobs/movie-list-writer?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/westernacher-solutions-gmbh/jobs/system-engineer-w-m-d",
+   "source": "himalayas",
+   "titre": "System Engineer (w/m/d)",
+   "entreprise": "Westernacher Solutions GmbH",
+   "lieu": "Germany",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Operations",
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/westernacher-solutions-gmbh/jobs/system-engineer-w-m-d?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL"
+   ],
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/senior-migration-consultant-clinical-data-programming-2547627843",
+   "source": "himalayas",
+   "titre": "Senior Migration Consultant - Clinical Data Programming",
+   "entreprise": "Lifelancer",
+   "lieu": "United Kingdom",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/senior-migration-consultant-clinical-data-programming-2547627843?utm_source=api"
+  },
+  {
+   "experience": 10,
+   "id": "himalayas-https://himalayas.app/companies/bridge-talent-management/jobs/head-of-hr",
+   "source": "himalayas",
+   "titre": "Head of HR",
+   "entreprise": "Bridge Talent Management",
+   "lieu": "Kenya",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/bridge-talent-management/jobs/head-of-hr?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/project-management-institute-inc/jobs/finance-system-analyst-ii",
+   "source": "himalayas",
+   "titre": "Finance System Analyst II",
+   "entreprise": "Project Management Institute, Inc.",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "113k–138k USD /an",
+   "tags": [
+    "Finance"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/project-management-institute-inc/jobs/finance-system-analyst-ii?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "React Native",
+    "Swift",
+    "AWS",
+    "Azure"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/healthhub-solutions/jobs/linux-systems-developer-healthcare-platform",
+   "source": "himalayas",
+   "titre": "Linux Systems Developer - Healthcare Platform",
+   "entreprise": "HealthHub Solutions",
+   "lieu": "Canada",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/healthhub-solutions/jobs/linux-systems-developer-healthcare-platform?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/medpace/jobs/study-start-up-coordinator-remote",
+   "source": "himalayas",
+   "titre": "Study Start-Up Coordinator– Remote",
+   "entreprise": "medpace",
+   "lieu": "Canada",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "Research & Development"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/medpace/jobs/study-start-up-coordinator-remote?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/lightstone-group-affiliates/jobs/vice-president-insurance-compliance",
+   "source": "himalayas",
+   "titre": "Vice President, Insurance Compliance",
+   "entreprise": "Lightstone Group & Affiliates",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": "175k–200k USD /an",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lightstone-group-affiliates/jobs/vice-president-insurance-compliance?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/personify-health/jobs/stop-loss-training-lead",
+   "source": "himalayas",
+   "titre": "Stop Loss Training Lead",
+   "entreprise": "Personify Health",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "65k–73k USD /an",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/personify-health/jobs/stop-loss-training-lead?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/tait-north-america-inc/jobs/business-solutions-manager",
+   "source": "himalayas",
+   "titre": "Business Solutions Manager",
+   "entreprise": "Tait North America Inc.",
+   "lieu": "Austria, France, United Kingdom",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/tait-north-america-inc/jobs/business-solutions-manager?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/engagement-manager-commercial-3905640657",
+   "source": "himalayas",
+   "titre": "Engagement Manager - Commercial",
+   "entreprise": "Lifelancer",
+   "lieu": "Germany",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "85k–170k EUR /an",
+   "tags": [
+    "Developer",
+    "Finance",
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/engagement-manager-commercial-3905640657?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/shore360/jobs/technical-support-engineer-application-support-work-from-home",
+   "source": "himalayas",
+   "titre": "Technical Support Engineer - Application Support ( Work-From-Home)",
+   "entreprise": "Shore360",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Developer",
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/shore360/jobs/technical-support-engineer-application-support-work-from-home?utm_source=api"
+  },
+  {
+   "techs": [
+    "SQL",
+    "Azure"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/3cloud/jobs/data-architect-managed-services",
+   "source": "himalayas",
+   "titre": "Data Architect - Managed Services",
+   "entreprise": "3Cloud",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "11k–165k USD /an",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/3cloud/jobs/data-architect-managed-services?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/scale-x-solutions/jobs/contract-administrator-hvac-permanent-au-dayshift-remote-wfh-philippines",
+   "source": "himalayas",
+   "titre": "Contract Administrator (HVAC) Permanent AU Dayshift, Remote WFH Philippines",
+   "entreprise": "Scale-X Solutions",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "12 PHP /h",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/scale-x-solutions/jobs/contract-administrator-hvac-permanent-au-dayshift-remote-wfh-philippines?utm_source=api"
+  },
+  {
+   "experience": 7,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/solution-operations-associate-director-3364840740",
+   "source": "himalayas",
+   "titre": "Solution Operations Associate Director",
+   "entreprise": "Lifelancer",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "86k–240k USD /an",
+   "tags": [
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/solution-operations-associate-director-3364840740?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Azure",
+    "GCP"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/acv-auctions/jobs/commercial-analytics-director",
+   "source": "himalayas",
+   "titre": "Commercial Analytics Director",
+   "entreprise": "ACV Auctions",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "175k–220k USD /an",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/acv-auctions/jobs/commercial-analytics-director?utm_source=api"
+  },
+  {
+   "techs": [
+    "Java",
+    "Kotlin"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/aida-recruitment/jobs/android-developer",
+   "source": "himalayas",
+   "titre": "Android Developer",
+   "entreprise": "AIDA Recruitment",
+   "lieu": "Lithuania, Poland",
+   "zone": "europe",
+   "type": "contrat",
+   "categorie": "dev",
+   "salaire": "6k–7k EUR /mois",
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/aida-recruitment/jobs/android-developer?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/proposal-manager-europe",
+   "source": "himalayas",
+   "titre": "Proposal Manager - Europe",
+   "entreprise": "Lifelancer",
+   "lieu": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "35k–80k EUR /an",
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/proposal-manager-europe?utm_source=api"
+  },
+  {
+   "techs": [
+    "Azure"
+   ],
+   "experience": 8,
+   "id": "himalayas-https://himalayas.app/companies/bright-vision-technologies/jobs/azure-architect-7227499543",
+   "source": "himalayas",
+   "titre": "Azure Architect",
+   "entreprise": "Bright Vision Technologies",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "contrat",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/azure-architect-7227499543?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/changing-lives-productions-llc/jobs/assistant-editor",
+   "source": "himalayas",
+   "titre": "Assistant Editor",
+   "entreprise": "Changing Lives Productions LLC",
+   "lieu": "India",
+   "zone": "autre",
+   "type": "contrat",
+   "categorie": "redaction",
+   "salaire": "15 USD /h",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/changing-lives-productions-llc/jobs/assistant-editor?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/american-income-life-insurance-company/jobs/manager-in-training-work-from-home",
+   "source": "himalayas",
+   "titre": "Manager In Training (Work From Home)",
+   "entreprise": "American Income Life Insurance Company",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/american-income-life-insurance-company/jobs/manager-in-training-work-from-home?utm_source=api"
+  },
+  {
+   "horsTeletravail": true,
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/amazon-advertising-specialist",
+   "source": "himalayas",
+   "titre": "Amazon Advertising Specialist",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": "60k–90k PHP /mois",
+   "tags": [
+    "Marketing"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/amazon-advertising-specialist?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/inizio-partners-corp/jobs/vp-new-business-sales-banking-financial-services-bfs",
+   "source": "himalayas",
+   "titre": "VP New Business Sales - Banking & Financial Services (BFS)",
+   "entreprise": "Inizio Partners Corp",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "240k–300k USD /an",
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/vp-new-business-sales-banking-financial-services-bfs?utm_source=api"
+  },
+  {
+   "techs": [
+    "SQL",
+    "AWS",
+    "Azure",
+    "GCP"
+   ],
+   "experience": 8,
+   "id": "himalayas-https://himalayas.app/companies/inizio-partners-corp/jobs/solution-architect-reltio-mdm",
+   "source": "himalayas",
+   "titre": "Solution Architect - Reltio MDM",
+   "entreprise": "Inizio Partners Corp",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/solution-architect-reltio-mdm?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/crisis24/jobs/strategic-business-operations-coordinator",
+   "source": "himalayas",
+   "titre": "Strategic Business Operations Coordinator",
+   "entreprise": "Crisis24",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "85k–95k USD /an",
+   "tags": [
+    "Operations",
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/crisis24/jobs/strategic-business-operations-coordinator?utm_source=api"
+  },
+  {
+   "experience": 1,
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/pay-per-click-ppc-specialist",
+   "source": "himalayas",
+   "titre": "Pay-Per-Click (PPC) Specialist",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": "60k–80k PHP /mois",
+   "tags": [
+    "Marketing"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/pay-per-click-ppc-specialist?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/business-consultant-global-medical-business-consulting-7854953170",
+   "source": "himalayas",
+   "titre": "Business Consultant - Global Medical Business Consulting",
+   "entreprise": "Lifelancer",
+   "lieu": "Spain",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "49k–80k EUR /an",
+   "tags": [
+    "Finance",
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/business-consultant-global-medical-business-consulting-7854953170?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "TypeScript",
+    "SQL",
+    "MongoDB",
+    "AWS",
+    "Azure",
+    "GCP"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/ai-technology-partners-inc/jobs/senior-ai-engineer-agentic-systems",
+   "source": "himalayas",
+   "titre": "Senior AI Engineer, Agentic Systems",
+   "entreprise": "AI Technology Partners, Inc.",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/ai-technology-partners-inc/jobs/senior-ai-engineer-agentic-systems?utm_source=api"
+  },
+  {
+   "techs": [
+    "JavaScript"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/fistrek/jobs/consultor-a-senior-opentext-exstream-ccm-document-composition",
+   "source": "himalayas",
+   "titre": "Consultor/a Senior OpenText Exstream – CCM & Document Composition",
+   "entreprise": "Fistrek",
+   "lieu": "Spain",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/fistrek/jobs/consultor-a-senior-opentext-exstream-ccm-document-composition?utm_source=api"
+  },
+  {
+   "experience": 4,
+   "id": "himalayas-https://himalayas.app/companies/brightscout/jobs/ui-ux-designer",
+   "source": "himalayas",
+   "titre": "UI/UX Designer",
+   "entreprise": "Brightscout",
+   "lieu": "Argentina",
+   "zone": "autre",
+   "type": "contrat",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/brightscout/jobs/ui-ux-designer?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-communication-agents-for-freight-logistics-1419353219",
+   "source": "himalayas",
+   "titre": "Co-Founder & CEO - AI Communication Agents for Freight & Logistics",
+   "entreprise": "FutureSight",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-communication-agents-for-freight-logistics-1419353219?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/cam-operator",
+   "source": "himalayas",
+   "titre": "CAM Operator",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": "25k–30k PHP /mois",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/cam-operator?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/db-financial/jobs/marketing-operations-manager",
+   "source": "himalayas",
+   "titre": "Marketing Operations Manager",
+   "entreprise": "DB Financial",
+   "lieu": "Egypt, Jordan, Lebanon, Palestine, State of",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Marketing"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/db-financial/jobs/marketing-operations-manager?utm_source=api"
+  },
+  {
+   "experience": 1,
+   "id": "himalayas-https://himalayas.app/companies/softswiss/jobs/partnership-manager-junior",
+   "source": "himalayas",
+   "titre": "Partnership Manager - Junior",
+   "entreprise": "SOFTSWISS",
+   "lieu": "Serbia",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Marketing",
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/softswiss/jobs/partnership-manager-junior?utm_source=api"
+  },
+  {
+   "experience": 4,
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/senior-it-auditor-night-shift-work-from-home",
+   "source": "himalayas",
+   "titre": "Senior IT Auditor | Night Shift | Work From Home",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Finance"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/senior-it-auditor-night-shift-work-from-home?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/brightspring-health-services/jobs/territory-director-client-services",
+   "source": "himalayas",
+   "titre": "Territory Director / Client Services",
+   "entreprise": "BrightSpring Health Services",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/brightspring-health-services/jobs/territory-director-client-services?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/akamai-technologies/jobs/field-marketing-manager-taiwan",
+   "source": "himalayas",
+   "titre": "Field Marketing Manager, Taiwan",
+   "entreprise": "Akamai Technologies",
+   "lieu": "Taiwan",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Marketing"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/akamai-technologies/jobs/field-marketing-manager-taiwan?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/beilmann-marketing-gmbh/jobs/video-editor-in-performance-marketing-m-w-d-remote",
+   "source": "himalayas",
+   "titre": "Video Editor:in Performance Marketing (m/w/d) remote",
+   "entreprise": "Beilmann Marketing GmbH",
+   "lieu": "Portugal",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Content Creator"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/beilmann-marketing-gmbh/jobs/video-editor-in-performance-marketing-m-w-d-remote?utm_source=api"
+  },
+  {
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/primeworks/jobs/lms-administrator",
+   "source": "himalayas",
+   "titre": "LMS Administrator",
+   "entreprise": "PrimeWorks",
+   "lieu": "Colombia",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/primeworks/jobs/lms-administrator?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/futuresight/jobs/technical-co-founder-cto-5900424480",
+   "source": "himalayas",
+   "titre": "Technical Co-founder (CTO)",
+   "entreprise": "FutureSight",
+   "lieu": "Canada",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Developer",
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/futuresight/jobs/technical-co-founder-cto-5900424480?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-native-accounting-roll-up",
+   "source": "himalayas",
+   "titre": "Co-Founder & CEO — AI-Native Accounting Roll-Up",
+   "entreprise": "FutureSight",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-native-accounting-roll-up?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/the-gli-group/jobs/account-executive",
+   "source": "himalayas",
+   "titre": "Account Executive",
+   "entreprise": "The GLI Group",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "80k–90k USD /an",
+   "tags": [
+    "Sales",
+    "Customer Service"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/the-gli-group/jobs/account-executive?utm_source=api"
+  },
+  {
+   "experience": 8,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/senior-manager-trade-contract-advisory",
+   "source": "himalayas",
+   "titre": "Senior Manager, Trade Contract Advisory",
+   "entreprise": "Lifelancer",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": "68k–183k USD /an",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/senior-manager-trade-contract-advisory?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/glasspoint/jobs/data-analytics-consultant-all-genders-contractor",
+   "source": "himalayas",
+   "titre": "Data Analytics Consultant (all genders) / Contractor",
+   "entreprise": "GlassPoint",
+   "lieu": "Germany",
+   "zone": "europe",
+   "type": "contrat",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Data Science",
+    "Marketing"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/glasspoint/jobs/data-analytics-consultant-all-genders-contractor?utm_source=api"
+  },
+  {
+   "techs": [
+    "Spring"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/propublica/jobs/local-reporting-network-fellow",
+   "source": "himalayas",
+   "titre": "Local Reporting Network Fellow",
+   "entreprise": "ProPublica",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "stage",
+   "categorie": "marketing",
+   "salaire": "80k USD /an",
+   "tags": [
+    "Content Creator"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/propublica/jobs/local-reporting-network-fellow?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/customer-care-coordinator",
+   "source": "himalayas",
+   "titre": "Customer Care Coordinator",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Service"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/customer-care-coordinator?utm_source=api"
+  },
+  {
+   "experience": 8,
+   "id": "himalayas-https://himalayas.app/companies/monetizemore/jobs/group-product-manager-8647640",
+   "source": "himalayas",
+   "titre": "Group Product Manager",
+   "entreprise": "MonetizeMore",
+   "lieu": "Mexico",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Product"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/monetizemore/jobs/group-product-manager-8647640?utm_source=api"
+  },
+  {
+   "experience": 12,
+   "id": "himalayas-https://himalayas.app/companies/pubity-group-ltd/jobs/head-of-industry-brand-partnerships",
+   "source": "himalayas",
+   "titre": "Head of Industry, Brand Partnerships",
+   "entreprise": "Pubity Group Ltd",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/pubity-group-ltd/jobs/head-of-industry-brand-partnerships?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/e-merchandising-specialist-wholesale-4137079989",
+   "source": "himalayas",
+   "titre": "E-Merchandising Specialist (Wholesale)",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/e-merchandising-specialist-wholesale-4137079989?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/knowit-group/jobs/c-c-developer-devops-engineer",
+   "source": "himalayas",
+   "titre": "C/C++ Developer & DevOps Engineer",
+   "entreprise": "Knowit Group",
+   "lieu": "Poland",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/knowit-group/jobs/c-c-developer-devops-engineer?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/stelia/jobs/general-counsel",
+   "source": "himalayas",
+   "titre": "General Counsel",
+   "entreprise": "Stelia",
+   "lieu": "United Kingdom",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "120k–140k GBP /an",
+   "tags": [
+    "Legal"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/stelia/jobs/general-counsel?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/ad-operations-specialist",
+   "source": "himalayas",
+   "titre": "Ad Operations Specialist",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "25k–30k PHP /mois",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/ad-operations-specialist?utm_source=api"
+  },
+  {
+   "experience": 6,
+   "id": "himalayas-https://himalayas.app/companies/piranha-games-inc/jobs/senior-lighting-artist",
+   "source": "himalayas",
+   "titre": "Senior Lighting Artist",
+   "entreprise": "Piranha Games Inc.",
+   "lieu": "Canada",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/piranha-games-inc/jobs/senior-lighting-artist?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL"
+   ],
+   "experience": 4,
+   "id": "himalayas-https://himalayas.app/companies/inizio-partners-corp/jobs/marketing-analytics-consultant",
+   "source": "himalayas",
+   "titre": "Marketing Analytics Consultant",
+   "entreprise": "Inizio Partners Corp",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "100k–125k USD /an",
+   "tags": [
+    "Marketing",
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/marketing-analytics-consultant?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/media-campaign-coordinator",
+   "source": "himalayas",
+   "titre": "Media Campaign Coordinator",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": "30k–40k PHP /mois",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/media-campaign-coordinator?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/project-management-institute-inc/jobs/manager-marketing-data-analytics",
+   "source": "himalayas",
+   "titre": "Manager, Marketing Data & Analytics",
+   "entreprise": "Project Management Institute, Inc.",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "143k–175k USD /an",
+   "tags": [
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/project-management-institute-inc/jobs/manager-marketing-data-analytics?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/ams-psr/jobs/communications-officer",
+   "source": "himalayas",
+   "titre": "Communications Officer",
+   "entreprise": "AMS PSR",
+   "lieu": "United Kingdom",
+   "zone": "europe",
+   "type": "contrat",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Marketing",
+    "Social Impact"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/ams-psr/jobs/communications-officer?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "Node.js"
+   ],
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/analogue-insight/jobs/analog-design-engineer-graduate",
+   "source": "himalayas",
+   "titre": "Analog Design Engineer (Graduate)",
+   "entreprise": "Analogue Insight",
+   "lieu": "United Kingdom",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Hardware Engineer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/analogue-insight/jobs/analog-design-engineer-graduate?utm_source=api"
+  },
+  {
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/mechanical-engineer",
+   "source": "himalayas",
+   "titre": "Mechanical Engineer",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": "56k–75k PHP /mois",
+   "tags": [
+    "Hardware Engineer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/mechanical-engineer?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "JavaScript"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/crisalix/jobs/ai-automation-prototyping-intern-location-barcelona-spain-dubai-uae-laus",
+   "source": "himalayas",
+   "titre": "AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Laus",
+   "entreprise": "Crisalix",
+   "lieu": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "zone": "europe",
+   "type": "stage",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Data Science",
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/crisalix/jobs/ai-automation-prototyping-intern-location-barcelona-spain-dubai-uae-laus?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/one-world-global-services/jobs/korean-interpreter-2145739406",
+   "source": "himalayas",
+   "titre": "Korean:Interpreter",
+   "entreprise": "One World Global Services",
+   "lieu": "India",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/one-world-global-services/jobs/korean-interpreter-2145739406?utm_source=api"
+  },
+  {
+   "experience": 11,
+   "id": "himalayas-https://himalayas.app/companies/united-biosource-corporation/jobs/quality-assurance-associate-reimbursement-hub-services",
+   "source": "himalayas",
+   "titre": "Quality Assurance Associate - Reimbursement HUB Services",
+   "entreprise": "United-Biosource-Corporation",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": null,
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/quality-assurance-associate-reimbursement-hub-services?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "TypeScript",
+    "Kubernetes",
+    "AWS"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/priority/jobs/site-reliability-engineer",
+   "source": "himalayas",
+   "titre": "Site Reliability Engineer",
+   "entreprise": "Priority",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": "111k–143k USD /an",
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/priority/jobs/site-reliability-engineer?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/inizio-partners-corp/jobs/vp-consulting-sales-banking-capital-markets",
+   "source": "himalayas",
+   "titre": "VP Consulting Sales - Banking & Capital Markets",
+   "entreprise": "Inizio Partners Corp",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/vp-consulting-sales-banking-capital-markets?utm_source=api"
+  },
+  {
+   "experience": 6,
+   "id": "himalayas-https://himalayas.app/companies/palo-alto-networks/jobs/solutions-consultant-poland",
+   "source": "himalayas",
+   "titre": "Solutions Consultant - Poland",
+   "entreprise": "Palo Alto Networks",
+   "lieu": "Poland",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales",
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/palo-alto-networks/jobs/solutions-consultant-poland?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/dell/jobs/principal-engineer-ai-networking-solutions-architect-275373732",
+   "source": "himalayas",
+   "titre": "Principal Engineer - AI Networking Solutions Architect",
+   "entreprise": "dell",
+   "lieu": "Finland",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/dell/jobs/principal-engineer-ai-networking-solutions-architect-275373732?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/recon-search-and-selection/jobs/associate-director",
+   "source": "himalayas",
+   "titre": "Associate Director",
+   "entreprise": "RECON Search and Selection",
+   "lieu": "United Kingdom",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/recon-search-and-selection/jobs/associate-director?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/listo/jobs/graphic-designer",
+   "source": "himalayas",
+   "titre": "Graphic Designer",
+   "entreprise": "Listo",
+   "lieu": "Argentina",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": null,
+   "tags": [
+    "Design"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/listo/jobs/graphic-designer?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/netimpact-strategies/jobs/senior-functional-specialist",
+   "source": "himalayas",
+   "titre": "Senior Functional Specialist",
+   "entreprise": "NetImpact Strategies",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "140k–175k USD /an",
+   "tags": [
+    "Data Science",
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/netimpact-strategies/jobs/senior-functional-specialist?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Azure",
+    "GCP"
+   ],
+   "experience": 10,
+   "id": "himalayas-https://himalayas.app/companies/inizio-partners-corp/jobs/insurance-data-analytics-leader-sr-avp",
+   "source": "himalayas",
+   "titre": "Insurance Data & Analytics Leader (Sr. AVP)",
+   "entreprise": "Inizio Partners Corp",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "180k–200k USD /an",
+   "tags": [
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/insurance-data-analytics-leader-sr-avp?utm_source=api"
+  },
+  {
+   "experience": 1,
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/medical-content-analyst-junior-remote-night-shift",
+   "source": "himalayas",
+   "titre": "Medical Content Analyst (Junior) | Remote | Night Shift",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [
+    "Healthcare"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/medical-content-analyst-junior-remote-night-shift?utm_source=api"
+  },
+  {
+   "techs": [
+    "SQL"
+   ],
+   "experience": 10,
+   "id": "himalayas-https://himalayas.app/companies/dvt-co/jobs/business-analysis-recruitment-board-bus",
+   "source": "himalayas",
+   "titre": "Business Analysis Recruitment board (BUS)",
+   "entreprise": "DVT",
+   "lieu": "South Africa",
+   "zone": "afrique",
+   "type": "contrat",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/dvt-co/jobs/business-analysis-recruitment-board-bus?utm_source=api"
+  },
+  {
+   "experience": 7,
+   "id": "himalayas-https://himalayas.app/companies/tether-operations-limited/jobs/head-of-underwriting-digital-asset-financing-198802069",
+   "source": "himalayas",
+   "titre": "Head of Underwriting - Digital Asset Financing",
+   "entreprise": "Tether Operations Limited",
+   "lieu": "Luxembourg",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "redaction",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/tether-operations-limited/jobs/head-of-underwriting-digital-asset-financing-198802069?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL"
+   ],
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/inizio-partners-corp/jobs/healthcare-medicare-stars-analyst",
+   "source": "himalayas",
+   "titre": "Healthcare Medicare STARS Analyst",
+   "entreprise": "Inizio Partners Corp",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "95k USD /an",
+   "tags": [
+    "Healthcare"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/healthcare-medicare-stars-analyst?utm_source=api"
+  },
+  {
+   "experience": 8,
+   "id": "himalayas-https://himalayas.app/companies/centene-corporation/jobs/project-manager-v",
+   "source": "himalayas",
+   "titre": "Project Manager V",
+   "entreprise": "Centene Corporation",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "108k–199k USD /an",
+   "tags": [
+    "Operations",
+    "Product"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/centene-corporation/jobs/project-manager-v?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/paralegal-debt-recovery",
+   "source": "himalayas",
+   "titre": "Paralegal (Debt Recovery)",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": "45k–60k PHP /mois",
+   "tags": [
+    "Legal"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/paralegal-debt-recovery?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/mira-safety/jobs/affiliate-marketing-intern-onsite-remote",
+   "source": "himalayas",
+   "titre": "Affiliate Marketing Intern - Onsite/Remote",
+   "entreprise": "Mira Safety",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "stage",
+   "categorie": "marketing",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/mira-safety/jobs/affiliate-marketing-intern-onsite-remote?utm_source=api"
+  },
+  {
+   "techs": [
+    "GCP"
+   ],
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/senior-consultant-vault-promomats-7710088296",
+   "source": "himalayas",
+   "titre": "Senior Consultant - Vault PromoMats",
+   "entreprise": "Lifelancer",
+   "lieu": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales",
+    "Developer",
+    "Customer Service",
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/senior-consultant-vault-promomats-7710088296?utm_source=api"
+  },
+  {
+   "experience": 6,
+   "id": "himalayas-https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/scrum-master",
+   "source": "himalayas",
+   "titre": "Scrum Master",
+   "entreprise": "PradeepIT Consulting Services Pvt Ltd",
+   "lieu": "India",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Product",
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/scrum-master?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/customer-support-associate-saas",
+   "source": "himalayas",
+   "titre": "Customer Support Associate (SaaS)",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "support",
+   "salaire": "30k–33k PHP /mois",
+   "tags": [
+    "Customer Service"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/customer-support-associate-saas?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/senior-safety-domain-expert-falcon-9843271023",
+   "source": "himalayas",
+   "titre": "Senior Safety Domain Expert - Falcon",
+   "entreprise": "Lifelancer",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "120k–180k USD /an",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/senior-safety-domain-expert-falcon-9843271023?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/mirion-technologies/jobs/inside-sales-manager",
+   "source": "himalayas",
+   "titre": "Inside Sales Manager",
+   "entreprise": "Mirion Technologies",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "80k–115k USD /an",
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/mirion-technologies/jobs/inside-sales-manager?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/inecta/jobs/senior-project-manager",
+   "source": "himalayas",
+   "titre": "Senior Project Manager",
+   "entreprise": "inecta",
+   "lieu": "Canada",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "120k–150k CAD /an",
+   "tags": [
+    "Operations"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/inecta/jobs/senior-project-manager?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/microsourcing/jobs/purchasing-administrator",
+   "source": "himalayas",
+   "titre": "Purchasing Administrator",
+   "entreprise": "MicroSourcing",
+   "lieu": "Philippines",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": "46k–60k PHP /mois",
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/microsourcing/jobs/purchasing-administrator?utm_source=api"
+  },
+  {
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/white-tiger-connections/jobs/tax-supervisor-remote",
+   "source": "himalayas",
+   "titre": "Tax Supervisor - Remote",
+   "entreprise": "White Tiger Connections",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "finance",
+   "salaire": null,
+   "tags": [
+    "Finance"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/white-tiger-connections/jobs/tax-supervisor-remote?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/first-advantage/jobs/bilingual-procurement-manager",
+   "source": "himalayas",
+   "titre": "Bilingual Procurement Manager",
+   "entreprise": "First Advantage",
+   "lieu": "Mexico",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "Logistics"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/first-advantage/jobs/bilingual-procurement-manager?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/account-partner-cro-9438840556",
+   "source": "himalayas",
+   "titre": "Account Partner - CRO",
+   "entreprise": "Lifelancer",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "80k–300k USD /an",
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/account-partner-cro-9438840556?utm_source=api"
+  },
+  {
+   "techs": [
+    "GCP"
+   ],
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/study-start-up-specialist-uk-iqvia-biotech-2628326762",
+   "source": "himalayas",
+   "titre": "Study Start Up Specialist - UK IQVIA Biotech",
+   "entreprise": "Lifelancer",
+   "lieu": "United Kingdom",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "Research & Development",
+    "Healthcare"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/study-start-up-specialist-uk-iqvia-biotech-2628326762?utm_source=api"
+  },
+  {
+   "techs": [
+    "Kubernetes",
+    "AWS"
+   ],
+   "experience": 10,
+   "id": "himalayas-https://himalayas.app/companies/sprezzmc/jobs/senior-devsecops-engineer-1325496199",
+   "source": "himalayas",
+   "titre": "Senior DevSecOps Engineer",
+   "entreprise": "SprezzMC",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "dev",
+   "salaire": "150k–170k USD /an",
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/sprezzmc/jobs/senior-devsecops-engineer-1325496199?utm_source=api"
+  },
+  {
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/project-management-institute-inc/jobs/creator-social-video-producer",
+   "source": "himalayas",
+   "titre": "Creator & Social Video Producer",
+   "entreprise": "Project Management Institute, Inc.",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": "112k–136k USD /an",
+   "tags": [
+    "Content Creator"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/project-management-institute-inc/jobs/creator-social-video-producer?utm_source=api"
+  },
+  {
+   "horsTeletravail": true,
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/samsara/jobs/mid-market-account-executive-public-sector",
+   "source": "himalayas",
+   "titre": "Mid-Market Account Executive - Public Sector",
+   "entreprise": "Samsara",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "152k–190k USD /an",
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/samsara/jobs/mid-market-account-executive-public-sector?utm_source=api"
+  },
+  {
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/lifelancer/jobs/implementation-consultant-commercial-remote-or-onsite-1769762521",
+   "source": "himalayas",
+   "titre": "Implementation Consultant - Commercial (Remote or Onsite)",
+   "entreprise": "Lifelancer",
+   "lieu": "Italy",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "45k–80k EUR /an",
+   "tags": [
+    "Customer Service",
+    "Sales",
+    "Developer"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/implementation-consultant-commercial-remote-or-onsite-1769762521?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/useware-systems-gmbh/jobs/sales-consultant-b2b-german-speaking-m-w-x-bangkok-remote",
+   "source": "himalayas",
+   "titre": "Sales Consultant B2B (German speaking, m/w/x | Bangkok / Remote)",
+   "entreprise": "Useware Systems GmbH",
+   "lieu": "Thailand",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/useware-systems-gmbh/jobs/sales-consultant-b2b-german-speaking-m-w-x-bangkok-remote?utm_source=api"
+  },
+  {
+   "horsTeletravail": true,
+   "experience": 3,
+   "id": "himalayas-https://himalayas.app/companies/coros/jobs/sales-trade-marketing-specialist-emea",
+   "source": "himalayas",
+   "titre": "Sales & Trade Marketing Specialist EMEA",
+   "entreprise": "COROS",
+   "lieu": "Netherlands",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": "30k GBP /an",
+   "tags": [
+    "Sales",
+    "Marketing"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/coros/jobs/sales-trade-marketing-specialist-emea?utm_source=api"
+  },
+  {
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/naples-jet-center/jobs/purchasing-associate",
+   "source": "himalayas",
+   "titre": "Purchasing Associate",
+   "entreprise": "Naples Jet Center",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/naples-jet-center/jobs/purchasing-associate?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python",
+    "SQL"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/covet/jobs/marketing-data-analyst-cro",
+   "source": "himalayas",
+   "titre": "Marketing Data Analyst / CRO",
+   "entreprise": "CoVet",
+   "lieu": "Spain",
+   "zone": "europe",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "85k–95k CAD /an",
+   "tags": [
+    "Marketing",
+    "Product"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/covet/jobs/marketing-data-analyst-cro?utm_source=api"
+  },
+  {
+   "techs": [
+    "SQL"
+   ],
+   "experience": 5,
+   "id": "himalayas-https://himalayas.app/companies/tempus/jobs/sr-data-scientist-outcomes-research",
+   "source": "himalayas",
+   "titre": "Sr. Data Scientist, Outcomes Research",
+   "entreprise": "Tempus",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "100k–175k USD /an",
+   "tags": [
+    "Data Science",
+    "Research & Development"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/tempus/jobs/sr-data-scientist-outcomes-research?utm_source=api"
+  },
+  {
+   "experience": 2,
+   "id": "himalayas-https://himalayas.app/companies/piedmont-healthcare/jobs/revenue-cycle-rep-ii-claims-follow-up-1249963455",
+   "source": "himalayas",
+   "titre": "Revenue Cycle Rep II-Claims/Follow up",
+   "entreprise": "Piedmont Healthcare",
+   "lieu": "United States",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [
+    "Healthcare"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/piedmont-healthcare/jobs/revenue-cycle-rep-ii-claims-follow-up-1249963455?utm_source=api"
+  },
+  {
+   "techs": [
+    "SQL",
+    "AWS"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/we-are-tims/jobs/data-engineer-5895237814",
+   "source": "himalayas",
+   "titre": "Data Engineer",
+   "entreprise": "We are Tims",
+   "lieu": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": null,
+   "tags": [
+    "Data Science"
+   ],
+   "date": "2026-11-03",
+   "expire": "2027-01-02",
+   "url": "https://himalayas.app/companies/we-are-tims/jobs/data-engineer-5895237814?utm_source=api"
+  },
+  {
+   "techs": [
+    "Python"
+   ],
+   "experience": 5,
+   "id": "remoteok-1137619",
+   "source": "remoteok",
+   "titre": "AI ML Engineer",
+   "entreprise": "Docusketch",
+   "lieu": null,
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "data",
+   "salaire": "10k–120k USD /an",
+   "tags": [
+    "dev",
+    "ai",
+    "machine learning",
+    "deep learning",
+    "artificial intelligence"
+   ],
+   "date": "2026-11-02",
+   "expire": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619"
+  },
+  {
+   "techs": [
+    "Ruby",
+    "Kubernetes",
+    "AWS"
+   ],
+   "id": "remoteok-1137614",
+   "source": "remoteok",
+   "titre": "Software Engineer Infrastructure",
+   "entreprise": "Sodalis, Inc.",
+   "lieu": "Palo Alto",
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "design",
+   "salaire": "185k–215k USD /an",
+   "tags": [
+    "dev",
+    "design",
+    "embedded",
+    "sys admin",
+    "cloud"
+   ],
+   "date": "2026-11-02",
+   "expire": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614"
+  },
+  {
+   "id": "remoteok-1137613",
+   "source": "remoteok",
+   "titre": "Team Lead Account Executive",
+   "entreprise": "Capmo",
+   "lieu": null,
+   "zone": "autre",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "saas",
+    "exec",
+    "junior",
+    "marketing",
+    "sales"
+   ],
+   "date": "2026-11-02",
+   "expire": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/finance-research-expert",
+   "source": "himalayas",
+   "titre": "Finance Research Expert",
+   "entreprise": "micro1",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "contrat",
+   "categorie": "finance",
+   "salaire": "30–85 USD /h",
+   "tags": [],
+   "date": "2026-11-02",
+   "expire": "2027-01-01",
+   "url": "https://himalayas.app/companies/micro1/jobs/finance-research-expert?utm_source=api"
+  },
+  {
+   "techs": [
+    "C#"
+   ],
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/godot-game-developer",
+   "source": "himalayas",
+   "titre": "Godot Game Developer",
+   "entreprise": "micro1",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "contrat",
+   "categorie": "dev",
+   "salaire": "20–60 USD /h",
+   "tags": [
+    "Developer"
+   ],
+   "date": "2026-11-02",
+   "expire": "2027-01-01",
+   "url": "https://himalayas.app/companies/micro1/jobs/godot-game-developer?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/sales-and-business-development-expert",
+   "source": "himalayas",
+   "titre": "Sales and Business Development Expert",
+   "entreprise": "micro1",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "contrat",
+   "categorie": "ventes",
+   "salaire": "15–35 USD /h",
+   "tags": [
+    "Sales"
+   ],
+   "date": "2026-11-02",
+   "expire": "2027-01-01",
+   "url": "https://himalayas.app/companies/micro1/jobs/sales-and-business-development-expert?utm_source=api"
+  },
+  {
+   "id": "himalayas-https://himalayas.app/companies/weareenvoy/jobs/interested-in-freelance-opportunities",
+   "source": "himalayas",
+   "titre": "Interested In Freelance Opportunities?",
+   "entreprise": "Envoy",
+   "lieu": "Worldwide",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "autres",
+   "salaire": null,
+   "tags": [],
+   "date": "2026-11-02",
+   "expire": "2027-01-01",
+   "url": "https://himalayas.app/companies/weareenvoy/jobs/interested-in-freelance-opportunities?utm_source=api"
+  },
+  {
    "id": "himalayas-https://himalayas.app/companies/motu-novu-llc/jobs/virtual-assistant-flex-remote-global",
    "source": "himalayas",
-   "titre": "Virtual Assistant (Flex) (Remote/Global)",
+   "titre": "Virtual Assistant (Flex-Time) (Remote/Global)",
    "entreprise": "Motu Novu LLC",
    "lieu": "Worldwide",
    "zone": "monde",
@@ -49,7 +2129,7 @@
    ],
    "id": "himalayas-https://himalayas.app/companies/motu-novu-llc/jobs/php-developer-flex-time-global",
    "source": "himalayas",
-   "titre": "PHP Developer (Flex-Time) (Global)",
+   "titre": "PHP Developer (Flex-Time) (Remote/Global)",
    "entreprise": "Motu Novu LLC",
    "lieu": "Worldwide",
    "zone": "monde",
@@ -72,7 +2152,7 @@
    ],
    "id": "himalayas-https://himalayas.app/companies/motu-novu-llc/jobs/front-end-developer-flex-time-global",
    "source": "himalayas",
-   "titre": "Front-End Developer (Flex-Time) (Global)",
+   "titre": "Front-End Developer (Flex-Time) (Remote/Global)",
    "entreprise": "Motu Novu LLC",
    "lieu": "Worldwide",
    "zone": "monde",
@@ -85,24 +2165,6 @@
    "date": "2026-11-02",
    "expire": "2026-12-02",
    "url": "https://himalayas.app/companies/motu-novu-llc/jobs/front-end-developer-flex-time-global?utm_source=api"
-  },
-  {
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/everhelp/jobs/customer-support-specialist-german-and-english-2909298726",
-   "source": "himalayas",
-   "titre": "Customer Support Specialist | German and English",
-   "entreprise": "Everhelp",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2026-11-29",
-   "url": "https://himalayas.app/companies/everhelp/jobs/customer-support-specialist-german-and-english-2909298726?utm_source=api"
   },
   {
    "experience": 3,
@@ -123,1929 +2185,137 @@
    "url": "https://himalayas.app/companies/vame-ltd/jobs/technical-sales-engineer?utm_source=api"
   },
   {
-   "id": "himalayas-https://himalayas.app/companies/nordic-recruiters/jobs/business-development-manager-remote-2248756399",
-   "source": "himalayas",
-   "titre": "Business Development Manager Remote",
-   "entreprise": "Nordic Recruiters",
-   "lieu": "Worldwide",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/socure-technical-content-marketing-manager",
+   "source": "wwr",
+   "titre": "Technical Content Marketing Manager",
+   "entreprise": "Socure",
+   "lieu": "Anywhere in the World",
    "zone": "monde",
    "type": "temps-plein",
    "categorie": "ventes",
    "salaire": null,
    "tags": [
-    "Sales",
-    "Marketing"
+    "Sales and Marketing"
    ],
    "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/nordic-recruiters/jobs/business-development-manager-remote-2248756399?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/religiate-interactive-brand-consulting-pvt-ltd/jobs/senior-graphic-designer",
-   "source": "himalayas",
-   "titre": "Senior Graphic Designer",
-   "entreprise": "Religiate Interactive Brand Consulting Pvt Ltd",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "design",
-   "salaire": null,
-   "tags": [
-    "Design"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/religiate-interactive-brand-consulting-pvt-ltd/jobs/senior-graphic-designer?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/video-annotation",
-   "source": "himalayas",
-   "titre": "Video Annotation",
-   "entreprise": "micro1",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "contrat",
-   "categorie": "data",
-   "salaire": "15–25 USD /h",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/micro1/jobs/video-annotation?utm_source=api"
-  },
-  {
-   "techs": [
-    "React",
-    "Node.js",
-    "Ruby",
-    "SQL"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/sumatosoft/jobs/qa-engineer",
-   "source": "himalayas",
-   "titre": "QA Engineer",
-   "entreprise": "SumatoSoft",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api"
-  },
-  {
-   "techs": [
-    "React",
-    "Node.js"
-   ],
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/sumatosoft/jobs/project-manager",
-   "source": "himalayas",
-   "titre": "Project Manager",
-   "entreprise": "SumatoSoft",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/sumatosoft/jobs/project-manager?utm_source=api"
-  },
-  {
-   "techs": [
-    "Python",
-    "Ruby",
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "Azure",
-    "GCP"
-   ],
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/steampunk/jobs/devsecops-engineer-pipeline",
-   "source": "himalayas",
-   "titre": "DevSecOps Engineer (Pipeline)",
-   "entreprise": "Steampunk",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "80k–175k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/steampunk/jobs/devsecops-engineer-pipeline?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/dl-remote/jobs/senior-offensive-security-consultant",
-   "source": "himalayas",
-   "titre": "Senior Offensive Security Consultant",
-   "entreprise": "DL Remote",
-   "lieu": "Austria",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "100k EUR /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/dl-remote/jobs/senior-offensive-security-consultant?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/usa-today/jobs/event-operations-manager",
-   "source": "himalayas",
-   "titre": "Event Operations Manager",
-   "entreprise": "USA TODAY",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "marketing",
-   "salaire": "65k–70k USD /an",
-   "tags": [
-    "Marketing"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/usa-today/jobs/event-operations-manager?utm_source=api"
-  },
-  {
-   "techs": [
-    "SQL"
-   ],
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/nomad-ecommerce/jobs/part-time-support-specialist",
-   "source": "himalayas",
-   "titre": "Part Time Support Specialist",
-   "entreprise": "Nomad eCommerce",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-partiel",
-   "categorie": "support",
-   "salaire": "24–27 USD /h",
-   "tags": [
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/nomad-ecommerce/jobs/part-time-support-specialist?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/resmed/jobs/solution-marketing-manager-healthcare-m-w-d",
-   "source": "himalayas",
-   "titre": "Solution Marketing Manager Healthcare (m/w/d)",
-   "entreprise": "ResMed",
-   "lieu": "Germany",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "marketing",
-   "salaire": null,
-   "tags": [
-    "Marketing"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/resmed/jobs/solution-marketing-manager-healthcare-m-w-d?utm_source=api"
-  },
-  {
-   "experience": 10,
-   "id": "himalayas-https://himalayas.app/companies/revolution-medicines/jobs/director-global-forecasting",
-   "source": "himalayas",
-   "titre": "Director, Global Forecasting",
-   "entreprise": "Revolution Medicines",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "201k–251k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/revolution-medicines/jobs/director-global-forecasting?utm_source=api"
-  },
-  {
-   "techs": [
-    "PHP"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/synergy-america-inc/jobs/php-software-developer",
-   "source": "himalayas",
-   "titre": "PHP Software Developer",
-   "entreprise": "Synergy America, Inc",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/synergy-america-inc/jobs/php-software-developer?utm_source=api"
-  },
-  {
-   "techs": [
-    ".NET",
-    "C#",
-    "Java",
-    "Python",
-    "Node.js"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/osc-global-com/jobs/systems-integration-tester-854085520",
-   "source": "himalayas",
-   "titre": "Systems Integration Tester",
-   "entreprise": "OSC Global",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/osc-global-com/jobs/systems-integration-tester-854085520?utm_source=api"
-  },
-  {
-   "experience": 20,
-   "id": "himalayas-https://himalayas.app/companies/thehivecareers/jobs/chief-ai-officer-caio",
-   "source": "himalayas",
-   "titre": "Chief AI Officer (CAIO)",
-   "entreprise": "TheHiveCareers",
-   "lieu": "Barbados",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/thehivecareers/jobs/chief-ai-officer-caio?utm_source=api"
-  },
-  {
-   "experience": 8,
-   "id": "himalayas-https://himalayas.app/companies/nvidia/jobs/senior-datacenter-technical-program-manager-at-scale-ai-clusters",
-   "source": "himalayas",
-   "titre": "Senior Datacenter Technical Program Manager, At-Scale AI Clusters",
-   "entreprise": "NVIDIA",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "168k–322k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/nvidia/jobs/senior-datacenter-technical-program-manager-at-scale-ai-clusters?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/sitime/jobs/director-semiconductor-supply-chain-management",
-   "source": "himalayas",
-   "titre": "Director, Semiconductor Supply Chain Management",
-   "entreprise": "SiTime",
-   "lieu": "Singapore",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/sitime/jobs/director-semiconductor-supply-chain-management?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/motorola-solutions/jobs/customer-support-manager-mendoza",
-   "source": "himalayas",
-   "titre": "Customer Support Manager - Mendoza",
-   "entreprise": "Motorola Solutions",
-   "lieu": "Argentina",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": null,
-   "tags": [
-    "Customer Service",
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/motorola-solutions/jobs/customer-support-manager-mendoza?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/motorola-solutions/jobs/support-change-manager",
-   "source": "himalayas",
-   "titre": "Support Change Manager",
-   "entreprise": "Motorola Solutions",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/motorola-solutions/jobs/support-change-manager?utm_source=api"
-  },
-  {
-   "techs": [
-    "SQL",
-    "SQL Server",
-    "Azure"
-   ],
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/vetsez/jobs/senior-systems-engineer-team-lead-remote-opportunity",
-   "source": "himalayas",
-   "titre": "Senior Systems Engineer Team Lead (Remote Opportunity)",
-   "entreprise": "VetsEZ",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/vetsez/jobs/senior-systems-engineer-team-lead-remote-opportunity?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/bmo/jobs/sr-recruiter-capital-markets",
-   "source": "himalayas",
-   "titre": "Sr. Recruiter, Capital Markets",
-   "entreprise": "BMO",
-   "lieu": "Canada",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": "70k–150k CAD /an",
-   "tags": [
-    "Human Resources"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/bmo/jobs/sr-recruiter-capital-markets?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/getawaytravelagency/jobs/remote-travel-services-specialist-8961294125",
-   "source": "himalayas",
-   "titre": "Remote Travel Services Specialist",
-   "entreprise": "Getaway Travel Agency",
-   "lieu": "Aruba",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/getawaytravelagency/jobs/remote-travel-services-specialist-8961294125?utm_source=api"
-  },
-  {
-   "experience": 1,
-   "id": "himalayas-https://himalayas.app/companies/regeneron/jobs/temp-field-operations-specialist",
-   "source": "himalayas",
-   "titre": "Temp - Field Operations Specialist",
-   "entreprise": "Regeneron",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "contrat",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/regeneron/jobs/temp-field-operations-specialist?utm_source=api"
-  },
-  {
-   "techs": [
-    "Python",
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "GCP"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/nvidia/jobs/senior-linux-systems-engineer-eda-infrastructure",
-   "source": "himalayas",
-   "titre": "Senior Linux Systems Engineer - EDA Infrastructure",
-   "entreprise": "NVIDIA",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "184k–357k USD /an",
-   "tags": [
-    "Developer",
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/nvidia/jobs/senior-linux-systems-engineer-eda-infrastructure?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/proag/jobs/executive-underwriter-specialty",
-   "source": "himalayas",
-   "titre": "Executive Underwriter, Specialty",
-   "entreprise": "ProAg",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "redaction",
-   "salaire": "120k–170k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/proag/jobs/executive-underwriter-specialty?utm_source=api"
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/socure-technical-content-marketing-manager"
   },
   {
    "techs": [
     "Python"
    ],
-   "id": "himalayas-https://himalayas.app/companies/fouress-synergy/jobs/technical-assistant-business-analyst",
-   "source": "himalayas",
-   "titre": "Technical Assistant Business Analyst",
-   "entreprise": "FOURESS SYNERGY",
-   "lieu": "India",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "25k–30k INR /mois",
-   "tags": [
-    "Data Science",
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/fouress-synergy/jobs/technical-assistant-business-analyst?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/lpl-financial/jobs/sr-tax-planner",
-   "source": "himalayas",
-   "titre": "Sr. Tax Planner",
-   "entreprise": "LPL Financial",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "81k–135k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/lpl-financial/jobs/sr-tax-planner?utm_source=api"
-  },
-  {
-   "techs": [
-    "Azure"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/digacore/jobs/director-of-development-automation",
-   "source": "himalayas",
-   "titre": "Director of Development & Automation",
-   "entreprise": "Digacore",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "150k–180k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/digacore/jobs/director-of-development-automation?utm_source=api"
-  },
-  {
-   "techs": [
-    "Azure"
-   ],
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/first-advantage/jobs/salesforce-com-administrator",
-   "source": "himalayas",
-   "titre": "Salesforce.com Administrator",
-   "entreprise": "First Advantage",
-   "lieu": "Philippines",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/first-advantage/jobs/salesforce-com-administrator?utm_source=api"
-  },
-  {
-   "experience": 10,
-   "id": "himalayas-https://himalayas.app/companies/compassion-international/jobs/regional-portfolio-lead-latin-america",
-   "source": "himalayas",
-   "titre": "Regional Portfolio Lead - Latin America",
-   "entreprise": "Compassion International",
-   "lieu": "Bolivia, Brazil, Colombia, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Peru",
-   "zone": "autre",
-   "type": "contrat",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [
-    "Product"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/compassion-international/jobs/regional-portfolio-lead-latin-america?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/vcu-health/jobs/staff-financial-accountant",
-   "source": "himalayas",
-   "titre": "Staff Financial Accountant",
-   "entreprise": "VCU Health",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": "59k–88k USD /an",
-   "tags": [
-    "Finance"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/vcu-health/jobs/staff-financial-accountant?utm_source=api"
-  },
-  {
-   "techs": [
-    "Docker",
-    "Kubernetes"
-   ],
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/steampunk/jobs/senior-tester",
-   "source": "himalayas",
-   "titre": "Senior Tester",
-   "entreprise": "Steampunk",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "110k–160k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/steampunk/jobs/senior-tester?utm_source=api"
-  },
-  {
-   "experience": 20,
-   "id": "himalayas-https://himalayas.app/companies/thehivecareers/jobs/chief-product-officer-cpo-9343712547",
-   "source": "himalayas",
-   "titre": "Chief Product Officer (CPO)",
-   "entreprise": "TheHiveCareers",
-   "lieu": "Jamaica",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [
-    "Product"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/thehivecareers/jobs/chief-product-officer-cpo-9343712547?utm_source=api"
-  },
-  {
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/guidehouse/jobs/training-and-documentation-specailist",
-   "source": "himalayas",
-   "titre": "Training and Documentation Specailist",
-   "entreprise": "Guidehouse",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "design",
-   "salaire": "65k–108k USD /an",
-   "tags": [
-    "Content Creator",
-    "Education"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/guidehouse/jobs/training-and-documentation-specailist?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/fullsteam/jobs/technical-support-specialist",
-   "source": "himalayas",
-   "titre": "Technical Support Specialist",
-   "entreprise": "Fullsteam",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": "19.71–32.21 USD /h",
-   "tags": [
-    "Customer Service",
-    "Developer",
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/fullsteam/jobs/technical-support-specialist?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/icu-medical/jobs/senior-analyst-hris-workday",
-   "source": "himalayas",
-   "titre": "Senior Analyst, HRIS - Workday",
-   "entreprise": "ICU Medical",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/icu-medical/jobs/senior-analyst-hris-workday?utm_source=api"
-  },
-  {
-   "techs": [
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "React Native"
-   ],
-   "experience": 7,
-   "id": "himalayas-https://himalayas.app/companies/miratech/jobs/senior-react-native-developer-4149325557",
-   "source": "himalayas",
-   "titre": "Senior React Native Developer",
-   "entreprise": "Miratech",
-   "lieu": "Mexico",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote",
+   "source": "wwr",
+   "titre": "Regional Principal Analyst, Falcon Complete (Remote)",
+   "entreprise": "CrowdStrike",
+   "lieu": "USA Only",
    "zone": "autre",
    "type": "temps-plein",
    "categorie": "dev",
    "salaire": null,
    "tags": [
-    "Developer"
+    "Full-Stack Programming"
    ],
    "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/miratech/jobs/senior-react-native-developer-4149325557?utm_source=api"
-  },
-  {
-   "techs": [
-    "C#",
-    "Python",
-    "TypeScript"
-   ],
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/draftkings-inc/jobs/software-engineer-december-2026-grads",
-   "source": "himalayas",
-   "titre": "Software Engineer (December 2026 Grads)",
-   "entreprise": "DraftKings Inc.",
-   "lieu": "Canada",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/draftkings-inc/jobs/software-engineer-december-2026-grads?utm_source=api"
-  },
-  {
-   "techs": [
-    "GCP"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/pax8/jobs/manager-of-solutions-consulting-google",
-   "source": "himalayas",
-   "titre": "Manager of Solutions Consulting, Google",
-   "entreprise": "Pax8",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "160k USD /an",
-   "tags": [
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/pax8/jobs/manager-of-solutions-consulting-google?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/outsourced-staff/jobs/recruitment-client-support-virtual-assistant-ndis-aged-care",
-   "source": "himalayas",
-   "titre": "Recruitment & Client Support Virtual Assistant (NDIS/ Aged Care)",
-   "entreprise": "Outsourced Staff",
-   "lieu": "Philippines",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Human Resources",
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/outsourced-staff/jobs/recruitment-client-support-virtual-assistant-ndis-aged-care?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/blackrainbow/jobs/senior-support-engineer-remote-uk",
-   "source": "himalayas",
-   "titre": "Senior Support Engineer (Remote-UK)",
-   "entreprise": "BlackRainbow",
-   "lieu": "United Kingdom",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": "38k GBP /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/blackrainbow/jobs/senior-support-engineer-remote-uk?utm_source=api"
-  },
-  {
-   "techs": [
-    "AWS"
-   ],
-   "experience": 12,
-   "id": "himalayas-https://himalayas.app/companies/accenture/jobs/aws-cloud-native-solution-architect-associate-director",
-   "source": "himalayas",
-   "titre": "AWS Cloud-Native Solution Architect Associate Director",
-   "entreprise": "Accenture",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "139k–434k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/accenture/jobs/aws-cloud-native-solution-architect-associate-director?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/emc-insurance/jobs/claims-specialist",
-   "source": "himalayas",
-   "titre": "Claims Specialist",
-   "entreprise": "EMC Insurance",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "86k–130k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/emc-insurance/jobs/claims-specialist?utm_source=api"
-  },
-  {
-   "horsTeletravail": true,
-   "id": "himalayas-https://himalayas.app/companies/revolution-medicines/jobs/director-regulatory-affairs-labeling",
-   "source": "himalayas",
-   "titre": "Director, Regulatory Affairs Labeling",
-   "entreprise": "Revolution Medicines",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "201k–251k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/revolution-medicines/jobs/director-regulatory-affairs-labeling?utm_source=api"
-  },
-  {
-   "experience": 4,
-   "id": "himalayas-https://himalayas.app/companies/fortrea/jobs/pricing-and-data-analyst",
-   "source": "himalayas",
-   "titre": "Pricing and Data Analyst",
-   "entreprise": "Fortrea",
-   "lieu": "United Kingdom",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": null,
-   "tags": [
-    "Data Science",
-    "Finance"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/fortrea/jobs/pricing-and-data-analyst?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/cummins/jobs/trade-operations-manager-apac",
-   "source": "himalayas",
-   "titre": "Trade Operations Manager - APAC",
-   "entreprise": "Cummins",
-   "lieu": "Singapore",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/cummins/jobs/trade-operations-manager-apac?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/danaher/jobs/emea-payroll-specialist-austria",
-   "source": "himalayas",
-   "titre": "EMEA Payroll Specialist (Austria)",
-   "entreprise": "Danaher",
-   "lieu": "Austria, Hungary, Poland",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": "66k–75k EUR /an",
-   "tags": [
-    "Finance"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/danaher/jobs/emea-payroll-specialist-austria?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/trend-micro/jobs/global-compensation-lead",
-   "source": "himalayas",
-   "titre": "Global Compensation Lead",
-   "entreprise": "Trend Micro",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/trend-micro/jobs/global-compensation-lead?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/wp-engine/jobs/senior-financial-analyst",
-   "source": "himalayas",
-   "titre": "Senior Financial Analyst",
-   "entreprise": "WP Engine",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": "88k–121k USD /an",
-   "tags": [
-    "Finance"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/wp-engine/jobs/senior-financial-analyst?utm_source=api"
-  },
-  {
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/scalejet/jobs/senior-operations-manager-5112233299",
-   "source": "himalayas",
-   "titre": "Senior Operations Manager",
-   "entreprise": "ScaleJet",
-   "lieu": "Portugal",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [
-    "Operations"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/scalejet/jobs/senior-operations-manager-5112233299?utm_source=api"
-  },
-  {
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer",
-   "source": "himalayas",
-   "titre": "Motion Designer",
-   "entreprise": "TygrLabs Ltd",
-   "lieu": "Bangladesh",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "design",
-   "salaire": null,
-   "tags": [
-    "Content Creator"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/job-duck/jobs/v104-intake-and-customer-service-coordinator-i",
-   "source": "himalayas",
-   "titre": "V104- Intake and Customer Service Coordinator I",
-   "entreprise": "Job Duck",
-   "lieu": "Argentina, Chile, Colombia, El Salvador, Honduras, Mexico, Peru, United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": "1k USD /mois",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/job-duck/jobs/v104-intake-and-customer-service-coordinator-i?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/pfizer/jobs/senior-manager-rare-cardiac-field-enablement",
-   "source": "himalayas",
-   "titre": "Senior Manager, Rare Cardiac Field Enablement",
-   "entreprise": "Pfizer",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "124k–207k USD /an",
-   "tags": [
-    "Marketing"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/pfizer/jobs/senior-manager-rare-cardiac-field-enablement?utm_source=api"
-  },
-  {
-   "techs": [
-    "SQL",
-    "PostgreSQL",
-    "SQL Server",
-    "Kubernetes",
-    "AWS",
-    "Azure",
-    "GCP"
-   ],
-   "experience": 8,
-   "id": "himalayas-https://himalayas.app/companies/turnkey-consulting/jobs/pam-architect",
-   "source": "himalayas",
-   "titre": "PAM Architect",
-   "entreprise": "Turnkey Consulting",
-   "lieu": "Malaysia",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/turnkey-consulting/jobs/pam-architect?utm_source=api"
-  },
-  {
-   "experience": 10,
-   "id": "himalayas-https://himalayas.app/companies/access-offshoring-philippines-inc/jobs/senior-civil-estimator-ao-14235",
-   "source": "himalayas",
-   "titre": "Senior Civil Estimator (AO-14235)",
-   "entreprise": "Access Offshoring Philippines, Inc.",
-   "lieu": "Philippines",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/access-offshoring-philippines-inc/jobs/senior-civil-estimator-ao-14235?utm_source=api"
-  },
-  {
-   "techs": [
-    "Vue.js",
-    "PHP",
-    "Laravel",
-    "MongoDB",
-    "Docker",
-    "Kubernetes"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/sigl-io/jobs/senior-php-engineer-929174981",
-   "source": "himalayas",
-   "titre": "Senior PHP Engineer",
-   "entreprise": "SIGL:IO",
-   "lieu": "Pakistan",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/sigl-io/jobs/senior-php-engineer-929174981?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/greystar/jobs/senior-director-ai-enablement",
-   "source": "himalayas",
-   "titre": "Senior Director - AI Enablement",
-   "entreprise": "Greystar",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "180k–200k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/greystar/jobs/senior-director-ai-enablement?utm_source=api"
-  },
-  {
-   "techs": [
-    "Java",
-    "Python",
-    "SQL"
-   ],
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/jonas-software/jobs/strategic-interchange-analyst",
-   "source": "himalayas",
-   "titre": "Strategic Interchange Analyst",
-   "entreprise": "Jonas Software",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/jonas-software/jobs/strategic-interchange-analyst?utm_source=api"
-  },
-  {
-   "experience": 6,
-   "id": "himalayas-https://himalayas.app/companies/children-s-funding-project/jobs/senior-manager-local-fiscal-mapping-strategic-advising",
-   "source": "himalayas",
-   "titre": "Senior Manager, Local Fiscal Mapping & Strategic Advising",
-   "entreprise": "Children's Funding Project",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "90k–101k USD /an",
-   "tags": [
-    "Product",
-    "Operations",
-    "Data Science"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/children-s-funding-project/jobs/senior-manager-local-fiscal-mapping-strategic-advising?utm_source=api"
-  },
-  {
-   "horsTeletravail": true,
-   "experience": 10,
-   "id": "himalayas-https://himalayas.app/companies/gartner/jobs/director-analyst-privacy-and-information-governance-expert-remote-united-kingd",
-   "source": "himalayas",
-   "titre": "Director Analyst, Privacy and Information Governance Expert (Remote United Kingd",
-   "entreprise": "Gartner",
-   "lieu": "United Kingdom",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/gartner/jobs/director-analyst-privacy-and-information-governance-expert-remote-united-kingd?utm_source=api"
-  },
-  {
-   "experience": 20,
-   "id": "himalayas-https://himalayas.app/companies/kbr-inc/jobs/director-of-business-integrity",
-   "source": "himalayas",
-   "titre": "Director of Business Integrity",
-   "entreprise": "KBR, Inc.",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/kbr-inc/jobs/director-of-business-integrity?utm_source=api"
-  },
-  {
-   "techs": [
-    "Azure"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/dl-remote/jobs/microsoft-compliance-purview-consultant",
-   "source": "himalayas",
-   "titre": "Microsoft Compliance / Purview Consultant",
-   "entreprise": "DL Remote",
-   "lieu": "Austria",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "100k EUR /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/dl-remote/jobs/microsoft-compliance-purview-consultant?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/e-careers-limited/jobs/hr-assistant-6885453459",
-   "source": "himalayas",
-   "titre": "HR Assistant",
-   "entreprise": "e-Careers Limited",
-   "lieu": "United Kingdom",
-   "zone": "europe",
-   "type": "stage",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [
-    "Human Resources"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/e-careers-limited/jobs/hr-assistant-6885453459?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/carringtonwholesale/jobs/remote-specialist-loan-servicing-special-loans",
-   "source": "himalayas",
-   "titre": "REMOTE- Specialist, Loan Servicing Special Loans",
-   "entreprise": "Carrington",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "19–23 USD /h",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/carringtonwholesale/jobs/remote-specialist-loan-servicing-special-loans?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/jonas-software/jobs/customer-services-representative-i-part-time-25-hours",
-   "source": "himalayas",
-   "titre": "Customer Services Representative I ( Part- time: 25 hours)",
-   "entreprise": "Jonas Software",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-partiel",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/jonas-software/jobs/customer-services-representative-i-part-time-25-hours?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/tuniboat/jobs/ui-ux-designer-stage-pfe",
-   "source": "himalayas",
-   "titre": "UI/UX Designer [Stage PFE]",
-   "entreprise": "Tuniboat",
-   "lieu": "Tunisia",
-   "zone": "autre",
-   "type": "stage",
-   "categorie": "design",
-   "salaire": null,
-   "tags": [
-    "Design"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/tuniboat/jobs/ui-ux-designer-stage-pfe?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/purpleglow/jobs/social-media-specialist",
-   "source": "himalayas",
-   "titre": "Social Media Specialist",
-   "entreprise": "Purpleglow",
-   "lieu": "South Africa",
-   "zone": "afrique",
-   "type": "contrat",
-   "categorie": "marketing",
-   "salaire": null,
-   "tags": [
-    "Marketing",
-    "Content Creator"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/purpleglow/jobs/social-media-specialist?utm_source=api"
-  },
-  {
-   "horsTeletravail": true,
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/compugroup-medical/jobs/marketing-specialist",
-   "source": "himalayas",
-   "titre": "Marketing Specialist",
-   "entreprise": "CompuGroup Medical",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "marketing",
-   "salaire": null,
-   "tags": [
-    "Marketing",
-    "Content Creator"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/compugroup-medical/jobs/marketing-specialist?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/kamayi/jobs/accountant",
-   "source": "himalayas",
-   "titre": "Accountant",
-   "entreprise": "Kamayi",
-   "lieu": "Pakistan",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [
-    "Finance"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/kamayi/jobs/accountant?utm_source=api"
-  },
-  {
-   "techs": [
-    "Azure"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/prometric/jobs/product-owner",
-   "source": "himalayas",
-   "titre": "Product Owner",
-   "entreprise": "Prometric",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "80k–90k USD /an",
-   "tags": [
-    "Product",
-    "Data Science"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/prometric/jobs/product-owner?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/property-leads/jobs/account-manager",
-   "source": "himalayas",
-   "titre": "Account Manager",
-   "entreprise": "Property Leads",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "60k–70k USD /an",
-   "tags": [
-    "Sales",
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/property-leads/jobs/account-manager?utm_source=api"
-  },
-  {
-   "techs": [
-    "Azure"
-   ],
-   "experience": 15,
-   "id": "himalayas-https://himalayas.app/companies/harris/jobs/principal-cloud-solutions-architect-azure-cloud",
-   "source": "himalayas",
-   "titre": "Principal Cloud Solutions Architect – Azure Cloud",
-   "entreprise": "Harris",
-   "lieu": "Canada, United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "140k–170k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/harris/jobs/principal-cloud-solutions-architect-azure-cloud?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/agilent-technologies/jobs/global-senior-sales-incentive-compensation-design-analyst",
-   "source": "himalayas",
-   "titre": "Global Senior Sales Incentive Compensation Design Analyst",
-   "entreprise": "Agilent Technologies",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "144k–270k USD /an",
-   "tags": [
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/agilent-technologies/jobs/global-senior-sales-incentive-compensation-design-analyst?utm_source=api"
-  },
-  {
-   "techs": [
-    "Python",
-    "Node.js"
-   ],
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/analogue-insight/jobs/custom-layout-engineer-graduate",
-   "source": "himalayas",
-   "titre": "Custom Layout Engineer (Graduate)",
-   "entreprise": "Analogue Insight",
-   "lieu": "United Kingdom",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/analogue-insight/jobs/custom-layout-engineer-graduate?utm_source=api"
-  },
-  {
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/lennar/jobs/mortgage-regulatory-specialist-2765819537",
-   "source": "himalayas",
-   "titre": "Mortgage - Regulatory Specialist",
-   "entreprise": "Lennar",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/lennar/jobs/mortgage-regulatory-specialist-2765819537?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/pro-coffee-gear/jobs/head-of-customer-success-9312222390",
-   "source": "himalayas",
-   "titre": "Head of Customer Success",
-   "entreprise": "Pro Coffee Gear",
-   "lieu": "Pakistan",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Customer Service"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/pro-coffee-gear/jobs/head-of-customer-success-9312222390?utm_source=api"
-  },
-  {
-   "techs": [
-    ".NET",
-    "C#",
-    "SQL",
-    "Docker",
-    "Kubernetes",
-    "Azure"
-   ],
-   "experience": 4,
-   "id": "himalayas-https://himalayas.app/companies/us-lbm/jobs/us-lbm-lead-software-engineer-application-development-pricing",
-   "source": "himalayas",
-   "titre": "US LBM Lead Software Engineer – Application Development (Pricing)",
-   "entreprise": "US LBM",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/us-lbm/jobs/us-lbm-lead-software-engineer-application-development-pricing?utm_source=api"
-  },
-  {
-   "techs": [
-    "Kubernetes"
-   ],
-   "experience": 9,
-   "id": "himalayas-https://himalayas.app/companies/cisco/jobs/staff-solutions-engineer-fdse-splunk",
-   "source": "himalayas",
-   "titre": "Staff Solutions Engineer - FDSE - Splunk",
-   "entreprise": "Cisco",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "266k–343k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/cisco/jobs/staff-solutions-engineer-fdse-splunk?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/coca-colacompany/jobs/senior-director-franchise-operations-fsop-all-brands-ccbne-abarta",
-   "source": "himalayas",
-   "titre": "Senior Director, Franchise Operations - FSOP (All Brands), CCBNE & ABARTA",
-   "entreprise": "Coca-Cola Company",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "174k–204k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/coca-colacompany/jobs/senior-director-franchise-operations-fsop-all-brands-ccbne-abarta?utm_source=api"
-  },
-  {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/fouress-synergy/jobs/polymers-sales-manager-latam",
-   "source": "himalayas",
-   "titre": "Polymers Sales Manager -LATAM",
-   "entreprise": "FOURESS SYNERGY",
-   "lieu": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": null,
-   "tags": [
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/fouress-synergy/jobs/polymers-sales-manager-latam?utm_source=api"
-  },
-  {
-   "experience": 7,
-   "id": "himalayas-https://himalayas.app/companies/wolfsdorf-rosenthal-llp/jobs/senior-associate-immigration-attorney-universities-hospitals-tech-100-remo",
-   "source": "himalayas",
-   "titre": "Senior Associate Immigration Attorney: Universities, Hospitals, Tech - 100% Remo",
-   "entreprise": "Wolfsdorf Rosenthal LLP",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "170k–200k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/wolfsdorf-rosenthal-llp/jobs/senior-associate-immigration-attorney-universities-hospitals-tech-100-remo?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/mattr-global/jobs/sales-development-representative-australia",
-   "source": "himalayas",
-   "titre": "Sales Development Representative - Australia",
-   "entreprise": "MATTR",
-   "lieu": "Australia",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": null,
-   "tags": [
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/mattr-global/jobs/sales-development-representative-australia?utm_source=api"
-  },
-  {
-   "techs": [
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "Azure",
-    "GCP"
-   ],
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/steampunk/jobs/software-engineer",
-   "source": "himalayas",
-   "titre": "Software Engineer",
-   "entreprise": "Steampunk",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "85k–170k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/steampunk/jobs/software-engineer?utm_source=api"
-  },
-  {
-   "techs": [
-    "Java",
-    "Python",
-    "Go"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/canva/jobs/enterprise-security-manager",
-   "source": "himalayas",
-   "titre": "Enterprise Security Manager",
-   "entreprise": "Canva",
-   "lieu": "New Zealand",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/canva/jobs/enterprise-security-manager?utm_source=api"
-  },
-  {
-   "techs": [
-    "Swift"
-   ],
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/mashreq/jobs/senior-associate-compliance-operations-mgn-pak-compliance-ops-rcu-operations",
-   "source": "himalayas",
-   "titre": "Senior Associate, Compliance Operations.MGN Pak - Compliance Ops -RCU.Operations",
-   "entreprise": "Mashreq",
-   "lieu": "Pakistan",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/mashreq/jobs/senior-associate-compliance-operations-mgn-pak-compliance-ops-rcu-operations?utm_source=api"
-  },
-  {
-   "techs": [
-    "SQL"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/centene-corporation/jobs/outcomes-analyst-iv",
-   "source": "himalayas",
-   "titre": "Outcomes Analyst IV",
-   "entreprise": "Centene Corporation",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": "88k–158k USD /an",
-   "tags": [
-    "Data Science",
-    "Healthcare"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/centene-corporation/jobs/outcomes-analyst-iv?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/languageline-solutions/jobs/uzbek-interpreter",
-   "source": "himalayas",
-   "titre": "Uzbek Interpreter",
-   "entreprise": "LanguageLine Solutions",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "design",
-   "salaire": "18–21 USD /h",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/languageline-solutions/jobs/uzbek-interpreter?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/mortenson/jobs/senior-manager-of-lean",
-   "source": "himalayas",
-   "titre": "Senior Manager of Lean",
-   "entreprise": "Mortenson",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": "145k–217k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/mortenson/jobs/senior-manager-of-lean?utm_source=api"
-  },
-  {
-   "experience": 7,
-   "id": "himalayas-https://himalayas.app/companies/plug-power/jobs/director-executive-accounts",
-   "source": "himalayas",
-   "titre": "Director, Executive Accounts",
-   "entreprise": "Plug Power",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "138k–220k USD /an",
-   "tags": [
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/plug-power/jobs/director-executive-accounts?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/storm-ideas/jobs/video-editor",
-   "source": "himalayas",
-   "titre": "Video Editor",
-   "entreprise": "Storm Ideas",
-   "lieu": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-   "zone": "autre",
-   "type": "contrat",
-   "categorie": "design",
-   "salaire": "25k USD /an",
-   "tags": [
-    "Content Creator"
-   ],
-   "date": "2026-11-02",
-   "expire": "2026-12-25",
-   "url": "https://himalayas.app/companies/storm-ideas/jobs/video-editor?utm_source=api"
-  },
-  {
-   "techs": [
-    "Kubernetes"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/nvidia/jobs/senior-solution-architect-ai-infrastructure",
-   "source": "himalayas",
-   "titre": "Senior Solution Architect, AI Infrastructure",
-   "entreprise": "NVIDIA",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "184k–357k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/nvidia/jobs/senior-solution-architect-ai-infrastructure?utm_source=api"
-  },
-  {
-   "experience": 3,
-   "id": "himalayas-https://himalayas.app/companies/first-american/jobs/commercial-title-officer-remote-usa",
-   "source": "himalayas",
-   "titre": "Commercial Title Officer - Remote USA",
-   "entreprise": "First American",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "30.91–41.2 USD /h",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/first-american/jobs/commercial-title-officer-remote-usa?utm_source=api"
-  },
-  {
-   "techs": [
-    "C#",
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "React Native",
-    "Angular",
-    "SQL",
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "Azure",
-    "GCP"
-   ],
-   "experience": 8,
-   "id": "himalayas-https://himalayas.app/companies/wellsky/jobs/staff-software-engineer-net",
-   "source": "himalayas",
-   "titre": "Staff Software Engineer - .NET",
-   "entreprise": "WellSky",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/wellsky/jobs/staff-software-engineer-net?utm_source=api"
-  },
-  {
-   "techs": [
-    "C#",
-    "Python",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "SQL",
-    "AWS",
-    "Azure",
-    "GCP"
-   ],
-   "experience": 2,
-   "id": "himalayas-https://himalayas.app/companies/general-dynamics-information-technology/jobs/power-automation-developer",
-   "source": "himalayas",
-   "titre": "Power Automation Developer",
-   "entreprise": "General Dynamics Information Technology",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": "75k–101k USD /an",
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/power-automation-developer?utm_source=api"
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote"
   },
   {
    "experience": 1,
-   "id": "himalayas-https://himalayas.app/companies/wilsonhcg-emea-ltd/jobs/treasury-clerk-philippines",
-   "source": "himalayas",
-   "titre": "Treasury Clerk - Philippines",
-   "entreprise": "WilsonHCG EMEA Ltd",
-   "lieu": "Philippines",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/wilsonhcg-emea-ltd/jobs/treasury-clerk-philippines?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/draftkings-inc/jobs/associate-market-operations",
-   "source": "himalayas",
-   "titre": "Associate, Market Operations",
-   "entreprise": "DraftKings Inc.",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": "62k–77k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/draftkings-inc/jobs/associate-market-operations?utm_source=api"
-  },
-  {
-   "experience": 7,
-   "id": "himalayas-https://himalayas.app/companies/centene-corporation/jobs/director-application-development-engineering",
-   "source": "himalayas",
-   "titre": "Director, Application Development Engineering",
-   "entreprise": "Centene Corporation",
-   "lieu": "United States",
+   "id": "wwr-https://weworkremotely.com/remote-jobs/american-straight-a-academy-computer-science-instructor",
+   "source": "wwr",
+   "titre": "Computer Science Instructor",
+   "entreprise": "American Straight A Academy",
+   "lieu": "USA Only",
    "zone": "autre",
    "type": "temps-plein",
    "categorie": "dev",
-   "salaire": "146k–270k USD /an",
+   "salaire": null,
    "tags": [
-    "Developer"
+    "Full-Stack Programming"
    ],
    "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/centene-corporation/jobs/director-application-development-engineering?utm_source=api"
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/american-straight-a-academy-computer-science-instructor"
   },
   {
-   "experience": 5,
-   "id": "himalayas-https://himalayas.app/companies/avaya/jobs/cx-named-account-manager-thailand-virtual-th",
-   "source": "himalayas",
-   "titre": "CX Named Account Manager | Thailand (Virtual, TH)",
-   "entreprise": "Avaya",
-   "lieu": "Thailand",
+   "experience": 2,
+   "id": "wwr-https://weworkremotely.com/remote-jobs/ninja-partners-llc-customer-service-representative-ii-seasonal",
+   "source": "wwr",
+   "titre": "Customer Service Representative II (Seasonal)",
+   "entreprise": "Ninja Partners LLC",
+   "lieu": "USA Only",
    "zone": "autre",
+   "type": "contrat",
+   "categorie": "support",
+   "salaire": null,
+   "tags": [
+    "Customer Support"
+   ],
+   "date": "2026-11-02",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/ninja-partners-llc-customer-service-representative-ii-seasonal"
+  },
+  {
+   "experience": 4,
+   "id": "wwr-https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-specialist",
+   "source": "wwr",
+   "titre": "Marketing Specialist",
+   "entreprise": "Forward Push Law Firm Marketing",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
    "type": "temps-plein",
    "categorie": "ventes",
    "salaire": null,
    "tags": [
-    "Customer Service",
-    "Sales"
+    "Sales and Marketing"
    ],
    "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/avaya/jobs/cx-named-account-manager-thailand-virtual-th?utm_source=api"
-  },
-  {
-   "horsTeletravail": true,
-   "id": "himalayas-https://himalayas.app/companies/msd/jobs/associate-director-us-oncology-marketing-patient-channel-strategist",
-   "source": "himalayas",
-   "titre": "Associate Director US Oncology Marketing Patient Channel Strategist",
-   "entreprise": "MSD",
-   "lieu": "Puerto Rico, United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "marketing",
-   "salaire": "157k–247k USD /an",
-   "tags": [],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/msd/jobs/associate-director-us-oncology-marketing-patient-channel-strategist?utm_source=api"
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-specialist"
   },
   {
    "techs": [
-    "SQL"
+    "React",
+    "Ruby",
+    "PostgreSQL",
+    "AWS"
    ],
-   "experience": 4,
-   "id": "himalayas-https://himalayas.app/companies/bluecross-blueshield-of-tennessee/jobs/reporting-solutions-consultant-i",
-   "source": "himalayas",
-   "titre": "Reporting Solutions Consultant I",
-   "entreprise": "BlueCross BlueShield of Tennessee",
-   "lieu": "United States",
-   "zone": "autre",
+   "experience": 5,
+   "id": "wwr-https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+   "source": "wwr",
+   "titre": "Senior Software Engineer",
+   "entreprise": "WelcomeHome Software",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
    "type": "temps-plein",
-   "categorie": "data",
+   "categorie": "dev",
    "salaire": null,
    "tags": [
-    "Data Science"
+    "Full-Stack Programming"
    ],
    "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/bluecross-blueshield-of-tennessee/jobs/reporting-solutions-consultant-i?utm_source=api"
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer"
   },
   {
-   "experience": 6,
-   "id": "himalayas-https://himalayas.app/companies/concentrix/jobs/specialty-seller-collections-practice",
-   "source": "himalayas",
-   "titre": "Specialty Seller, Collections Practice",
-   "entreprise": "Concentrix",
-   "lieu": "United States",
+   "experience": 1,
+   "id": "wwr-https://weworkremotely.com/remote-jobs/resolv-global-seasonal-customer-care-representative",
+   "source": "wwr",
+   "titre": "Seasonal Customer Care Representative",
+   "entreprise": "Resolv.Global",
+   "lieu": "North America Only",
    "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": "159k–172k USD /an",
-   "tags": [
-    "Sales"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/concentrix/jobs/specialty-seller-collections-practice?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/corrohealth/jobs/medicare-specialist-9184701726",
-   "source": "himalayas",
-   "titre": "Medicare Specialist",
-   "entreprise": "CorroHealth",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "autres",
+   "type": "contrat",
+   "categorie": "support",
    "salaire": null,
    "tags": [
-    "Healthcare"
+    "Customer Support"
    ],
    "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/corrohealth/jobs/medicare-specialist-9184701726?utm_source=api"
-  },
-  {
-   "experience": 15,
-   "id": "himalayas-https://himalayas.app/companies/general-dynamics-information-technology/jobs/portfolio-manager",
-   "source": "himalayas",
-   "titre": "Portfolio Manager",
-   "entreprise": "General Dynamics Information Technology",
-   "lieu": "United States",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": "153k–207k USD /an",
-   "tags": [
-    "Operations",
-    "Product"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/portfolio-manager?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/neolytix/jobs/medical-virtual-assistant-spanish-bilingual",
-   "source": "himalayas",
-   "titre": "Medical Virtual Assistant - Spanish Bilingual",
-   "entreprise": "Neolytix",
-   "lieu": "Venezuela",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "finance",
-   "salaire": null,
-   "tags": [
-    "Healthcare",
-    "Human Resources"
-   ],
-   "date": "2026-11-02",
-   "expire": "2027-01-01",
-   "url": "https://himalayas.app/companies/neolytix/jobs/medical-virtual-assistant-spanish-bilingual?utm_source=api"
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/resolv-global-seasonal-customer-care-representative"
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/lotaro-head-of-lead-generation-remote-m-w-d",
@@ -2406,112 +2676,6 @@
    "date": "2026-11-01",
    "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609"
-  },
-  {
-   "techs": [
-    "Python"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
-   "source": "himalayas",
-   "titre": "ML Engineer (MSc. or PhD)",
-   "entreprise": "micro1",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "contrat",
-   "categorie": "data",
-   "salaire": null,
-   "tags": [
-    "Data Science"
-   ],
-   "date": "2026-11-01",
-   "expire": "2026-12-15",
-   "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api"
-  },
-  {
-   "techs": [
-    "C#"
-   ],
-   "id": "himalayas-https://himalayas.app/companies/micro1/jobs/game-developer",
-   "source": "himalayas",
-   "titre": "Game Developer",
-   "entreprise": "micro1",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "contrat",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-01",
-   "expire": "2026-12-28",
-   "url": "https://himalayas.app/companies/micro1/jobs/game-developer?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/support-tech-llc/jobs/technical-project-manager-low-voltage-cctv-and-access-control",
-   "source": "himalayas",
-   "titre": "Technical Project Manager- Low Voltage, CCTV and Access Control",
-   "entreprise": "Support Tech LLC",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Operations"
-   ],
-   "date": "2026-11-01",
-   "expire": "2026-12-31",
-   "url": "https://himalayas.app/companies/support-tech-llc/jobs/technical-project-manager-low-voltage-cctv-and-access-control?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/g2i/jobs/remote-developer-g2i-talent-pool-8240194431",
-   "source": "himalayas",
-   "titre": "Remote Developer | G2i Talent Pool",
-   "entreprise": "G2i",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-01",
-   "expire": "2026-12-31",
-   "url": "https://himalayas.app/companies/g2i/jobs/remote-developer-g2i-talent-pool-8240194431?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/g2i/jobs/join-the-g2i-talent-pool-remote",
-   "source": "himalayas",
-   "titre": "Join the G2i Talent Pool - Remote",
-   "entreprise": "G2i",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [],
-   "date": "2026-11-01",
-   "expire": "2026-12-31",
-   "url": "https://himalayas.app/companies/g2i/jobs/join-the-g2i-talent-pool-remote?utm_source=api"
-  },
-  {
-   "id": "himalayas-https://himalayas.app/companies/g2i/jobs/backend-developer-g2i-talent-pool-4846950038",
-   "source": "himalayas",
-   "titre": "Backend Developer - G2i Talent Pool",
-   "entreprise": "G2i",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Developer"
-   ],
-   "date": "2026-11-01",
-   "expire": "2026-12-31",
-   "url": "https://himalayas.app/companies/g2i/jobs/backend-developer-g2i-talent-pool-4846950038?utm_source=api"
   },
   {
    "experience": 15,
@@ -2889,32 +3053,6 @@
    "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334"
   },
   {
-   "techs": [
-    "Java",
-    "Python",
-    "SQL",
-    "Docker",
-    "Kubernetes",
-    "AWS"
-   ],
-   "experience": 5,
-   "id": "wwr-https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-   "source": "wwr",
-   "titre": "Senior ML Engineer (R14284)",
-   "entreprise": "Oportun",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": null,
-   "tags": [
-    "Full-Stack Programming"
-   ],
-   "date": "2026-11-01",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284"
-  },
-  {
    "id": "remoteok-1137608",
    "source": "remoteok",
    "titre": "Scientific Account Executive",
@@ -2934,44 +3072,6 @@
    "date": "2026-10-31",
    "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608"
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/anduril-industries-senior-ta-operations-specialist",
-   "source": "wwr",
-   "titre": "Senior TA Operations Specialist",
-   "entreprise": "Anduril Industries",
-   "lieu": "USA Only",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Full-Stack Programming"
-   ],
-   "date": "2026-10-31",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/anduril-industries-senior-ta-operations-specialist"
-  },
-  {
-   "techs": [
-    "SQL",
-    "SQL Server"
-   ],
-   "id": "wwr-https://weworkremotely.com/remote-jobs/teksynap-application-database-administrator-w-secret-clearance",
-   "source": "wwr",
-   "titre": "Application Database Administrator w/Secret Clearance",
-   "entreprise": "TekSynap",
-   "lieu": "USA Only",
-   "zone": "autre",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Full-Stack Programming"
-   ],
-   "date": "2026-10-31",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/teksynap-application-database-administrator-w-secret-clearance"
   },
   {
    "experience": 1,
@@ -3032,66 +3132,6 @@
    "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-p2p"
   },
   {
-   "experience": 3,
-   "id": "wwr-https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
-   "source": "wwr",
-   "titre": "Account Executive, NAS Product Specialist",
-   "entreprise": "Rubrik Job Board",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": null,
-   "tags": [
-    "Sales and Marketing"
-   ],
-   "date": "2026-10-31",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist"
-  },
-  {
-   "techs": [
-    "SQL"
-   ],
-   "experience": 4,
-   "id": "wwr-https://weworkremotely.com/remote-jobs/coinbase-capacity-planning-lead",
-   "source": "wwr",
-   "titre": "Capacity Planning Lead",
-   "entreprise": "Coinbase",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "autres",
-   "salaire": null,
-   "tags": [
-    "All Other Remote"
-   ],
-   "date": "2026-10-31",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/coinbase-capacity-planning-lead"
-  },
-  {
-   "techs": [
-    "Node.js",
-    "Kubernetes"
-   ],
-   "id": "wwr-https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
-   "source": "wwr",
-   "titre": "Distributed Systems Engineer",
-   "entreprise": "Ritual",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    "Full-Stack Programming"
-   ],
-   "date": "2026-10-31",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer"
-  },
-  {
    "experience": 2,
    "id": "wwr-https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-livechat-turkish-required",
    "source": "wwr",
@@ -3108,24 +3148,6 @@
    "date": "2026-10-31",
    "expire": null,
    "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-livechat-turkish-required"
-  },
-  {
-   "experience": 5,
-   "id": "wwr-https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-north-central",
-   "source": "wwr",
-   "titre": "AI Security Sales Executive, North Central",
-   "entreprise": "Abnormal",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "ventes",
-   "salaire": null,
-   "tags": [
-    "Sales and Marketing"
-   ],
-   "date": "2026-10-31",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-north-central"
   },
   {
    "techs": [
@@ -3421,25 +3443,6 @@
    "url": "https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist"
   },
   {
-   "horsTeletravail": true,
-   "experience": 1,
-   "id": "wwr-https://weworkremotely.com/remote-jobs/wrike-account-development-manager-1-evening-shift-16-30-01-00-cest",
-   "source": "wwr",
-   "titre": "Account Development Manager 1 -Evening shift (16:30 - 01:00) CEST",
-   "entreprise": "Wrike",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Customer Support"
-   ],
-   "date": "2026-10-30",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/wrike-account-development-manager-1-evening-shift-16-30-01-00-cest"
-  },
-  {
    "techs": [
     "Python",
     "AWS",
@@ -3461,29 +3464,6 @@
    "date": "2026-10-30",
    "expire": null,
    "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer"
-  },
-  {
-   "techs": [
-    "Python",
-    "SQL",
-    "AWS"
-   ],
-   "experience": 10,
-   "id": "wwr-https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
-   "source": "wwr",
-   "titre": "Sr. Manager, Data Engineering",
-   "entreprise": "Carrot",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "data",
-   "salaire": null,
-   "tags": [
-    "Management and Finance"
-   ],
-   "date": "2026-10-30",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering"
   },
   {
    "techs": [
@@ -3529,23 +3509,6 @@
    "date": "2026-10-30",
    "expire": null,
    "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria"
-  },
-  {
-   "id": "wwr-https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
-   "source": "wwr",
-   "titre": "Renewals Associate",
-   "entreprise": "Airtable",
-   "lieu": "Anywhere in the World",
-   "zone": "monde",
-   "type": "temps-plein",
-   "categorie": "support",
-   "salaire": null,
-   "tags": [
-    "Customer Support"
-   ],
-   "date": "2026-10-30",
-   "expire": null,
-   "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate"
   },
   {
    "horsTeletravail": true,
@@ -3866,8 +3829,8 @@
    "categorie": "dev",
    "salaire": "80k–100k USD /an",
    "tags": [
-    "other",
-    "front end"
+    "front end",
+    "other"
    ],
    "date": "2026-10-28",
    "expire": null,
@@ -4496,6 +4459,23 @@
    "date": "2026-10-23",
    "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559"
+  },
+  {
+   "id": "wwr-https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
+   "source": "wwr",
+   "titre": "Salesforce Lead - USA",
+   "entreprise": "Storyblok",
+   "lieu": "Anywhere in the World",
+   "zone": "monde",
+   "type": "temps-plein",
+   "categorie": "ventes",
+   "salaire": null,
+   "tags": [
+    "Management and Finance"
+   ],
+   "date": "2026-10-23",
+   "expire": null,
+   "url": "https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa"
   },
   {
    "techs": [
@@ -6067,74 +6047,6 @@
    "date": "2026-10-04",
    "expire": null,
    "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463"
-  },
-  {
-   "experience": 4,
-   "id": "remotive-1749306",
-   "source": "remotive",
-   "titre": "Freelance Copywriter",
-   "entreprise": "Coalition Technologies",
-   "lieu": "Worldwide",
-   "zone": "monde",
-   "type": "freelance",
-   "categorie": "redaction",
-   "salaire": "$20k -$35k",
-   "tags": [
-    "accounting",
-    "excel",
-    "research",
-    "data analysis",
-    "bookkeeping"
-   ],
-   "date": "2026-10-02",
-   "expire": null,
-   "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306"
-  },
-  {
-   "techs": [
-    ".NET",
-    "C#",
-    "Java",
-    "Spring",
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "React Native",
-    "Vue.js",
-    "Angular",
-    "Node.js",
-    "PHP",
-    "Laravel",
-    "Ruby",
-    "Swift",
-    "Flutter",
-    "Go",
-    "AWS",
-    "Azure",
-    "GCP",
-    "Firebase"
-   ],
-   "experience": 4,
-   "id": "remotive-2091133",
-   "source": "remotive",
-   "titre": "Senior React Full-stack Developer",
-   "entreprise": "Lemon.io",
-   "lieu": "Europe, USA, Canada, APAC",
-   "zone": "europe",
-   "type": "temps-plein",
-   "categorie": "dev",
-   "salaire": null,
-   "tags": [
-    ".Net",
-    "android",
-    "AWS",
-    "azure",
-    "C"
-   ],
-   "date": "2026-10-02",
-   "expire": null,
-   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133"
   },
   {
    "id": "wwr-https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
